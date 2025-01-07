@@ -1,0 +1,7 @@
+X00001
+Dany jest kod PESEL 5 4 0 6 2 5 0 2 6 2 2. Kod ten nalezy do:
+a. 132 kobiety urodzonej w XX wieku
+b. 262 mezczyzny urodzonego w XX wieku
+c. 262 kobiety urodzonej w obecnym stuleciu
+d. 132 mezczyzny urodzonego w obecnym stuleciu
+e. zadna z powyzszych odpowiedzi nie jest prawidlowa

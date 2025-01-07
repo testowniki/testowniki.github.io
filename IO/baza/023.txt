@@ -1,0 +1,5 @@
+X100
+W diagramie przeplywu danych skladnice danych sa dostepne:
+tylko dla procesow
+dla procesow i terminatorow
+tylko dla terminatorow

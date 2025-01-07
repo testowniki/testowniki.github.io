@@ -1,0 +1,5 @@
+X010
+Encja slaba:
+zawiera atrybuty puste
+jest powiazana z silna encja
+zawiera atrybuty kluczowe

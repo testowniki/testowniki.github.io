@@ -1,0 +1,3 @@
+X1
+modulacja 16 QAM, 3242 bodow. Jaka jest przepustowosc bitowa?
+a. Trzeba to bylo pomnozyc razy 4 i wychodzilo ok 13k, 16 = 2^4 stanow, czyli mozna zapisac na 4 bitach, czyli 1 bod to 4 b/s

@@ -1,0 +1,3 @@
+X1
+W jaki sposob model spiralny uwzglednia ryzyko realizacji projektu:
+Jest on oceniany w kazdej kolejnej fazie projektu

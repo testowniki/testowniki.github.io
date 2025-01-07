@@ -1,0 +1,3 @@
+X1
+Nalezy podac elementy diagramu aktywnosci, ktore pozwalaja na integracje kilku alternatywnych przeplywow (Control Flow lub Object Flow) wynikajacych z modelowania zagniezdzonych fragmentow typu opt lub alt przedstawionych na diagramie sekwencji.:
+Wezly decyzji i scalania, wezly rozdzielania i laczenia

@@ -1,0 +1,4 @@
+X11
+Nalezy podac definicje: stanu, przejscia. W definicji nalezy podac, co mozna zdefiniowac w ramach stanu i przejscia.:
+Stan jest okolicznoscia lub sytuacja w jakiej znajduje sie obiekt. Jest rezultatem poprzedniej aktywnosci, spelnia jakis warunek, jest okreslony przez wartosci wlasnych atrybutow i powiazan do innych zadan, wykonuje pewne czynnosci, czeka na jakies zdarzenie
+Przejscie (transition) jest zwiazkiem miedzy dwoma stanami, ktory wskazuje, ze np. obiekt znajdujacy sie w pierwszym stanie wykona pewne akcje (effect) i przejdzie do drugiego stanu, ilekroc zaistnieje okreslone zdarzenie (trigger) i beda spelnione okreslone warunki (guard).

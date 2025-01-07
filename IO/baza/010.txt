@@ -1,0 +1,5 @@
+X100
+Kiedy zachodzi akcja w diagramie przeplywu danych:
+W momencie zajscia zdarzenia
+Podczas spelnienia warunku przejscia
+Podczas trwania stanu

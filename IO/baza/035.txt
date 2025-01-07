@@ -1,0 +1,3 @@
+X1
+Encja slaba:
+Nie posiada atrybutu kluczowego, jest powiazana z co najmniej jedna encja silna

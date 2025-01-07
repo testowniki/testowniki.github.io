@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>PEA - Testownik online</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,700&family=Lato&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+    <script type="text/javascript" src="/skrypty/scriptXX.js"></script>
+    <script type="text/javascript" src="/skrypty/timer.js"></script>
+
+</head>
+<body>
+
+    <div style="text-align: center;">
+
+        <div id="menu">
+
+            <a href="/index.html" class="link"><h4>Testownik online z pytaniami na IO</h4></a>
+            <span id="numerPytania"></span><br>
+
+            Ilość powtórzeń każdego pytania:
+            <input type="text" id="ustawienie1" class="inputtext" value="2"><br>
+
+            Ilość dodatkowych powtórzeń przy złej odpowiedzi: 
+            <input type="text" id="ustawienie2" class="inputtext" value="1"><br>
+            Dobrych odpowiedzi: <span id="dobrychOdpowiedzi">0</span><br>
+            Złych odpowiedzi: <span id="zlychOdpowiedzi">0</span><br>
+            <span id="timer">00:00:00</span><br>
+            <input type="submit" id="przyciskStart" style="visibility:visible;" class="przycisk" value="Start" onclick="start(4), odNowa()">
+
+        </div>
+        
+        <div id="koniec">
+            <div class="blok" id="pozostalo" style="visibility: hidden;"></div>
+        
+            <div id="bledy" class="blok" style="visibility: hidden;"></div>
+
+            <div id="pytanie" class="blok" style="visibility: hidden;"></div>
+            <div id="odpowiedzi">
+
+            </div>
+            
+            <input type="submit" id="przyciskZaladuj" class="przycisk" value="Załaduj" onclick="zaladuj()">
+            <input type="submit" id="przyciskSprawdz" class="przycisk" value="Sprawdź" onclick="sprawdz()">
+            <input type="submit" id="przyciskDalej" class="przycisk2" value="Dalej" onclick="dalej()">
+        </div>
+    </div>
+    
+</body>
+</html>
+
+<!--
+
+|  |
+|--|
+|  |
+|--|
+|  |
+
+-->

@@ -1,0 +1,5 @@
+X001
+Specyfikacja procesu dotyczy:
+Diagramu ERD
+Diagramu STD
+Diagramu DFD

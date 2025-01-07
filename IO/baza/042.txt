@@ -1,0 +1,3 @@
+X1
+O czym mowi kryterium pokrycia instrukcji warunkowych w testach strukturalnych:
+Kazdy warunek instrukcji warunkowej zostal co najmniej raz spelniony oraz niespelniony

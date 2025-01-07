@@ -1,0 +1,3 @@
+X1
+Do czego sluzy specyfikacja procesow w diagramie DFD:
+specyfikacja jest opisem tego, co dzieje sie wewnatrz kazdego elementarnego procesu – definiuje co nalezy robic w celu przeksztalcenia wejsc w wyjscia

@@ -1,0 +1,11 @@
+X111111111
+Przedstaw wzorce wykorzystane do budowy wielowarstwowej aplikacji typu Enterprise: Warstwa klienta, Warstwa internetowa, Warstwa biznesowa, Warstwa integracji.:
+Wzorzec uniwersalny kreacyjny stosowany w kazdej z warstw: Fabryka obiektow
+Wzorzec uniwersalny strukturalny: Fasada – hermetyzacja logiki biznesowej
+Wzorzec uniwersalny czynnosciowy kreacyjny stosowany w kazdej z warstw: Strategia – zastosowanie polimorfizmu do wyboru algorytmu
+Wzorzec EE warstwy prezentacji: FrontController – scentralizowany punkt dostepowy do obslugi zadan w warstwie prezentacji (wywolanie metod z warstwy biznesowej np. za posrednictwem wzorca ApplicationService)
+Wzorzec EE warstwy prezentacji : Composite View - widok kompozytowy powinien miec strukture modulowa, zbudowana z komponentow prostych, ktore razem tworza zlozona strone sa zarzadzane niezaleznie (Client== ApplicationController).
+Wzorzec EE warstwy prezentacji : do zdalnego wywolania uslug z warstwy klienta w celu ukrycia zlozonosci zdalnej komunikacji z komponentem uslug biznesowych - BusinessDelegate (Client==ApplicationController)
+Wzorce EE warstwy biznesowej: SessionFacade, ApplicationService – udostepnianie i centralizacja logiki biznesowej kilku komponentow i uslug biznesowych
+Wzorce EE warstwy prezentacji, biznesowej, integracji: TransferObject - przesylanie danych miedzy warstwami aplikacji (zmniejszanie ruchu w sieci poprzez zmniejszanie liczby polaczen zdalnych lub zwiekszanie wydajnosci)
+Wzorzec EE warstwy integracji: DomainStore (ORM) – oddzielenie mechanizmow trwalosci od modelu obiektowego

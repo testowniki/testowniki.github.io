@@ -1,0 +1,3 @@
+X1
+Jak przedstawiana jest instrukcja if na diagramie sekwencji?
+Jest oznaczona ramka z opisem „opt”

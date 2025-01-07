@@ -1,0 +1,5 @@
+X111
+Wymien czynniki jakosci dla obszaru 'mobilnosc oprogramowania' w modelu McCalla:
+przenosnosc
+uniwersalnosc, mozliwosc powtornego wykorzystania
+otwartosc, latwosc wspoldzialania

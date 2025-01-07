@@ -1,0 +1,5 @@
+X100
+Wymien czynniki jakosci obszaru Przystosowanie do modyfikacji w modelu McCalla:
+Pielegnowalnosc, testowalnosc, elastycznosc
+Pielegnowalnosc, uniwersalnosc, testowalnosc
+Testowalnosc, poprawnosc, otwartosc

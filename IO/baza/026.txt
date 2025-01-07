@@ -1,0 +1,3 @@
+X1
+026. Podaj definicje diagramow przypadkow uzycia - zinterpretuj te definicje. Czy przypadki uzycia prezentuja strukture systemu czy jego zachowanie?:
+Diagramy przypadkow uzycia opisuja (modeluja) wymagania systemu. Przypadki uzycia (Use cases) oznaczaja funkcje udostepniane uzytkownikom lub innym zewnetrznym systemom (actors) przez projektowany system gdzie Actors - zewnetrzni uzytkownicy: ludzie, sprzet, system - rysowane jako figura lub klasa ze slowem kluczowym "<<Actor>>" . Prezentuje zachowanie systemu.

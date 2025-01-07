@@ -1,0 +1,6 @@
+X0010
+Na załączonym rysunku przedstawiono (w kolejności od góry): <img src="baza/004.png"> 
+zasady modulacji EFM stosowanej przy zapisie na dyskach CD
+zadna z pozostalych odpowiedzi nie jest poprawna
+probkowanie, dyskretyzacje oraz metode kodowania PCM, korzystajaca z powyzszych procesow
+dyskretyzacje, usrednianie oraz odtwarzanie sygnalu binarnego odbieranego w kanale transmisyjnym 

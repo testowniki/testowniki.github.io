@@ -1,0 +1,3 @@
+X1
+Co to jest cykl zycia projektu:
+sekwencja nastepujacych po sobie faz projektowych, zmierzajacych do wytworzenia oprogramowania

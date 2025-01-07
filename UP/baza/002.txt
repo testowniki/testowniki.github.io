@@ -1,0 +1,6 @@
+X0100
+Stosowane w kartach mikropoc. protokoly T0 i T1 pozwalaja wykrywac i sygnalizowac 	bledy. Roznica pomiedzy tymi protokolami polega na tym iz:
+A. w T0 do kontroli wykrywania i sygnalizacji bledow korzysta my z quardtime, natomiast w T1 badajac stan Vpp stykow karty
+B. W T0 kontrola poprawnosci przesylania pojedynczych bajtow zas w T1 dodatkowo w ramce protokolu T1 wystepuje element kontrolny calej ramki (LRC/CRC)
+C. protokoly T0 i T1 w zakresie wykrywania i sygnalizowania bledow nie roznia sie
+D. w T0 kontrola wykrywania i sygnalizacja bledow jest programowa, natomiast w T1 hardwarowa

@@ -1,0 +1,5 @@
+X100
+Dowody poprawnosci kodu to przyklad testow:
+Statycznych
+Strukturalnych
+Statystycznych

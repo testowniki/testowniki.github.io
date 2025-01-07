@@ -1,0 +1,5 @@
+X010
+Testy "czarnej skrzynki" to inaczej:
+Testy strukturalne
+Testy funkcjonalne
+Testy statyczne

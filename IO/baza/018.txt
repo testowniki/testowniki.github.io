@@ -1,0 +1,5 @@
+X100
+System bezpieczny to:
+System odporny na awarie sprzetowe
+System niezawodny
+System ktory przeszedl testy jednostkowe

@@ -1,0 +1,6 @@
+X1111
+Wymien miary niezawodnosci oprogramowania:
+prawdop. wystapienie blednego wykonania podczas realizacji transakcji
+czestotliwosc wystepowania blednych wykonan
+sredni czas miedzy blednymi wykonaniami
+dostepnosc systemu (prawdop. dostepu po stronie uzytkownika)

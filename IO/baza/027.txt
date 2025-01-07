@@ -1,0 +1,3 @@
+X1
+Jakie dzialania nalezy podjac, aby zdefiniowac klase bazowa i klasy potomne?:
+Analiza wspolnosci, analiza zmiennosci

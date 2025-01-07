@@ -1,0 +1,8 @@
+X000001
+Karty optyczne charakteryzuja sie duza pojemnoscia (1, 2 albo 3 MB). Tak duzy zakres zmiennosci pojemnosci zapisu wynika z faktu, iz:
+kazda z odpowiedzi jest poprawna
+wystepuja trzy rozne standardy pojemnosci dla tych kart
+wystepuja rozne standardy polaczen kart optycznych z kartami magnetycznymi i mikroprocesorowymi
+czesc obszaru karty zajmuja gilosze
+zadna z pozostalych odpowiedzi nie jest poprawna
+podobnie jak dla kart mikroprocesorowych, wystepuja trzy rozne standardy wielkosci kart (duza, srednia i mini)

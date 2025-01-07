@@ -1,0 +1,3 @@
+X1
+Podaj schemat wykonywania testow statystycznych:
+losowa konstrukcja danych wejsciowych zgodna z rozkladem prawd. tych danych -> okreslenie wynikow poprawnego dzialania systemow na tych danych -> uruchomienie systemu oraz porownanie wynikow z poprawnymi -> POWTORZ

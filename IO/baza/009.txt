@@ -1,0 +1,5 @@
+X001
+Kiedy powstaja plany testow modelu V:
+podczas tworzenia kodu
+podczas integracji i walidacji systemu
+podczas specyfikacji i projektowania

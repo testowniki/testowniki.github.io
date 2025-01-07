@@ -1,0 +1,5 @@
+X100
+Atrybut pusty w encji jest:
+obowiazkowy
+niekluczowy
+opcjonalny

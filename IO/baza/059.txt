@@ -1,0 +1,5 @@
+X001
+Wskaz zdanie falszywe dla ponizszej relacji: <br><img src=”baza/059.png”>
+Encja2 zawiera artybuty kluczowe Encji1 i Encji3
+Encja2 pozwala na opisanie relacji m:n pomiedzy Encja1 i Encja3
+Encja2 musi byc encja silna

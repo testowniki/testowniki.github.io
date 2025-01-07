@@ -1,0 +1,5 @@
+X100
+Stopien zwiazku encji okresla:
+Liczbe wiazanych encji
+liczbe wiazanych instancji encji
+liczbe przypisanych atrybutow do zwiazku

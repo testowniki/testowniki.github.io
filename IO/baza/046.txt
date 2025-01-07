@@ -1,0 +1,3 @@
+X1
+Czym sie rozni stopien zwiazku od typu asocjacji:
+Stopien zwiazku – liczba wiazanych encji, podczas gdy Typ asocjacji – liczba wiazanych instancji encji 

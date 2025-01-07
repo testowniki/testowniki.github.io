@@ -1,0 +1,3 @@
+X1
+CMM (Capability Maturity Model) - poszczegolne etapy w prawidlowej kolejnosci:
+1 - Poczatkowy, 2 - Powtarzalny, 3 - Zdefiniowany, 4 - Zarzadzany, 5 - Optymalizujacy

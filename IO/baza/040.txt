@@ -1,0 +1,5 @@
+X111
+Wymien czynniki jakosci dla obszaru 'przystosowanie do modyfikacji’ w modelu McCalla:
+pielegnowalnosc
+elastycznosc
+testowalnosc

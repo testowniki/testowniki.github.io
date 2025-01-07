@@ -1,0 +1,3 @@
+X1
+Kiedy stosujemy zwiazek typu zaleznosc (Dependency) miedzy klasami?
+Gdy powiazanie jest slabe, jedna klasa uzywa innej.

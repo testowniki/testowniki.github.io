@@ -1,0 +1,5 @@
+X010
+Kiedy w modelu spiralnym analizuje sie plany alternatywne:
+Na poczatku projektu
+Na poczatku kazdej fazy projektowej
+Podczas planowania nastepnej fazy projektowej

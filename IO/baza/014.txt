@@ -1,0 +1,5 @@
+X010
+Model zwiazkow i encji sklada sie z:
+2 konstruktorow
+3 konstruktorow (encja, atrybut, zwiazek)
+4 konstruktorow

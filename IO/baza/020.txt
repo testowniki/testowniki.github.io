@@ -1,0 +1,5 @@
+X010
+Stosowanie inzynierii odwrotnej:
+zwieksza niezawodnosc systemu
+redukuje koszty konserwacji
+jest obowiazkowym etapem modelu V

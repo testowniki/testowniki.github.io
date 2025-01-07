@@ -1,0 +1,5 @@
+X100
+Jednym z podstawowych powodow tzw. kryzysu oprogramowania jest m.in.:
+nieprzejrzystosc procesu tworzenia produktow informatycznych
+stosowanie modelu kaskadowego podczas produkcji oprogramowania
+niestosowanie testow statystycznych podczas tworzenia produktow informatycznych

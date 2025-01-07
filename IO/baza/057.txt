@@ -1,0 +1,5 @@
+X100
+Wskaz zdanie prawdziwe dla ponizszej relacji:
+Encja2 wiaze sie z wieloma instancjami Encji1
+Encja1 jest podtypem Encji2
+Encja1 wiaze sie z wieloma instancjami Encji2

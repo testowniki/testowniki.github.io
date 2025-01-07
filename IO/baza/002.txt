@@ -1,0 +1,4 @@
+X01
+Atrybut, ktory wiaze sie relacja n:1 z pewna Encja:
+n-krotnie jest wpisywany doelna Encja
+Jest atrybutem niekluczowym

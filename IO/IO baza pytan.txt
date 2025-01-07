@@ -1,0 +1,324 @@
+X100
+Atrybut pusty w encji jest:
+obowiazkowy
+niekluczowy
+opcjonalny
+
+X01
+Atrybut, ktory wiaze sie relacja n:1 z pewna Encja:
+n-krotnie jest wpisywany doelna Encja
+Jest atrybutem niekluczowym
+
+X100
+Cykl zycia projektu to:
+sekwencja faz projektowych
+ tej Encji
+Jest klasyfikowany jako oddzizbior faz projektu
+zbior faz realizacji projektu
+
+X100
+Dowody poprawnosci kodu to przyklad testow:
+Statycznych
+Strukturalnych
+Statystycznych
+
+X010
+Diagram kontekstowy diagramu przeplywu danych:
+Ma co najmniej 1 proces
+Sklada sie dokladnie z jednego procesu
+Ma od 3 do 5 procesow
+
+X010
+Encja slaba:
+zawiera atrybuty puste
+jest powiazana z silna encja
+zawiera atrybuty kluczowe
+
+X010
+Faze projektowa wyrozniamy na podstawie:
+metodyki zarzadzania projektem
+zamierzonych wynikow fazy
+walidacji systemu
+
+X100
+Jednym z podstawowych powodow tzw. kryzysu oprogramowania jest m.in.:
+nieprzejrzystosc procesu tworzenia produktow informatycznych
+stosowanie modelu kaskadowego podczas produkcji oprogramowania
+niestosowanie testow statystycznych podczas tworzenia produktow informatycznych
+
+X001
+Kiedy powstaja plany testow modelu V:
+podczas tworzenia kodu
+podczas integracji i walidacji systemu
+podczas specyfikacji i projektowania
+
+X100
+Kiedy zachodzi akcja w diagramie przeplywu danych:
+W momencie zajscia zdarzenia
+Podczas spelnienia warunku przejscia
+Podczas trwania stanu
+
+X010
+Kiedy w modelu spiralnym analizuje sie plany alternatywne:
+Na poczatku projektu
+Na poczatku kazdej fazy projektowej
+Podczas planowania nastepnej fazy projektowej
+
+X010
+Model kaskadowy ulatwia:
+weryfikacje i modyfikowanie projektu
+tworzenie planow i harmonogramu projektu
+zarzadzanie zmianami podczas realizacji projektu
+
+X100
+Model typu V akcentuje:
+Weryfikacje i walidacje tworzonego produktu
+Ryzyko podczas tworzenia produktu
+Role specyfikacji wymagan
+
+X010
+Model zwiazkow i encji sklada sie z:
+2 konstruktorow
+3 konstruktorow (encja, atrybut, zwiazek)
+4 konstruktorow
+
+X001
+Model przyrostowy umozliwia:
+Zmniejszenie rozmiaru wybranego zbioru ryzyk projektowych
+Zmniejszenie kosztow produkcji
+Elastyczne reagowanie na opoznienia
+
+X010
+Projekt to:
+Administrowany zbior zadan, wykonywany przy ograniczeniach wewnetrznych i zewnetrznych, realizujacy wiele celow
+Zarzadzany zbior zadan, wykonywany przy ograniczeniach wewnetrznych i zewnetrznych, majacy jeden cel
+Administrowany zbior zadan, wykonywany przy ograniczeniach wewnetrznych i zewnetrznych, majacy jeden cel
+
+X001
+Stopien zwiazku encji - liczba wiazanych encji:
+Liczbe wiazanych instancji encji
+Liczbe przypisanych atrybutow do zwiazku
+Liczbe wiazanych encji 
+
+X100
+System bezpieczny to:
+System odporny na awarie sprzetowe
+System niezawodny
+System ktory przeszedl testy jednostkowe
+
+X001
+Specyfikacja procesu dotyczy:
+Diagramu ERD
+Diagramu STD
+Diagramu DFD
+
+X010
+Stosowanie inzynierii odwrotnej:
+zwieksza niezawodnosc systemu
+redukuje koszty konserwacji
+jest obowiazkowym etapem modelu V
+
+X100
+Stopien zwiazku encji okresla:
+Liczbe wiazanych encji
+liczbe wiazanych instancji encji
+liczbe przypisanych atrybutow do zwiazku
+
+X010
+Testy "czarnej skrzynki" to inaczej:
+Testy strukturalne
+Testy funkcjonalne
+Testy statyczne
+
+X100
+W diagramie przeplywu danych skladnice danych sa dostepne:
+tylko dla procesow
+dla procesow i terminatorow
+tylko dla terminatorow
+
+X100
+Wymien czynniki jakosci obszaru Przystosowanie do modyfikacji w modelu McCalla:
+Pielegnowalnosc, testowalnosc, elastycznosc
+Pielegnowalnosc, uniwersalnosc, testowalnosc
+Testowalnosc, poprawnosc, otwartosc
+
+X1
+Jakie modele sa tworzone w cyklu wytwarzania oprogramowania?:
+model problemu, model konceptualny, model projektowy
+
+X1
+026. Podaj definicje diagramow przypadkow uzycia - zinterpretuj te definicje. Czy przypadki uzycia prezentuja strukture systemu czy jego zachowanie?:
+Diagramy przypadkow uzycia opisuja (modeluja) wymagania systemu. Przypadki uzycia (Use cases) oznaczaja funkcje udostepniane uzytkownikom lub innym zewnetrznym systemom (actors) przez projektowany system gdzie Actors - zewnetrzni uzytkownicy: ludzie, sprzet, system - rysowane jako figura lub klasa ze slowem kluczowym «Actor» . Prezentuje zachowanie systemu.
+
+X1
+Jakie dzialania nalezy podjac, aby zdefiniowac klase bazowa i klasy potomne?:
+Analiza wspolnosci, analiza zmiennosci
+
+X1
+Nalezy podac elementy diagramu aktywnosci, ktore pozwalaja na integracje kilku alternatywnych przeplywow (Control Flow lub Object Flow) wynikajacych z modelowania zagniezdzonych fragmentow typu opt lub alt przedstawionych na diagramie sekwencji.:
+Wezly decyzji i scalania, wezly rozdzielania i laczenia
+
+X11
+Nalezy podac definicje: stanu, przejscia. W definicji nalezy podac, co mozna zdefiniowac w ramach stanu i przejscia.:
+Stan jest okolicznoscia lub sytuacja w jakiej znajduje sie obiekt. Jest rezultatem poprzedniej aktywnosci, spelnia jakis warunek, jest okreslony przez wartosci wlasnych atrybutow i powiazan do innych zadan, wykonuje pewne czynnosci, czeka na jakies zdarzenie
+Przejscie (transition) jest zwiazkiem miedzy dwoma stanami, ktory wskazuje, ze np. obiekt znajdujacy sie w pierwszym stanie wykona pewne akcje (effect) i przejdzie do drugiego stanu, ilekroc zaistnieje okreslone zdarzenie (trigger) i beda spelnione okreslone warunki (guard).
+
+X111111111
+Przedstaw wzorce wykorzystane do budowy wielowarstwowej aplikacji typu Enterprise: Warstwa klienta, Warstwa internetowa, Warstwa biznesowa, Warstwa integracji.:
+Wzorzec uniwersalny kreacyjny stosowany w kazdej z warstw: Fabryka obiektow
+Wzorzec uniwersalny strukturalny: Fasada – hermetyzacja logiki biznesowej
+Wzorzec uniwersalny czynnosciowy kreacyjny stosowany w kazdej z warstw: Strategia – zastosowanie polimorfizmu do wyboru algorytmu
+Wzorzec EE warstwy prezentacji: FrontController – scentralizowany punkt dostepowy do obslugi zadan w warstwie prezentacji (wywolanie metod z warstwy biznesowej np. za posrednictwem wzorca ApplicationService)
+Wzorzec EE warstwy prezentacji : Composite View - widok kompozytowy powinien miec strukture modulowa, zbudowana z komponentow prostych, ktore razem tworza zlozona strone sa zarzadzane niezaleznie (Client== ApplicationController).
+Wzorzec EE warstwy prezentacji : do zdalnego wywolania uslug z warstwy klienta w celu ukrycia zlozonosci zdalnej komunikacji z komponentem uslug biznesowych - BusinessDelegate (Client==ApplicationController)
+Wzorce EE warstwy biznesowej: SessionFacade, ApplicationService – udostepnianie i centralizacja logiki biznesowej kilku komponentow i uslug biznesowych
+Wzorce EE warstwy prezentacji, biznesowej, integracji: TransferObject - przesylanie danych miedzy warstwami aplikacji (zmniejszanie ruchu w sieci poprzez zmniejszanie liczby polaczen zdalnych lub zwiekszanie wydajnosci)
+Wzorzec EE warstwy integracji: DomainStore (ORM) – oddzielenie mechanizmow trwalosci od modelu obiektowego
+
+X11
+Zalety modelu kaskadowego:
+latwosc zarzadzania przedsiewzieciem
+ulatwia planowanie, harmonogramowanie oraz monitorowanie przedsiewziecia
+
+X1111111
+Wady modelu kaskadowego:
+brak weryfikacji
+brak elastycznosci
+wysoki koszt bledow wstepnych faz projektowania
+dluga przerwa w kontaktach z klientem - mozliwe zniechecenie klienta lub wytworzenie produktu niespelniajacego wymagan
+nie sprzyja wprowadzaniu modyfikacji
+nie sprzyja tworzeniu systemow wspomagajacych decyzje
+zbytni formalizm i narzucenie scislej kolejnosci wykonywania projektu
+
+X1
+W jaki sposob model spiralny uwzglednia ryzyko realizacji projektu:
+Jest on oceniany w kazdej kolejnej fazie projektu
+
+X1
+Zinterpretuj znaczenie linii poziomych na modelu V:
+w procesach wytworczych na lewym ramieniu powstaja od razu plany testow dla odpowiadajacych im procesow testowych na prawym ramieniu
+
+X1
+Encja slaba:
+Nie posiada atrybutu kluczowego, jest powiazana z co najmniej jedna encja silna
+
+X1
+Encja silna:
+Posiada atrybut kluczowy
+
+X1
+Czy i w jaki sposob pokazuje sie relacje miedzy terminatorami na diagramie DFD:
+Nie pokazuje sie, poniewaz stanowia zewnetrzna czesc systemu (sa to WE/WY ktore sa przetwarzanie przez system, nie dzialaja na sobie nawzajem)
+
+X1
+Ile procesow zawiera diagram kontekstowy DFD:
+1 - w diagramie konceptualnym
+
+X1
+Kiedy uruchamiane jest przejscie w modelu STD:
+Zmiana stanu wywolana przez zdarzenie (moze byc dodatkowy warunek)
+
+X111
+Wymien czynniki jakosci dla obszaru 'przystosowanie do modyfikacji’ w modelu McCalla:
+pielegnowalnosc
+elastycznosc
+testowalnosc
+
+X111
+Wymien czynniki jakosci dla obszaru 'mobilnosc oprogramowania' w modelu McCalla:
+przenosnosc
+uniwersalnosc, mozliwosc powtornego wykorzystania
+otwartosc, latwosc wspoldzialania
+
+X1
+O czym mowi kryterium pokrycia instrukcji warunkowych w testach strukturalnych:
+Kazdy warunek instrukcji warunkowej zostal co najmniej raz spelniony oraz niespelniony
+
+X1
+O czym mowi kryterium pokrycia wszystkich instrukcji w testach strukturalnych:
+Kazda instrukcja wykonana co najmniej raz
+
+X1
+Podaj definicje projektu:
+Zarzadzany zbior zadan zmierzajacych do jednego celu, wykonywany przy okreslonych ograniczeniach
+
+X1
+Co to jest cykl zycia projektu:
+sekwencja nastepujacych po sobie faz projektowych, zmierzajacych do wytworzenia oprogramowania
+
+X1
+Czym sie rozni stopien zwiazku od typu asocjacji:
+Stopien zwiazku – liczba wiazanych encji, podczas gdy Typ asocjacji – liczba wiazanych instancji encji 
+
+X1
+Do czego sluzy specyfikacja procesow w diagramie DFD:
+specyfikacja jest opisem tego, co dzieje sie wewnatrz kazdego elementarnego procesu – definiuje co nalezy robic w celu przeksztalcenia wejsc w wyjscia
+
+X110110111
+Cechy dobrego menadzera. Zdolnosc do:
+antycypacji
+motywacji
+robienia testownikow
+adaptacji
+wzbudzania zaufania
+uwalania studentow
+wzbudzania zaufania
+komunikacji
+podejmowania odpowiednich decyzji, we wlasciwym czasie
+
+X11111
+Wymien czynniki jakosci dla obszaru 'dzialanie programu' w modelu McCalla:
+Przyjaznosc/uzytecznosc (usability)
+Bezpieczenstwo/integralnosc (integrity)
+Wydajnosc (efficiency)
+Poprawnosc (correctness)
+Niezawodnosc/wiarygodnosc
+
+X1
+CMM (Capability Maturity Model) - poszczegolne etapy w prawidlowej kolejnosci:
+1 - Poczatkowy, 2 - Powtarzalny, 3 - Zdefiniowany, 4 - Zarzadzany, 5 - Optymalizujacy
+
+X1
+Podaj schemat wykonywania testow statystycznych:
+losowa konstrukcja danych wejsciowych zgodna z rozkladem prawd. tych danych -> okreslenie wynikow poprawnego dzialania systemow na tych danych -> uruchomienie systemu oraz porownanie wynikow z poprawnymi -> POWTORZ
+
+X1111
+Wymien miary niezawodnosci oprogramowania:
+prawdop. wystapienie blednego wykonania podczas realizacji transakcji
+czestotliwosc wystepowania blednych wykonan
+sredni czas miedzy blednymi wykonaniami
+dostepnosc systemu (prawdop. dostepu po stronie uzytkownika)
+
+X1
+Przedstaw iteracyjno-rozwojowy schemat procesu wytworczego
+Poczatek -> Opracowanie -> Budowa -> Zakonczenie
+
+X1
+Co nalezy zrobic, gdy klasa ma zbyt wiele zobowiazan?
+Podzielic taka klase na mniejsze klasy.
+
+X1
+Kiedy stosujemy zwiazek typu zaleznosc (Dependency) miedzy klasami?
+Gdy powiazanie jest slabe, jedna klasa uzywa innej.
+
+X1
+Jak przedstawiana jest instrukcja if na diagramie sekwencji?
+Jest oznaczona ramka z opisem „opt”
+
+X100
+Wskaz zdanie prawdziwe dla ponizszej relacji:
+Encja2 wiaze sie z wieloma instancjami Encji1
+Encja1 jest podtypem Encji2
+Encja1 wiaze sie z wieloma instancjami Encji2
+
+X100
+Wskaz zdanie prawdziwe dla ponizszej relacji <br><img src=”baza/001.png”>
+Encja2 wiaze sie z wieloma instancjami Encji1
+Encja1 jest podtypem Encji2
+Encja 1 wiaze sie z wieloma instancjami Encji2
+
+X001
+Wskaz zdanie falszywe dla ponizszej relacji: <br><img src=”baza/002.png”>
+Encja2 zawiera artybuty kluczowe Encji1 i Encji3
+Encja2 pozwala na opisanie relacji m:n pomiedzy Encja1 i Encja3
+Encja2 musi byc encja silna

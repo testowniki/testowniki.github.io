@@ -1,0 +1,4 @@
+X11
+Zalety modelu kaskadowego:
+latwosc zarzadzania przedsiewzieciem
+ulatwia planowanie, harmonogramowanie oraz monitorowanie przedsiewziecia

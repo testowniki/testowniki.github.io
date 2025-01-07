@@ -1,0 +1,5 @@
+X010
+Projekt to:
+Administrowany zbior zadan, wykonywany przy ograniczeniach wewnetrznych i zewnetrznych, realizujacy wiele celow
+Zarzadzany zbior zadan, wykonywany przy ograniczeniach wewnetrznych i zewnetrznych, majacy jeden cel
+Administrowany zbior zadan, wykonywany przy ograniczeniach wewnetrznych i zewnetrznych, majacy jeden cel

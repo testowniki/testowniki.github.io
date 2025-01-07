@@ -1,0 +1,3 @@
+X1
+Podaj definicje projektu:
+Zarzadzany zbior zadan zmierzajacych do jednego celu, wykonywany przy okreslonych ograniczeniach

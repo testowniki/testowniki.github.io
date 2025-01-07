@@ -1,0 +1,3 @@
+X1
+Co nalezy zrobic, gdy klasa ma zbyt wiele zobowiazan?
+Podzielic taka klase na mniejsze klasy.

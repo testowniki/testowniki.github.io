@@ -1,0 +1,3 @@
+X1
+Kiedy uruchamiane jest przejscie w modelu STD:
+Zmiana stanu wywolana przez zdarzenie (moze byc dodatkowy warunek)

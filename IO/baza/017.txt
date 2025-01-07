@@ -1,0 +1,5 @@
+X001
+Stopien zwiazku encji - liczba wiazanych encji:
+Liczbe wiazanych instancji encji
+Liczbe przypisanych atrybutow do zwiazku
+Liczbe wiazanych encji 

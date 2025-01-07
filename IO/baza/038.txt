@@ -1,0 +1,3 @@
+X1
+Ile procesow zawiera diagram kontekstowy DFD:
+1 - w diagramie konceptualnym

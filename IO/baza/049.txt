@@ -1,0 +1,7 @@
+X11111
+Wymien czynniki jakosci dla obszaru 'dzialanie programu' w modelu McCalla:
+Przyjaznosc/uzytecznosc (usability)
+Bezpieczenstwo/integralnosc (integrity)
+Wydajnosc (efficiency)
+Poprawnosc (correctness)
+Niezawodnosc/wiarygodnosc

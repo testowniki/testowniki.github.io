@@ -1,0 +1,5 @@
+X001
+Model przyrostowy umozliwia:
+Zmniejszenie rozmiaru wybranego zbioru ryzyk projektowych
+Zmniejszenie kosztow produkcji
+Elastyczne reagowanie na opoznienia

@@ -1,0 +1,9 @@
+X1111111
+Wady modelu kaskadowego:
+brak weryfikacji
+brak elastycznosci
+wysoki koszt bledow wstepnych faz projektowania
+dluga przerwa w kontaktach z klientem - mozliwe zniechecenie klienta lub wytworzenie produktu niespelniajacego wymagan
+nie sprzyja wprowadzaniu modyfikacji
+nie sprzyja tworzeniu systemow wspomagajacych decyzje
+zbytni formalizm i narzucenie scislej kolejnosci wykonywania projektu

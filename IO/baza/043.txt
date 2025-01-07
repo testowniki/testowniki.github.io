@@ -1,0 +1,3 @@
+X1
+O czym mowi kryterium pokrycia wszystkich instrukcji w testach strukturalnych:
+Kazda instrukcja wykonana co najmniej raz

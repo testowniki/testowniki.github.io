@@ -1,0 +1,5 @@
+X010
+Diagram kontekstowy diagramu przeplywu danych:
+Ma co najmniej 1 proces
+Sklada sie dokladnie z jednego procesu
+Ma od 3 do 5 procesow

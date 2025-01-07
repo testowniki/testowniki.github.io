@@ -1,0 +1,3 @@
+X1
+Jakie modele sa tworzone w cyklu wytwarzania oprogramowania?:
+model problemu, model konceptualny, model projektowy

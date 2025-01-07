@@ -1,0 +1,5 @@
+X010
+Model kaskadowy ulatwia:
+weryfikacje i modyfikowanie projektu
+tworzenie planow i harmonogramu projektu
+zarzadzanie zmianami podczas realizacji projektu

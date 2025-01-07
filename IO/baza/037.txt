@@ -1,0 +1,3 @@
+X1
+Czy i w jaki sposob pokazuje sie relacje miedzy terminatorami na diagramie DFD:
+Nie pokazuje sie, poniewaz stanowia zewnetrzna czesc systemu (sa to WE/WY ktore sa przetwarzanie przez system, nie dzialaja na sobie nawzajem)
