@@ -1,0 +1,5 @@
+X100
+Dynamiczne ladowanie programu:
+Polega na ladowaniu nakladek programu, gdy sa potrzebne
+Polega na wykorzystaniu bibliotek dolaczanych w trakcie wykonywania programu
+Zmniejsza czas od wydania komendy do uruchomienia programu

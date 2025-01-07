@@ -1,0 +1,5 @@
+X001
+Przetwarzanie posrednie:
+To technika przydzielania dodatkowych buforow procesom uprzywilejowanym
+Eliminuje fragmentacje zewnetrzna dysku przez przesuwanie plikow w tle
+Polega na kopiowaniu danych miedzy dyskiem a wolnymi urzadzeniami zewnetrznymi w celu poprawy wykorzystania procesora

@@ -1,0 +1,6 @@
+X0001
+Funkcja systemowa signal w Unixie (Linuxie)
+Tworzy nowy proces
+Wysyla komunikat do standardowego strumienia bledow
+Wysyla sygnal do procesu lub grupy procesow
+zadna z powyzszych odpowiedzi nie jest prawdziwa

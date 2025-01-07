@@ -1,0 +1,5 @@
+X001
+Kanal komunikacyjny z nieograniczonym buforowaniem:
+Moze powodowac uspienie procesu piszacego do kanalu
+Moze powodowac uspienie procesu czytajacego z kanalu
+Umozliwia buforowanie operacji dyskowych

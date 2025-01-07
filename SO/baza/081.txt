@@ -1,0 +1,5 @@
+X011
+Wzorce plikow
+Sa mechanizmem definiowania dopuszczalnej zawartosci plikow
+Pozwalaja definiowac sciezki wyszukiwania komend w systemach operacyjnych
+Wykorzystuja znaki ? oraz * do okreslania dowolnych znakow w nazwie pliku

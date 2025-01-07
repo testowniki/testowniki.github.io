@@ -1,0 +1,5 @@
+X010
+Warunek wykluczania w synchronizacji miedzy procesami:
+Zapewnia, ze proces nie jest wywlaszczany, gdy znajduje sie w sekcji krytycznej
+To zapewnienie, ze dwa procesy nie znajda sie w tym samym czasie w sekcji krytycznej
+Wymaga, aby proces mial dostep do sekcji krytycznej, gdy nie przebywa w niej inny

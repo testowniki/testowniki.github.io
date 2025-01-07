@@ -1,0 +1,5 @@
+X001
+Przetwarzanie potokowe:
+Dostepne jest tylko w systemach wieloprocesorowych
+W powloce sh mozna je wywolac wypisujac dwie komendy w nawiasach okraglych rozdzielone przecinkami
+Realizowane jest przez przekierowanie standardowego wyjscia komendy pierwszej do standardowego wejscia komendy drugiej

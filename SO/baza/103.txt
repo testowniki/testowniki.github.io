@@ -1,0 +1,5 @@
+X010
+Powloka systemu operacyjnego:
+Okresla zestaw dostepnych jezykow programowania
+Okresla dostepny zestaw komend wewnetrznych
+Pozwala definiowac zmienne srodowiskowe, przekazywane do uruchamianych programow

@@ -1,0 +1,5 @@
+X100
+Stronicowanie na zadanie:
+wymaga tworzenia obrazu pamieci w obszarze wymiany
+wykorzystuje segmentacje pamieci
+wlaczane jest na zadanie procesu (przez wywolanie funkcji swapon)

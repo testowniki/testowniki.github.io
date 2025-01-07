@@ -1,0 +1,5 @@
+X101
+Ogole semafory Dijkstry:
+Przyjmuja tylko wartosci 0 lub 1
+Moga blokowac proces przy wykonaniu operacji V
+Moga blokowac proces przy wykonywaniu operacji P

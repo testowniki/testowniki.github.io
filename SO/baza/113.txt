@@ -1,0 +1,5 @@
+X100
+sciezka do pliku:
+sciezka bezwzgledna okresla polozenie pliku wzgledem katalogu glownego:
+Moze byc wzgledna, bezwzgledna lub symboliczna
+sciezka symboliczna okresla polozenie pliku wzgledem katalogu domowego uzytkownika

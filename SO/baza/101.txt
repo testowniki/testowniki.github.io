@@ -1,0 +1,5 @@
+X100
+Proces moze przejsc do stanu zablokowania:
+Bezposrednio ze stanu aktywnosci
+W wyniku wykonania funkcji exit (w Linuxie)
+Po wyczerpaniu kwantu czasu aktywnosci

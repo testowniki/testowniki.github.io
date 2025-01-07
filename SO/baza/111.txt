@@ -1,0 +1,5 @@
+X001
+Stan procesu:
+przechowywany jest w jadrze systemu operacyjnego w obszarze uarea
+Identyfikuje procesy, ktore nie wymagaja dostepu do urzadzen zewnetrznych
+okresla, czy procesor jest przydzielony do procesu

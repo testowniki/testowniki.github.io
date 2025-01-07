@@ -1,0 +1,5 @@
+X011
+Kanal komunikacyjny z ograniczonym buforowaniem
+To technika synchronizacji dostepu do karty sieciowej przez procesy
+Wykorzystywany jest do przesylania danych pomiedzy procesami
+Moze spowodowac uspienie procesu piszacego do kanalu

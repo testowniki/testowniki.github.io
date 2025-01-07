@@ -1,0 +1,5 @@
+X001
+Swobodny (zrandomizowany), dostep do pliku:
+polega na wspoldzieleniu otwartych plikow przez wiele procesow 
+szereguje dostep wielu procesow do pliku
+pozwala na wystepowanie plikow nieciaglych, z niezaalokowanymi dziurami

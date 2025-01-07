@@ -1,0 +1,5 @@
+X010
+Kanal komunikacyjny z zerowym buforowaniem:
+Umozliwia buforowanie operacji dyskowych 
+To kanal, w ktorym aktualnie nie ma zadnych komunikatow
+Moze powodowac uspienie procesu czytajacego z kanalu

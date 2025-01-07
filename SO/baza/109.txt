@@ -1,0 +1,5 @@
+X001
+Sygnaly w systemie Linux:
+Generowane sa wylacznie przez sterowniki urzadzen zewnetrznych
+Nie moga byc ignorowane przez procesy
+Wysylane sa do pojedynczych procesow, grup procesow, procesow okreslonego uzytkownika lub do wszystkich procesow

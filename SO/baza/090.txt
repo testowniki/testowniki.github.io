@@ -1,0 +1,5 @@
+X001
+Funkcja systemowa signal:
+Tworzy nowy proces
+Wysyla sygnal do procesu lub grupy procesow
+Wysyla komunikat do standardowego strumienia bledow

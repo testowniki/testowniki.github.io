@@ -1,0 +1,5 @@
+X010
+Warunek postepu w synchronizacji miedzy procesami:
+To zapewnienie, ze dwa procesy nie znajda sie w tym samym czasie w sekcji krytycznej
+To wymaganie, aby proces nie byl usypiany przy wejsciu do sekcji krytycznej, gdy nie ma w niej innych procesow
+Zapewnia, ze proces nie jest wywlaszczany, gdy znajduje sie w sekcji krytycznej

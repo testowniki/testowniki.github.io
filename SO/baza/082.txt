@@ -1,0 +1,6 @@
+X0001
+Funkcja systemowa execve w Unixie(Linuxie)
+Tworzy nowy proces, realizujacy program podany w argumencie do tej funkcji
+Tworzy nowy watek, realizujacy funkcje podana w argumencie
+Tworzy nowy proces, realizujacy ten sam program co proces-rodzic
+zadna z powyzszych odpowiedzi nie jest prawdziwa

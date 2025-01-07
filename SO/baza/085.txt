@@ -1,0 +1,5 @@
+X011
+Sygnaly w systemie Unix
+Generowane sa wylacznie przez sterowniki urzadzen zewnetrznych
+Wysylane sa do pojedynczych procesow lub do grup procesow
+Wiekszosc moze byc ignorowana przez procesy

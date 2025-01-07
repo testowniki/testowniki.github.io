@@ -1,0 +1,5 @@
+X110
+Dowiazania symboliczne
+Sa to pliki specjalne, ktore wskazuja na inne obiekty w systemie plikow
+Zawieraja informacje o polozeniu pliku na dysku
+W Unixie musza miec rozszerzenie .lnk

@@ -1,0 +1,5 @@
+X110
+Pozycje katalogowe w systemie Unix
+Zawieraja nazwy plikow
+Zawieraja date modyfikacji pliku
+Zawieraja rozszerzenie 3 - znakowe

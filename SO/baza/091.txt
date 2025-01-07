@@ -1,0 +1,5 @@
+X100
+Funkcja systemowa fork w Unicie (Linuxie):
+Tworzy nowy proces, realizujacy ten sam program co proces-rodzic
+Tworzy nowy watek, realizujacy funkcje podana w argumencie
+Tworzy nowy proces, realizujacy program podany w argumencie do tej funkcji

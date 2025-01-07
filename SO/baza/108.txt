@@ -1,0 +1,5 @@
+X001
+Sekcja krytyczna:
+To technika synchronizacji dostepu do pamieci wspoldzielonej przez procesor
+Wykorzystywana jest do negocjacji dostepu do semaforow
+Wykorzystywana jest od ochrony danych przed rownoczesna ich modyfikacja przez procesy wspolbiezne

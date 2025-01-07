@@ -1,0 +1,5 @@
+X010
+Przydzial indeksowy miejsca na dysku:
+Charakteryzuje sie fragmentacja zewnetrzna przestrzeni dysku
+Wymaga zapisu tablicy indeksowej na dysku
+Opisuje polozenie pliku jako ciag segmentow roznej wielkosci

@@ -1,0 +1,5 @@
+X001
+Kontekst procesu:
+Jest to obraz pamieci, rejestrow i zmiennych systemowych procesu w pewnej chwili
+Obejmuje informacje konieczne do zablokowania procesu
+Opisuje stan wszystkich zasobow, z ktorych moze proces korzystac

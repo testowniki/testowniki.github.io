@@ -1,0 +1,5 @@
+X001
+Ochrona pamieci w systemach operacyjnych: 
+Okresla prawa dostepu procesow do pamieci dyskowej
+Zapewnia, ze procesy nie zostana zmodyfikowane w trakcie kopiowania do obszaru wymiany (swapping)
+Uniemozliwia dostep procesu do niezaalokowanej pamieci

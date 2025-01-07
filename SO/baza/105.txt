@@ -1,0 +1,5 @@
+X001
+Przydzial ciagly miejsca na dysku:
+wymaga zapisu tablicy indeksowanej na dysku
+jest algorytmem optymalnym, nie dajacym sie zaimplementowac w praktyce
+charakteryzuje sie fragmentacja zewnetrzna przestrzeni dysku

@@ -1,0 +1,5 @@
+X101
+Stan procesu
+Jest pamietany w tablicy procesow
+Jest wyznaczany przy pierwszym uruchomieniu procesu i potem sie nie zmienia
+Jezeli jest aktywny, to proces jest wykonywany przez procesor

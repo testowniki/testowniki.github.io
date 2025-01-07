@@ -1,0 +1,5 @@
+X010
+Planowanie zadan (scheduling) ma na celu:
+synchronizowanie dostepu do zasobow
+wybor procesu do aktywacji
+unikanie blokad

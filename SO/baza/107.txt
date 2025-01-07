@@ -1,0 +1,5 @@
+X110
+Planowanie srednioterminowe: 
+okresla kolejnosc kopiowania procesow do pamieci z obszaru wymiany
+wybiera proces do uruchomienia sposrod procesow gotowych
+okresla procesy, ktore nalezy odblokowac
