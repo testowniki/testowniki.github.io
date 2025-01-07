@@ -1,0 +1,6 @@
+X0010
+Dla jakiego TSP nie mozna skonstruowac algorytmu aproksymacyjnego?
+symetrycznego
+metrycznego
+ogolnego
+asymetrycznego

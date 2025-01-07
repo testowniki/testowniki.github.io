@@ -1,0 +1,7 @@
+X00010
+Jaki minimalny cykl nalezy znalezc w TSP? Wybierz jedna odpowiedz:
+Boltzmann 
+Eulera
+Atkinsona
+Hamiltona
+Krebsa

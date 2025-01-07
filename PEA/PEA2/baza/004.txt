@@ -1,0 +1,4 @@
+X10
+Ograniczenie na rozmiar (cecha dobrego sasiedztwa) mowi, ze dla kazdego x, sasiedztwo N(x) zawiera co najmniej jedno rozwiazanie x' rozne od x. 
+Prawda
+Falsz

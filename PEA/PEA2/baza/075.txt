@@ -1,0 +1,6 @@
+X0001
+Czym sa algorytmy genetyczne?
+ewolucja naturalnych osobnikow, z ktorych kazdy jest zakodowanym potencjalnym rozwiazaniem danego problemu
+symulacja zachowan osobnikow w sztucznym swiecie
+modelem zmian genetycznych osobnikow w nieznanym srodowisku
+to ewolucja sztucznych osobnikow, z ktorych kazdy jest zakodowanym potencjalnym rozwiazaniem danego problemu

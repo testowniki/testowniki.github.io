@@ -1,0 +1,4 @@
+X10
+W metodzie Symulowanego Wyzarzania wartosc temperatury w chwili t zalezna jest tylko od zastosowanego schematu chlodzenia.
+Prawda
+Falsz

@@ -1,0 +1,6 @@
+X0010
+Test Turinga jest wykorzystywany w dziedzinie:
+algorytmow przeszukiwania lokalnego
+algorytmow populacyjnych
+sztucznej inteligencji
+algorytmow dokladnych

@@ -1,0 +1,4 @@
+X01
+W metodzie symulowanego wyzarzania funkcja Critical Event przyjmuje wartosc true, jezeli wystapily warunki powodujace koniecznosc wygenerowania nowego rozwiazania poczatkowego.
+Prawda
+Falsz

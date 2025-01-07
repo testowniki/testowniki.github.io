@@ -1,0 +1,4 @@
+X10
+Algorytm Bound and Branch jest algorytmem dokladnym.
+Prawda
+Falsz

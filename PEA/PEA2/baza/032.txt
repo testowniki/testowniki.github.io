@@ -1,0 +1,4 @@
+X01
+Algorytmy oparte o metode zachlanna zawsze zwracaja rozwiazanie optymalne.
+Prawda
+Falsz

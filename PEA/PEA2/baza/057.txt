@@ -1,0 +1,6 @@
+X0001
+Heurystyka to metoda:
+oceniania slusznosci wyboru przebytej drogi w drzewie opisujacym rozwiazywany problem
+poszukiwania rozwiazania w przestrzeni stanow za pomoca operatorow
+znajdowania rozwiazania gwarantujaca znalezienie rozwiazania optymalnego
+znajdowania rozwiazan, dla ktorej nie ma gwarancji znalezienia rozwiazania optymalnego, a czesto nawet prawidlowego

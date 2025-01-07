@@ -1,0 +1,4 @@
+X10
+W przeszukiwaniu lokalnym warunkiem zakonczenia dzialania jest osiagniecie minimum lokalnego.
+Prawda
+Falsz

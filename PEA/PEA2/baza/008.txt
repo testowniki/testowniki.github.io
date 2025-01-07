@@ -1,0 +1,6 @@
+X1100
+Zaznacz wszystkie wersje problemu SAT, ktore mozna rozwiazac w czasie wielomianowym:
+1-SAT
+2-SAT
+3-SAT
+problemu SAT w zadnej wersji nie mozna rozwiazac w czasie wielomianowym

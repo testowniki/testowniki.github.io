@@ -1,0 +1,7 @@
+X00100
+Jak definiowane jest sasiedztwo w problemach dyskretnych? Wybierz jedna odpowiedz:
+Przez funkcje odleglosci.
+Przez transformacje metryki.
+Przez wszystkie mozliwe transformacje rozwiazania x.
+Przez dopuszczalne transformacje rozwiazania x.
+Przez funkcje celu.

@@ -1,0 +1,6 @@
+X0001
+Cecha heurystyki jest to, ze:
+mozna okreslic maksymalny blad rozwiazania
+mozna ja wykorzystac dla dowolnego problemu
+jesli mozna ja skonstruowac, to nie istnieje algorytm dajacy optymalne rozwiazanie
+zadne z powyzszych

@@ -1,0 +1,9 @@
+X0000100
+Metoda znajdowania rozwiazan, dla ktorej nie ma gwarancji rozwiazania optymalnego, a czesto nawet prawidlowego, to:
+algorytm
+iteracja
+aspiracja
+aproksymacja
+heurystyka
+optymalizacja
+histereza

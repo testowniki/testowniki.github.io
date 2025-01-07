@@ -1,0 +1,8 @@
+X000100
+W jaki sposob w metodzie Symulowanego Wyzarzania wybierane jest rozwiazanie w sasiedztwie? Wybierz jedna odpowiedz:
+Zachlannie lub z pewnym prawdopodobienstwem.
+Zgodnie ze schematem chlodzenia.
+Losowo
+Z pewnym prawdopodobienstwem.
+Zachlannie.
+Losowo lub z pewnym prawdopodobienstwem. 

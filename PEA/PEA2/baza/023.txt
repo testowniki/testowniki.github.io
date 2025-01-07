@@ -1,0 +1,6 @@
+X0100
+Liczba wymian w algorytmie 3-optymalnym to:
+O(n^2)
+O(n^3)
+O(n!)
+O(n)

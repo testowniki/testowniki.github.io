@@ -1,0 +1,7 @@
+X00010
+Co okresla kadencja w metodzie Tabu Search? (Wybierz jedna odpowiedz):
+Prawdopodobienstwo umieszczenia ruchu na liscie tabu.
+Liczbe mozliwych zastosowan kryterium aspiracji.
+Liczbe iteracji  wyszukiwania nowego rozwiazania w sasiedztwie.
+Liczbe iteracji, przez ktora ruch pozostaje na liscie tabu.
+Czas pozostawania na liscie tabu.

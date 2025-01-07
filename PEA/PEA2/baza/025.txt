@@ -1,0 +1,6 @@
+X1000
+Operator mutacji - SCRAMBLE - wybiera losowo podzbior k pozycji w chromosomie, a nastepnie:
+przestawia losowo wierzcholki na tych pozycjach
+przesuwa w lewo wylosowane wierzcholki
+przestawia losowo pozostale wierzcholki
+dokonuje inwersji wybranych k wierzcholkow

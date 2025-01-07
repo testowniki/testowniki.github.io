@@ -1,0 +1,7 @@
+X00100
+Co jest cecha heurystyki? (Wybierz jedna odpowiedz:)
+Pozwala na okreslenie maksymalnego bledu rozwiazania problemu
+Mozna wykorzystac ja do rozwiazania dowolnego problemu
+Nie daje gwarancji znalezienia rozwiazania optymalnego
+Daje gwarancje znalezienia rozwiazania optymalnego 
+zadne z powyzszych

@@ -1,0 +1,6 @@
+X0010
+Cecha kazdego algorytmu aproksymacyjnego jest to, ze:
+nie daje gwarancji zatrzymania sie
+zawsze daje optymalne rozwiazanie
+mozna okreslic maksymalny blad rozwiazania
+jesli mozna go skonstruowac, to nie istnieje algorytm dajacy optymalne rozwiazanie

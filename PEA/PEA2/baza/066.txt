@@ -1,0 +1,4 @@
+X01
+Rozwiazaniem problemu w przestrzeni stanow jest zbior stanow posrednich pomiedzy stanem poczatkowym i koncowym.
+Prawda
+Falsz

@@ -1,0 +1,6 @@
+X0110
+Problem plecakowy w wersji dyskretnej(discrete knapsack problem mozna rozwiazac w czasie (zaznacz wszsytkie poprawne):
+Wielomiaowym wzgledem liczby elementow i rozmiaru plecaka
+Pseudowielomianowym wzgledem liczby elementow i rozmiaru plecaka
+Wykladniczym wzgledem liczby elementow
+Wielomianowym wzgledem liczby elementow i logarytczminym wzgledem rozmiaru plecaka

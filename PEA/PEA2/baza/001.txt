@@ -1,0 +1,7 @@
+X00100
+Jaka metoda sa Algorytmy Genetyczne? (Wybierz jedna odpowiedz):
+zadna z wymienionych.
+Zachlanna
+Heurystyczna
+Aproksymacyjna
+Dokladna

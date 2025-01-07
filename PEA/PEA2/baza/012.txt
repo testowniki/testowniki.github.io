@@ -1,0 +1,5 @@
+X100
+Poprawny algorytm aproksymacyjny znajduje rozwiazanie, ktore:
+jest bliskie OPT i jest efektywny czasowo
+jest bliskie OPT i nie jest efektywny czasowo
+nie jest bliskie OPT i jest efektywny czasowo

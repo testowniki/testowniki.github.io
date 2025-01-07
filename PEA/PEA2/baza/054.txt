@@ -1,0 +1,5 @@
+X100
+Problem to:
+Zbior danych wejsciowych i ich deﬁnicje, oraz pytanie lub polecenie
+Funkcja minimalizacyjna z danych wejsciowych w liczby rzeczywiste
+Wszystkie mozliwe dane wejsciowe

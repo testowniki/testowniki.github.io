@@ -1,0 +1,7 @@
+X00010
+Co jest cecha KAzDEGO algorytmu aproksymacyjnego? Wybierz jedna odpowiedz:
+Uzyskiwanie zawsze rozwiazania optymalnego.
+Rozwiazanie moze byc rozwiazaniem niedopuszczalnym.
+zadne z wymienionych.
+Znany maksymalny blad rozwiazania.
+Rozwiazanie uzyskiwane jest w czasie wielomianowym

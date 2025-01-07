@@ -1,0 +1,10 @@
+X11001010
+Wskazac wszystkie oszacowania zlozonosci obliczeniowej algorytmow efektywnych obliczeniowo:
+<img src="baza/059a.png">
+<img src="baza/059b.png">
+<img src="baza/059c.png">
+<img src="baza/059d.png">
+<img src="baza/059e.png">
+<img src="baza/059f.png">
+<img src="baza/059g.png">
+<img src="baza/059h.png">

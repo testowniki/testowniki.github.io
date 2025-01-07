@@ -1,0 +1,6 @@
+X0001
+<img src="baza/071.png">
+f(I*,x) "=" f(I,x)
+f(I*,x) "<" f(I,x)
+f(I*,x) ">=" f(I,x)
+f(I*,x) "=<" f(I,x)

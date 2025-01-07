@@ -1,0 +1,6 @@
+X1000
+Zaznacz odpowiedz zawierajaca operatory krzyzowania:
+PMX, OX, EX, PX
+PMX, OX, SX, EX
+SSX, EX, PM, SX
+SSX, PM, EX, OX

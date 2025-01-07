@@ -1,0 +1,4 @@
+X01
+Dla kazdego problemu optymalizacyjnego mozna okreslic odpowiadajacy mu problem decyzyjny. Twierdzenie odwrotne jest rowniez prawdziwe.
+Prawda
+Falsz

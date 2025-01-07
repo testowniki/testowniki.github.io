@@ -1,0 +1,6 @@
+X0111
+Ktore schematy chlodzenia nie stosowane sa w algorytmie Symulowanego Wyzarzania?
+geometryczny
+kwantowy
+statystyczny
+logiczny

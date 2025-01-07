@@ -1,0 +1,4 @@
+X01
+Prawdopodobienstwo krzyzowania i prawdopodobienstwo mutacji w Algorytmach Genetycznych sa od siebie zalezne i ich suma zawsze wynosi 1
+Prawda
+Falsz

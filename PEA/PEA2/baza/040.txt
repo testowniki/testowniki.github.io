@@ -1,0 +1,6 @@
+X1010
+Warunkiem zatrzymania sie algorytmu mrowkowego jest: (zaznacz wysztkie poprawne) 
+wykonanie zadanej liczby iteracji
+znalezienie optimum globalnego
+ustalenie tej samej trasy przez wszystkie mrowki
+smierc wszystkich mrowek

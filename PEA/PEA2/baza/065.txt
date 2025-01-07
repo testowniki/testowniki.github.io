@@ -1,0 +1,8 @@
+X000010
+Algorytm, zastosowany do rozwiazania problemu obliczeniowego nie zawsze zwracajacy wynik optymalny to algorytm:
+dokladny
+wielomianowy
+minimalny
+probabilistyczny
+heurystyczny
+optymalizacyjny

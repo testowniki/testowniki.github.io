@@ -1,0 +1,9 @@
+X1101110
+Problem TSP w wersji decyzyjnej mozna rozwiazac w: (zaznacz wszystkie poprawne)
+wykladniczym czasie na deterministycznej maszynie Turinga
+wykladniczym czasie na niedeterministycznej maszynie Turinga
+wielomianowym czasie na deterministycznej maszynie Turinga
+wielomianowym czasie na niedeterministycznej maszynie Turinga
+wielomianowej pamieci na deterministycznej maszynie Turinga
+wielomianowej pamieci na niedeterministycznej maszynie Turinga
+logarytmicznej pamieci na niedeterministycznej maszynie Turinga

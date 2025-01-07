@@ -1,0 +1,4 @@
+X01
+Zlozonosc pamieciowa przeszukiwania wszerz jest taka sama jak przeszukiwania w glab.
+Prawda
+Falsz

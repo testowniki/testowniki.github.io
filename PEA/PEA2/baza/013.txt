@@ -1,0 +1,6 @@
+X1000
+Wnioskiem ze zdania ”Dla ogolnego TSP istnieje algorytm aproksymacyjny” jest: 
+P = NP 
+P = EXP
+NP = EXP
+NP = coNP

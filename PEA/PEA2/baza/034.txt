@@ -1,0 +1,6 @@
+X0100
+Czym jest sukcesja w Algorytmach Genetycznych? Wybierz jedna odpowiedz:
+Sposobem wyboru osobnikow do puli rodzicielskiej.
+Sposobem wyboru osobnikow do nowego pokolenia.
+Wymiana materialu genetycznego pomiedzy osobnikami.
+Metoda okreslania jakosci przystosowania

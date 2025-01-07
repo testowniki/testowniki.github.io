@@ -1,0 +1,9 @@
+X0000010
+Procedura dzialajaca w skonczonym czasie, rozwiazujaca problem  |^|, to:
+analiza
+instancja
+heurystyka
+algorytmika
+petla
+algorytm
+heurystyka

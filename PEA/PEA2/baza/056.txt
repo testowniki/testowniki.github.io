@@ -1,0 +1,6 @@
+X0100
+Proces przeszukiwania przestrzeni rozwiazan w klasycznym algorytmie genetycznym to w kolejnosci:
+eksploracja i dywersyfikacja
+eksploracja i eksploatacja
+eksploatacja i eksploracja
+tylko eksploatacja

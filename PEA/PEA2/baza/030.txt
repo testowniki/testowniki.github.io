@@ -1,0 +1,6 @@
+X1000
+W metodzie programowania dynamicznego podproblemy rozwiazywane sa w czasie ......., i optyymalne rozwiazanie konstruowane jest z oszacowaniem ......., 
+<img src="baza/030a.png">
+<img src="baza/030b.png">
+<img src="baza/030c.png">
+<img src="baza/030d.png">

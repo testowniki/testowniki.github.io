@@ -1,0 +1,6 @@
+X0100
+Ocena przystosowania populacji w algorytmach genetycznych dokonywana jest:
+przez najsilniejszego osobnika w celu okreslenia miary optymalnosci kodowanego przez niego rozwiazania
+przez srodowisko poprzez okreslenie miary optymalnosci kodowanego przez osobniki rozwiazania
+przez srodowisko w celu okreslenia zdolnosci populacji do reprodukcji
+w wydzielonej czesci populacji przez srodowisko poprzez okreslenie miary optymalnosci kodowanego przez nia rozwiazania

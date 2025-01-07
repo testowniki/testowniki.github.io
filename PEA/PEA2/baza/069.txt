@@ -1,0 +1,8 @@
+X001000
+<img src="baza/069.png">
+metryczny
+trojkatny
+ogolny
+spojny
+okreslony
+warunkowy
