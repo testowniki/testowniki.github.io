@@ -1,0 +1,4 @@
+X10
+Wspolbieznosc w systemach operacyjnych realizowana jest przez przelaczanie procesow, tzn. wstrzymywanie procesow co pewien czas i pre innych
+TAK
+NIE

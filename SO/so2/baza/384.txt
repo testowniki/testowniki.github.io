@@ -1,0 +1,4 @@
+X01
+Dynamiczne laczenie programu polega na tworzeniu polaczen dynamicznych pomiedzy procesami
+TAK
+NIE

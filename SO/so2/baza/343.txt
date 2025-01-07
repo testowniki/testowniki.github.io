@@ -1,0 +1,4 @@
+X01
+Wzorce plikow sa mechanizmem definiowania dopuszczalnej zawartosci plikow
+TAK
+NIE

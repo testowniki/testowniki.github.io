@@ -1,0 +1,4 @@
+X10
+Kanal komunikacyjny z ograniczonym buforowaniem moze spowodowac uspienie procesu piszacego do kanalu
+TAK
+NIE

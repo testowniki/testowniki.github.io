@@ -1,0 +1,4 @@
+X10
+Wzorce plikow pozwalaja definiowac sciezki wyszukiwania komend w systemach operacyjnych
+TAK
+NIE

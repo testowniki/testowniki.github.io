@@ -1,0 +1,4 @@
+X10
+Kanal komunikacyjny z ograniczonym buforowaniem wykorzystywany jest do przesylania danych pomiedzy procesami
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Proces gotowy oczekuje na zwolnienie procesora przez proces aktywny
+TAK
+NIE

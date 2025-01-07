@@ -1,0 +1,4 @@
+X01
+Pozycje katalogowe w systemie unix zawieraja rozszerzenie 3 - znakowe
+TAK
+NIE

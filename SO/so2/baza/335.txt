@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa exec w unixie (Linuxie) tworzy nowy watek, realizujacy funkcje podana w argumencie
+TAK
+NIE

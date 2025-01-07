@@ -1,0 +1,4 @@
+X10
+Biblioteki laczone dynamicznie (DLL) ladowane sa do pamieci tylko funkcje, do ktorych wystapi odwolanie
+TAK
+NIE

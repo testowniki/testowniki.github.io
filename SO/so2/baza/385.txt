@@ -1,0 +1,4 @@
+X10
+Dynamiczne ladowanie programu polega na ladowaniu nakladek programu, gdy sa potrzebne
+TAK
+NIE

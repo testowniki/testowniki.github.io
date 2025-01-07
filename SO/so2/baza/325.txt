@@ -1,0 +1,4 @@
+X01
+Sekcja krytyczna to technika synchronizacji dostepu do pamieci wspoldzielonej przez procesy
+TAK
+NIE

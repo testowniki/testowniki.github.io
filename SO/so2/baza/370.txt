@@ -1,0 +1,4 @@
+X01
+Algorytm lRU zastepowania stron pamieci wirtualnej polega na usuwaniu najdluzej zaladowanych stron
+TAK
+NIE

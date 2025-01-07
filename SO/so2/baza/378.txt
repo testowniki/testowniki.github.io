@@ -1,0 +1,4 @@
+X01
+Buforowanie operacji dyskowych umozliwia zrownoleglenie procesow
+TAK
+NIE

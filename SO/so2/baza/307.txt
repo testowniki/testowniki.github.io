@@ -1,0 +1,4 @@
+X01
+Warunek postepu w synchronizacji miedzy procesami to zapewnienie, ze dwa procesu nie znajda sie w tym samym czasie w sekcji krytycznej
+TAK
+NIE

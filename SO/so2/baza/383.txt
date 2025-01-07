@@ -1,0 +1,4 @@
+X01
+Dynamiczne laczenie programu wykorzystuje biblioteki statyczne
+TAK
+NIE

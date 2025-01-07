@@ -1,0 +1,4 @@
+X10
+Dynamiczne laczenie programu zmniejsza wielkosc pliku wykonywalnego (exe)
+TAK
+NIE

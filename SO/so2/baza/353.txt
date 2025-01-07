@@ -1,0 +1,4 @@
+X01
+Stan procesu jest wyznaczany przy pierwszym uruchomieniu procesu i potem sie nie zmienia
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Algorytm lRU zastepowania stron pamieci wirtualnej zapewnia dobre dostosowanie do zestawu roboczego stron
+TAK
+NIE

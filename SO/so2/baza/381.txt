@@ -1,0 +1,4 @@
+X10
+Dowiazania symboliczne w linuxie sa to pliki specjalne, ktore wskazuja przy pomocy sciezek na inne obiekty
+TAK
+NIE

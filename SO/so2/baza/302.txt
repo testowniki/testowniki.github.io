@@ -1,0 +1,4 @@
+X10
+Stronicowanie na zadanie polega na wymianie stron w pamieci fizycznej, wczytywaniu stron, do ktorych wystepuja aktualnie odwolania
+TAK
+NIE

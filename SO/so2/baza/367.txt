@@ -1,0 +1,4 @@
+X10
+Algorytm karuzelowy zapewnia wszystkim procesom ten sam priorytet
+TAK
+NIE

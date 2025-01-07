@@ -1,0 +1,4 @@
+X01
+Proces gotowy realizuje operacje drugoplanowe
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Przetwarzanie potokowe w unixie realizowane jest przez przekierowanie standardowego wyjscia komendy pierwszej do standardowego wejscia komendy drugiej
+TAK
+NIE

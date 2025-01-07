@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa signal wysyla sygnal do procesu lub grupy procesow
+TAK
+NIE

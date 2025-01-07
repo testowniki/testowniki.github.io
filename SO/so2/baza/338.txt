@@ -1,0 +1,4 @@
+X01
+Sygnaly w systemie unix moga powodowac zakonczenie procesu
+TAK
+NIE

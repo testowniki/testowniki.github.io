@@ -1,0 +1,4 @@
+X01
+Dolaczenia w systemie plikow (links) tworzone sa przy otwieraniu plikow, usuwane przy zamykaniu
+TAK
+NIE

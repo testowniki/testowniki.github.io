@@ -1,0 +1,4 @@
+X10
+Dolaczenia w systemie plikow (links) moga byc symboliczne, gdy wskazuja sciezke dostepu do pliku wlasciwego, lub twarde, jezeli powstaja przez zdefiniowanie drugiej nazwy dla pliku
+TAK
+NIE

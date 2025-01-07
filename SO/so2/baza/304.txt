@@ -1,0 +1,4 @@
+X10
+Mechanizm spotkaniowy to technika synchronizacji dostepu do pamieci wspoldzielonej przez procesy
+TAK
+NIE

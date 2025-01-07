@@ -1,0 +1,4 @@
+X10
+Stan procesu jezeli jest aktywny, to proces jest wykonywany przez procesor
+TAK
+NIE

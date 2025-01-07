@@ -1,0 +1,4 @@
+X10
+Wiekszosc sygnalow w systemie unix  moze byc ignorowana przez procesy
+TAK
+NIE

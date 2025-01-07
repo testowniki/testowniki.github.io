@@ -1,0 +1,4 @@
+X10
+Buforowanie operacji dyskowych umozliwia zapis danych do pliku porcjami roznej wielkosci
+TAK
+NIE

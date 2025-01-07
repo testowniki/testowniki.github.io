@@ -1,0 +1,4 @@
+X10
+Dolaczenia w systemie plikow (links) wiaza nazwy plikow z INODEíami w systemie unix
+TAK
+NIE

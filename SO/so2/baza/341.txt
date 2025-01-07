@@ -1,0 +1,4 @@
+X10
+Dowiazania symboliczne zawieraja informacje o polozeniu pliku na dysku
+TAK
+NIE

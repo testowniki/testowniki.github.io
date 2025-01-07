@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa fork w unixie (Linuxie) tworzy nowy watek, realizujacy funkcje podana w argumencie
+TAK
+NIE

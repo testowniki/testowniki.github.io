@@ -1,0 +1,4 @@
+X10
+Mechanizm spotkaniowy wykorzystywany jest do przesylania danych pomiedzy procesami
+TAK
+NIE

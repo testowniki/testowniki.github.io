@@ -1,0 +1,4 @@
+X01
+Algorytm karuzelowy nie pozwala wywlaszczac procesow systemowych
+TAK
+NIE

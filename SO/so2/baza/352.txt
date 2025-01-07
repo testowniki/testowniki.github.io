@@ -1,0 +1,4 @@
+X10
+Stan procesu jest pamietany w tablicy procesow
+TAK
+NIE

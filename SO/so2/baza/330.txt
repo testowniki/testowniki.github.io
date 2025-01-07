@@ -1,0 +1,4 @@
+X01
+Wspolbieznosc w systemach operacyjnych dostepna jest tylko w systemach wieloprocesorowych
+TAK
+NIE

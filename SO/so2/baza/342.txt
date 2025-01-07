@@ -1,0 +1,4 @@
+X01
+Dowiazania symboliczne w unixie musza miec rozszerzenie .lnk
+TAK
+NIE

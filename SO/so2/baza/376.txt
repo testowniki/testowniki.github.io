@@ -1,0 +1,4 @@
+X01
+Buforowanie operacji dyskowych Eliminuje fragmentacje wewnetrzna w systemie plikow
+TAK
+NIE

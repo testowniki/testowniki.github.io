@@ -1,0 +1,4 @@
+X01
+Dolaczenia w systemie plikow (links) sa wynikiem bledow w programie i polegaja na polaczenie sie list alokacji odpowiadajacych roznym plikom w tablicy FAT
+TAK
+NIE

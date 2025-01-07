@@ -1,0 +1,4 @@
+X01
+Proces uspiony (zablokowany) oczekuje na zwolnienie procesora przez proces aktywny
+TAK
+NIE

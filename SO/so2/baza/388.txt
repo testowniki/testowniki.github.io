@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa signal tworzy nowy proces
+TAK
+NIE

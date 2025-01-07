@@ -1,0 +1,4 @@
+X10
+Warunek postepu w synchronizacji miedzy procesami to wymaganie, aby synchronizacja nie powodowala nieograniczonego w czasie zawieszenia procesu
+TAK
+NIE

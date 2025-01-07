@@ -1,0 +1,4 @@
+X10
+Sekcja krytyczna wykorzystywana jest do ochrony danych przed rownoczesna ich modyfikacja przez procesy wspolbiezne
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Sygnaly w systemie unix generowane sa wylacznie przez sterowniki urzadzen zewnetrznych
+TAK
+NIE

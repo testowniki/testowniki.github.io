@@ -1,0 +1,4 @@
+X01
+Algorytm lRU zastepowania stron pamieci wirtualnej zapewnia zawsze najmniejsza liczbe bledow stron (w porownaniu z innymi algorytmami)
+TAK
+NIE

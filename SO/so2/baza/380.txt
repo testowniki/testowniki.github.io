@@ -1,0 +1,4 @@
+X01
+Dowiazania symboliczne w linuxie musza miec rozszerzenie .ink
+TAK
+NIE

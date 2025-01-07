@@ -1,0 +1,4 @@
+X10
+Funkcja systemowa exec w unixie (Linuxie) modyfikuje kontekst wykonywanego procesu, korzystajac z pliku wykonywalnego podanego w argumencie
+TAK
+NIE

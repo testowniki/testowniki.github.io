@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa signal w unixie (Linuxie) tworzy nowy proces
+TAK
+NIE

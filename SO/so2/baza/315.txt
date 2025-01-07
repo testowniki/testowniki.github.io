@@ -1,0 +1,4 @@
+X10
+Funkcja systemowa fork w unixie (Linuxie) tworzy nowy proces, realizujacy ten sam program co proces-rodzic
+TAK
+NIE

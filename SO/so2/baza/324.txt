@@ -1,0 +1,4 @@
+X10
+Sciezka do pliku jest sciezka bezwzgledna okreslaca polozenie pliku wzgledem katalogu glownego
+TAK
+NIE

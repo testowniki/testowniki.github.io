@@ -1,0 +1,4 @@
+X01
+Pozycje katalogowe zawieraja sume kontrolna pliku
+TAK
+NIE

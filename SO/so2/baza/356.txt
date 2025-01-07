@@ -1,0 +1,4 @@
+X10
+Sygnaly w systemie unix wysylane sa do pojedynczych procesow lub do grup procesow
+TAK
+NIE

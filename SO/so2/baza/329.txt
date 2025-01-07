@@ -1,0 +1,4 @@
+X01
+Wspolbieznosc w systemach operacyjnych w powloce sh mozna ja wywolac wypisujac dwie komendy w nawiasach okraglych, rozdzielone przecinkami
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Sygnaly w systemie unix moga byc ignorowane przez procesy (z wyjatkiem sygnalu 9)
+TAK
+NIE

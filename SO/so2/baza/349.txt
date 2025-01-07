@@ -1,0 +1,4 @@
+X10
+Pozycje katalogowe w systemie unix zawieraja nazwy plikow
+TAK
+NIE

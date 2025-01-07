@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa signal w unixie (Linuxie) wysyla sygnal do procesu lub grupy procesow
+TAK
+NIE

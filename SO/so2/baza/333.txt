@@ -1,0 +1,4 @@
+X01
+Proces gotowy czasami usuwany jest z pamieci operacyjnej (kopiowany do obszaru wymiany)
+TAK
+NIE

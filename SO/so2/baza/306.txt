@@ -1,0 +1,4 @@
+X01
+Mechanizm spotkaniowy wykorzystywany jest do negocjacji dostepu do plikow
+TAK
+NIE

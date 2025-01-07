@@ -1,0 +1,4 @@
+X10
+Sygnaly w systemie unix generowane sa przez wykonanie operacji kill
+TAK
+NIE

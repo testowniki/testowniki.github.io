@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa signal w unixie (Linuxie) wysyla komunikat do standardowego strumienia bledow
+TAK
+NIE

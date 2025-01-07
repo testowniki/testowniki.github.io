@@ -1,0 +1,4 @@
+X01
+Biblioteki laczone dynamicznie (DLL) udostepniaja wylacznie funkcje wielowejsciowe (reentrant)
+TAK
+NIE

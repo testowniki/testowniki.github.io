@@ -1,0 +1,4 @@
+X01
+Dynamiczne ladowanie programu zmniejsza czas od wydania komendy do uruchomienia programu
+TAK
+NIE

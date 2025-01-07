@@ -1,0 +1,4 @@
+X10
+Dolaczenia w systemie plikow (links) pozwalaja tworzyc systemy plikow o strukturze niehierarchicznej
+TAK
+NIE

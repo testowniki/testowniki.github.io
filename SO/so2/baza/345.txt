@@ -1,0 +1,4 @@
+X10
+Wzorce plikow wykorzystuja znaki ? oraz * do okreslania dowolnych znakow w nazwie pliku
+TAK
+NIE

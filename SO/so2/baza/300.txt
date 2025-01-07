@@ -1,0 +1,4 @@
+X10
+Proces uspiony (zablokowany) realizuje operacje semaforowe
+TAK
+NIE

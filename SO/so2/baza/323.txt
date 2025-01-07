@@ -1,0 +1,4 @@
+X01
+Sciezka do pliku jest sciezka wzgledna okreslajaca polozenie pliku wzgledem katalogu domowego uzytkownika
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Sekcja krytyczna wykorzystywana jest do negocjacji dostepu do semaforow
+TAK
+NIE

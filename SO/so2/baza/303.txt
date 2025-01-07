@@ -1,0 +1,4 @@
+X10
+Stronicowanie na zadanie umozliwia zapisywanie do obszaru wymiany na dysku fragmentow kontekstow procesow, gdy brakuje pamieci fizycznej
+TAK
+NIE

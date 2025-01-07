@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa exec w unixie (Linuxie) tworzy nowy proces, realizujacy program podany w argumencie do tej funkcji
+TAK
+NIE

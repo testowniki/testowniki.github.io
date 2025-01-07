@@ -1,0 +1,4 @@
+X10
+Dowiazania symboliczne sa to pliki specjalne, ktore wskazuja na inne obiekty w systemie plikow
+TAK
+NIE
