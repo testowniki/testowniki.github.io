@@ -1,7 +1,0 @@
-X00100
-Na rysunku przedstawione są podstawowe cech zapisów na dyskach CD, DVD oraz BD. Dyski BD charakteryzują się największą gęstością zapisu, bo: <img src="baza/016.png"> 
-używają do zapisu promienia o największej długości fali (lambda), najmniejszej aperturze numerycznej (NA) oraz największej energii promieniowania
-żadna z pozostałych odpowiedzi nie jest poprawna
-używają do zapisu promienia o najmniejszej długości fali (lambda) i zapisują na najcieńszej warstwie nośnika
-tylko długość fali (lambda) i apertura numeryczna (NA) są istotne, a te dla zapisu BD są odpowiednio najmniejsza i największa
-używają do zapisu promienia o najmniejszej długości fali (lambda), największej aperturze numerycznej (NA) oraz największej energii promieniowania

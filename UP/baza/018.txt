@@ -1,3 +1,0 @@
-X1
-Ile bitow jest nadmiarowych w EFM
-a. -3 (3 bity oddzielaja kolejne bajty, ale bajt jest zakodowany na 14 bitach. Razem potrzeba wiec 17 bitow w EFM na bajt w zwyklym kodowaniu)

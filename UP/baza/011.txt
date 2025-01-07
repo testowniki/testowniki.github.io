@@ -1,7 +1,0 @@
-X10000
-Przy zapisie magnetycznym, o niezawodnosci zapisu decyduja:
-a. koercja i pozostalosc magnetyczna
-b. przede wszystkim koercja oraz magnetostrykcja
-c. koercja i magnetostrykcja, koercja decyduje o odpornosci na skasowanie zapisanych danych, magnetostrykcja wplywa na jakosc odczytu
-d. wszystkie trzy wartosci sa tutaj istotne
-e. tylko pozostalosc magnetyczna, koercja nie jest tu tak istotna

@@ -1,5 +1,0 @@
-X100
-Karty optyczne charakteryzuja sie (pojemnosc - dlaczego waha sie od 1 chyba do 3 MB)
-a. Podobnie jak dla kart mikroprocesorowych, wystepuja trzy rozne standardy wielkosci tych kart (duza, srednia, mini)
-b. czesc obszaru karty zajmuja gilosze
-c. . . .

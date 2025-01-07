@@ -1,7 +1,0 @@
-X00100
-Na rysunku przedstawiono formularze:<img src="baza/021.png">
-A -formularz OCR, B-formularz pisma blokowego
-dwa formularze OCR, A - ze znaczkami czasowymi, B- bez znaczkow czasowych
-A -formularz OMR, B-formularz OCR
-dwa formulkarze OMR, A - ze znaczkami czasowymi, B- bez znaczkow czasowych
-A -formularz OCR, B-formularz OMR

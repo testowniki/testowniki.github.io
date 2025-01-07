@@ -1,6 +1,0 @@
-X1000
-Modem wykorzystuje modulacje 16-QAM pracujac z predkoscia 3429 bodow na sekunde. Jaka jest predkosc bitowa przesylania informacji?
-13 716 bps
-10 287 b/s
-6 858 bps
-17 145 b/s

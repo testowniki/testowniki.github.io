@@ -1,7 +1,0 @@
-X01000
-sciezki prowadzace towarzysza sciezce danych:
-a. tylko na plytach LaserDisc i CD
-b. tylko na plytach CD, DVD, BR
-c. sa charakterystyczne tylko dla technologii CD i DVD
-d. na wszystkich rodzajach plyt optycznych
-e. zadna z pozostalych odpowiedzi nie jest poprawna

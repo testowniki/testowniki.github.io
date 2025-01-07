@@ -1,7 +1,0 @@
-X00100
-Majac mozliwosc zakupu (w tej samej cenie), kart magnetycznych LoCo (niski wspolczynnik koercji) albo HiCo (wysoki wspolczynnik koercji) wybierzemy:
-a. Karty HiCo, bo maja wieksza pojemnosc do zapisywania danych.
-b. Karty LoCo, bo HiCo sa bardziej podatne na rozmagnesowanie i utrate zapisu danych
-c. Karty HiCo, bo sa bardziej odporne na rozmagnesowanie i utrate zapisu danych
-d. Obojetnie, ktore wybierzemy, te rozne technologie nie maja wplywu na funkcjonowanie kart
-e. Karty LoCo, bo tylko one dopuszczaja wielokrotne zapisywanie danych na pasku

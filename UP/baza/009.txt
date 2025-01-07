@@ -1,7 +1,0 @@
-X00001
-Na czym polega modulacja EFM i jaka wprowadza nadmiarowosc w przypadku plyt CD?
-dokonuje modulacji sinusoidalnej, nosnej analogowej zgodnie z zapisem binarnym, nadmiarowosc zalezy od sposobu modulacji
-dokonuje modulacji sinusoidalnej, nosnej analogowej zgodnie z zapisem binarnym, nadmiarowosc wynosi 7 na 8 bitow
-zmienia szereg bitow zapisu cyfrowego na inny szereg bitow, nadmiarowosc wynosi 9 na 8 bitow
-zmienia szereg bitow zapisu cyfrowego na pity i landy zapisu na CD, nadmiarowosc wynosi 6 na 8 bitow
-modulacja EFM zmienia szereg bitow zapisu cyfrowego na inny szereg bitow, nie wprowadza nadmiarowosci
