@@ -1,5 +1,0 @@
-X011
-Planowanie dlugoterminowe
-Wymaga architektury wieloprocesorowej
-Bezposrednio decyduje o wyborze procesow, ktore nalezy wczytac do pamieci
-Okresla procesy, ktore nalezy utworzyc

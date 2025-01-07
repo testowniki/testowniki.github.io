@@ -1,6 +1,0 @@
-X1000
-Fragmentacja wewnetrzna dysku jest wynikiem
-Przydzialu miejsca na dysku porcjami stalej wielkosci
-Braku konserwacji systemu plikow - moze byc wyeliminowana przez program defragmentujacy
-Braku konserwacji systemu plikow (brak defragmentacji)
-Bledow programowych np. nie zamkniecia pliku przed zakonczeniem programu

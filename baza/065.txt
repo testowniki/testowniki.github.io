@@ -1,5 +1,0 @@
-X010
-Proces uspiony (zablokowany)
-Oczekuje na zwolnienie procesora przez proces aktywny
-Realizuje operacje semaforowe
-Zawsze usuwany jest z pamieci operacyjnej (kopiowany do obszaru wymiany)

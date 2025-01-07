@@ -1,8 +1,0 @@
-X100000
-Kontekst procesu
-Obejmuje informacje konieczne do wznowienia procesu wstrzymanego
-Jest to obraz plikow otwartych przez proces w pewnej chwili
-Jest to obraz pamieci, rejestrow i zmiennych systemowych procesu w pewnej chwili
-Jest skladowany gdy proces sie konczy (wykonuje exit)
-Jest odtwarzany przy kazdym przelaczeniu procesow
-Opisuje zaleznosc pomiedzy wspolbieznymi procesami

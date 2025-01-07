@@ -1,5 +1,0 @@
-X110
-Pozycje katalogowe
-Zawieraja nazwy plikow
-Zawieraja informacje o polozeniu pliku na dysku
-Zawieraja sume kontrolna pliku

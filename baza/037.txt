@@ -1,9 +1,0 @@
-X1010010
-Pamiec stronnicowania charakteryzuje sie tym, ze
-Adres logiczny jest przeksztalcany na adres fizyczny przez odczytanie numeru ramki z tablicy stron, z pozycji odpowiadajacej numerowi strony
-Jest technika pozwalajaca przydzielac programom pamiec blokami zmiennej wielkosci
-Eliminuje fragmentacje zewnetrzna pamieci
-Eliminuje fragmentacje wewnetrzna pamieci
-Musi byc realizowa z wykorzystaniem pamieci asocjacyjnej na tablice stron
-Powoduje, ze programy maja nieliniowa przestrzen adresowa (fizyczna T.AK, logiczna N.IE)
-Wymaga implementacji tablicy segmentow (sprzetowo lub programowo)

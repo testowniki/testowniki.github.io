@@ -1,8 +1,0 @@
-X100111
-Warunki konieczne do wystapienia blokady to
-Wystepowanie zasobow, ktore nie moga byc rownoczesnie wykorzystywane przezwiele procesow
-Brak priorytetow w dostepie do zasobow
-Przelaczanie procesow wedlug algorytmu planowania z wywlaszczaniem
-Przelaczanie procesow wedlug algorytmu bez wywlaszczania
-Przetrzymywanie i oczekiwanie, tzn. pozwolenie procesom nie bedacym aktywnymi ani gotowymi na zachowanie przydzialu zasobu
-Brak mechanizmu, ktory umozliwialby proceson przyjecie zasobow przydzielonych innym

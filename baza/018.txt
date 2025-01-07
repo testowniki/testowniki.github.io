@@ -1,7 +1,0 @@
-X00001
-Katalog glowny systemu plikow w Unixie
-Nie zawiera pozycji .. (normalnie wskazujacej na katalog nadrzedny)
-Nie zawiera pozycji . i .. (normalnie wskazujacych na katalog biezacy i nadrzedny)
-Zawiera stala liczbe pozycji, ktorej nie mozna zmienic bez rekompilacji jadra systemu
-Musi miec taka sama zawartosc, jak katalog do ktorego jest montowany
-zadna z powyzszych odpowiedzi nie jest prawdziwa

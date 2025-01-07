@@ -1,7 +1,0 @@
-X11010
-Semafory Dijkstry
-Sa mechanizmem synchronizujacym dostep do plikow
-Sa to dane calkowitoliczbowe, na ktorych zdefiniowane sa operacje P i V
-Sa to flagi dwustanowe, na ktorych zdefiniowane sa nieprzerywalne operacje P i V
-Mozna uzywac do rozwiazywania dowolnych problemow synchronizacji procesow
-W ich implementacji stosuje sie petle goracego czekania

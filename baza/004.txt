@@ -1,7 +1,0 @@
-X10000
-Sekwencyjny dostep do pliku
-Polega na czytaniu lub zapisie pliku rekord po rekordzie w stalej kolejnosci
-Pozwala na wystepowanie plikow nieciaglych, z niezaalokowanymi dziurami
-Jest mozliwy tylko w plikach z rekordami stalej dlugosci
-Nie pozwala dopisywac rekordow na koniec istniejacego pliku
-Nie powinien byz uzywany - jest implementowany jedynie z przyczyn historycznych

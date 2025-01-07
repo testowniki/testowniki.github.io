@@ -1,8 +1,0 @@
-X110001
-Warunki konieczne do wystapienia blokady to
-Wystepowanie zasobow, ktore nie moga byc wspoldzielone
-Brak mechanizmu umozliwiajacego wywlaszczanie zasobow od procesow
-Okreslaja, jak pisac programy wielowatkowe aby unikac bloakd
-Okreslaja, jak pisac programy wieolprocesowe aby unikac bloakd
-Okreslaja, kiedy proces moze przejsc do stanu zablokowania
-Mozliwosc zawieszania procesow z przydzielonymi pewnymi zasobami

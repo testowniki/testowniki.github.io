@@ -1,8 +1,0 @@
-X000110
-Blokada systemu
-wystepuje, gdy dwa procesy probuja rownoczesnie pisac do tego samego pliku
-wystepuje, gdy dwa procesy probuja rownoczesnie pisac do tego gniazda sieciowego
-wystepuje tylko w systemach operacyjnych napisanych z bledami
-wystepuje tylko w systemach operacyjnych wieloprogramowych
-Mozna ja usunac przez wymuszenie zakonczenia wszystkich procesow uspionych
-Mozna ja usunac przez czasowe zablokowanie dostepu uzytkownikow do systemu

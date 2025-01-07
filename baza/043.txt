@@ -1,8 +1,0 @@
-X101000
-Technika opoznionego zapisu na dysk w systemie Unix
-Jest metu sieciowym
-Jest metoda synchronizacji zapisow na dysku
-Polega na wprowadzeniu petli opozniajacej miedzy kolejnymi rozkazami zapisu
-Polega na zapisie bufora na dysk, w chwili jego zwalniania
-Moze byc wybiorczo stosowana przez programowe wlaczanie/wylaczanie funkcja fctl
-Moze byc wylaczana komenda fctl

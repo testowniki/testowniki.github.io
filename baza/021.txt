@@ -1,7 +1,0 @@
-X01101
-Listy kontroli dostepu ACL w Windows NT
-Sluza do okreslania warunkow logowania uzytkownikow do systemu
-Sluza do okreslania warunkow dostepu do plikow dla roznych uzytkownikow
-Pozwalaja definiowac grupy uzytkownikow
-Pozwalaja definiowac klucze dostepu do zasobow
-Umozliwiaja zdefiniowanie obiektow, do ktorych dostep musi byc odnotowany

@@ -1,5 +1,0 @@
-X100
-Proces gotowy
-Oczekuje na zwolnienie procesora przez proces aktywny
-Realizuje operacje drugoplanowe
-Czasami usuwany jest z pamieci operacyjnej (kopiowany do obszaru wymiany)

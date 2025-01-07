@@ -1,5 +1,0 @@
-X011
-Dynamiczne ladowanie programu
-Polega na wykorzystaniu bibliotek dolaczanych w trakcie wykonywania programu
-Polega na ladowaniu nakladek programu, gdy sa potrzebne
-Mozna zrealizowac w systemie ze stronnicowaniem na zadanie

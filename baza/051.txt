@@ -1,6 +1,0 @@
-X1011
-Algorytm przelaczania procesow w systemie Unix
-Jest algorytmem z wywlaszczeniem
-Opiera sie na priorytecie statycznym, wyliczanym w opraciu o wykorzystanie procesora przez proces
-Opiera sie na priorytecie dynamicznym, obnizanym dla procesow intensywnych obliczeniowo, a podwyzszanym dla procesow interakcyjnych
-Pozwala modyfikowac priorytet procesu przy pomocy funkcji nice

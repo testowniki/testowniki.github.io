@@ -1,7 +1,0 @@
-X10010
-W Unixie wystepuje katalog, dostepny przez sciezke ./ 
-Jest to katalog roboczy procesu
-Jest to katalog nadrzedny
-Jest to katalog glowny, jeden dla calego systemu
-Kazdy proces moze miec swoj taki katalog
-Proces musi miec prawa zapisu w tym katalogu, aby mogl sie wykonywac

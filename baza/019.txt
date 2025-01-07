@@ -1,6 +1,0 @@
-X1000
-Katalog biezacy w Unixie
-Jest plikiem zawierajacym rekordy z nazwami i numerami inodeíow nalezacych do niego plikow
-Ma ograniczona wielkosc, poniewaz umieszczony jest w calosci w superbloku
-Nie zawiera pozycji . i ..
-Uzytkwnik nie moze zmienic go, jezeli nie ma uprawnien Root

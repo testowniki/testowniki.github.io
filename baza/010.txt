@@ -1,6 +1,0 @@
-X0001
-Przydzial listowy miejsca na dysku
-Jest algorytmem optymalnym, nie dajacym sie zaimplementowac w praktyce
-Charakteryzuje sie brakiem fragmentacja wewnetrznej przestrzeni dysku
-Wymaga zapisu tablicy listowej na dysku
-zadna z powyzszych odpowiedzi nie jest prawdziwa

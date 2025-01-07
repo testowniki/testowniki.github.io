@@ -1,5 +1,0 @@
-X111
-Sygnaly w systemie Unix
-Generowane sa przez wykonanie operacji kill
-Moga powodowac zakonczenie procesu
-Moga byc wyslane do wielu procesow rownoczesnie

@@ -1,7 +1,0 @@
-X00010
-Algorytm FIFO zastepowania stron pamieci
-Gwarantuje najmniejsza mozliwa liczbe bledow stron
-Gwarantuje najkrotszy czas dostepu do pamieci
-Zapewnia, ze liczba bledow stron (dla tych samych procesow) nie zwiekszy sie, gdy doinstalujemy (udostepnimy) dodatkowe ramki pamieci fizycznej
-Polega na usuwaniu stron, ktore najdluzej przebywaly w pamieci fizycznej
-Polega na usuwaniu stron, ktore najdawniej byly uzywane

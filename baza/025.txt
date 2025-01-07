@@ -1,9 +1,0 @@
-X0100101
-Semafory binarne
-Sluza do wyznaczania czasu w systemach czasu rzeczywistego
-Sluza do synchronizacji procesow wspolbieznych
-Sluza do blokowania dostepu do dysku w trybie binarnym (nie znakowym)
-Sa to struktury danych do modelowania ruchu ulicznego
-Sa to dane jednobitowe, ktore mozna testowac, ustawiac i zerowac
-Sa to dane calkowitoliczbowe z zakresu 0 - 2n (n>1) z niepodzielnymi operacjami P i V
-Mozna uzywac do rozwiazywania dowolnych problemow synchronizacji procesow

@@ -1,7 +1,0 @@
-X01100
-Sekwencyjny dostep do pliku
-Pozwala czytac rekordy w dowolnej kolejnosci dzieki operacji lseek
-Wyklucza powstawanie "dziur" w plikach, w ktorych nie ma przydzielonych blokow
-Ulatwia grupowanie operacji dyskowych przez system operacyjny
-Powinien byc uzywany jedynie przy operacjach na plikach specjalnych, odpowiadajacych urzadzeniom znakowym
-Szereguje dostep wielu procesow do pliku

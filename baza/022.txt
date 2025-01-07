@@ -1,8 +1,0 @@
-X001010
-Plik MFT (Master File Table) w systemie plikow NTFS
-Sluzy do okreslania uprawnien dostepu do plikow
-Sluzy do okreslania warunkow logowania uzytkownikow do sytemu
-Zawiera listy ACL wszystkich plikow
-Zawiera kopie boot sektora
-Zawiera opis wszystkich plikow w systemie
-Zawiera tablice partycji dysku

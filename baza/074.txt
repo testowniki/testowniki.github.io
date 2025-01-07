@@ -1,5 +1,0 @@
-X010
-Sekcja krytyczna
-To technika synchronizacji dostepu do pamieci wspoldzielonej przez procesy
-Wykorzystywana jest do ochrony danych przed rownoczesna ich modyfikacja przez procesy wspolbieNne
-Wykorzystywana jest do negocjacji dostepu do semaforow

@@ -1,7 +1,0 @@
-X10000
-Katalog glowny systemu plikow w Unixie
-Jest plikiem zawierajacym rekordy z nazwami i numerami indexow nalezacych do niego plikow
-Jest plikiem zawierajacym rekordy z nazwami, innymi atrybutami i tablicami indeksowymi nalezacych do niego plikow
-Nie ma nazwy, definiowany jest przez zapisanie numeru jego indexu w superbloku
-Nie ma nazwy, zajmuje zawsze to samo miejsce na partycji dysku (w systemie plikow)
-Ma ograniczona wielkosc, poniewaz umieszczony jest w calosci w superbloku

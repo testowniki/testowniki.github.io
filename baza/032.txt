@@ -1,5 +1,0 @@
-X100
-Proces moze przejsc do stanu zablokowania (uspienia)
-Po wyczerpaniu kwantu czasu aktywnosci (w systemie z algorytmem karuzelowym) 
-W wyniku wykonania funkcji exit (w Unixie)
-Bezposrednio ze stanu gotowosci

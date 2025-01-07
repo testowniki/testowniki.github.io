@@ -1,9 +1,0 @@
-X1011111
-Powloka systemu operacyjnego
-Okresla dostepny zestaw i skladnie komend sterujacych
-Okresla dostepny zestaw i skladnie komend zewnetrznych
-Okresla dostepny zestaw i skladnie komend wewnetrznych
-Okresla zmienne srodowiskowe dla uruchamianych komend
-Okresla jezyk programowania skryptow systemowych
-Pozwala na edytowanie linii komendy
-Pozwala na przegladanie historii wykonywanych komend

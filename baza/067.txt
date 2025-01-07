@@ -1,5 +1,0 @@
-X110
-Mechanizm spotkaniowy
-To technika synchronizacji dostepu do pamieci wspoldzielonej przez procesy
-Wykorzystywany jest do przesylania danych pomiedzy procesami
-Wykorzystywany jest do negocjacji dostepu do plikow

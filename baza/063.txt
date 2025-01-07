@@ -1,5 +1,0 @@
-X100
-Przetwarzanie potokowe w Unixie
-Realizowane jest przez przekierowanie standardowego wyjscia komendy pierwszej do standardowego wejúcia komendy drugiej
-W powloce sh mozna je wywolac wypisujac dwie komendy w nawiasach okraglych, rozdzielone przecinkami
-Dostepne jest tylko w systemach wieloprocesorowych

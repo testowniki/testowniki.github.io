@@ -1,5 +1,0 @@
-X100
-Biblioteki laczone dynamicznie (DLL):
-ladowane sa do pamieci tylko funkcje, do ktorych wystapi odwolanie
-Udostepniaja wylacznie funkcje wielowejsciowe (reentrant)
-Kopiowane sa w calosci do plikow wykonywalnych, zawierajacych programy z nich korzystajace

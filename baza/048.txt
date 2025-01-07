@@ -1,8 +1,0 @@
-X010000
-Fragmentacja wewnetrzna pamieci jest wynikiem
-Powoduje lepsze wykorzystanie miejsca w pamieci przez procesy
-Przydzialu pamieci porcjami stalej wielkosci (stronami)
-wystepuje jedynie w systemach z pamiecia wirtualna
-Niedopasowania rozmiaru segmentow pamieci do wielokrotnosci wielkosci ramki
-Moze byc wyeliminowana przez relokacje programow
-Bledow programowych np. nie zwalniania pamieci przed zakonczeniem programu

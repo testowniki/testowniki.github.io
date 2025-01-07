@@ -1,6 +1,0 @@
-X1011
-Procesy charakteryzuja sie
-Sekwencyjnym wykonywaniem operacji
-Kontekstem, ktory okresla jakie procesy sa wykonywane wspolbieznie
-Zlozonoscia obliczeniowa, wyrazona np. przez liczbe petli, skokow i rozgalezien (Nie wiadomo do konca)
-Mozliwoscia przerywania i wznawiania wykonania (wedlug skladowanego kontekstu)
