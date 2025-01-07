@@ -2,17 +2,18 @@ var dzisiaj;
 var dzien;
 
 
-var poprawaG = new Date('02/07/2023');
+// eg. var poprawaG = new Date('02/07/2023');
+var poprawaG = 0;
 
-var poprawaPEA = new Date('02/09/2023');
+var poprawaPEA = 0;
 
 var poprawaSO = 0;
 
-var poprawaUC = new Date('02/06/2023');
+var poprawaUC = 0;
 
-var poprawaUP = new Date('01/31/2023');
+var poprawaUP = 0;
 
-var poprawaIO = new Date('02/10/2023');
+var poprawaIO = 0;
 
 function wpiszDaty() {
     var now = new Date().getTime();
