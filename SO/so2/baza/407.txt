@@ -1,0 +1,4 @@
+X01
+Ogole semafory dijkstry moga blokowac proces przy wykonaniu operacji V
+TAK
+NIE

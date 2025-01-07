@@ -1,0 +1,4 @@
+X10
+Kanal komunikacyjny z zerowym buforowaniem to kanal, w ktorym aktualnie nie ma zadnych komunikatow
+TAK
+NIE

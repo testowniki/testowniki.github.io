@@ -1,0 +1,4 @@
+X01
+Proces moze przejsc do stanu zablokowania po wyczerpaniu kwantu czasu aktywnosci
+TAK
+NIE

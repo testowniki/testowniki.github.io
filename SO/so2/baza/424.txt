@@ -1,0 +1,4 @@
+X01
+Proces uspiony (zablokowany) zawsze usuwany jest z pamieci operacyjnej (kopiowany do obszaru wymiany)
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Kanal komunikacyjny z zerowym buforowaniem umozliwia buforowanie operacji dyskowych
+TAK
+NIE

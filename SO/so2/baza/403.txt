@@ -1,0 +1,4 @@
+X01
+Kanal komunikacyjny z nieograniczonym buforowaniem moze powodowac uspienie procesu piszacego do kanalu
+TAK
+NIE

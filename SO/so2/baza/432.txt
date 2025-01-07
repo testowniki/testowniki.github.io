@@ -1,0 +1,4 @@
+X01
+Pozycje katalogowe w systemie FAT zawieraja sume kontrolna pliku
+TAK
+NIE

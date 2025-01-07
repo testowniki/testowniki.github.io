@@ -1,0 +1,4 @@
+X01
+Sciezka do pliku moze byc wzgledna, bezwzgledna lub symboliczna
+TAK
+NIE

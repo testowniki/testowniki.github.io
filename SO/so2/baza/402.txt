@@ -1,0 +1,4 @@
+X10
+Kontekst procesu opisuje stan wszystkich zasobow, z ktorych moze proces korzystac
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Stan procesu Identyfikuje procesy, ktore nie wymagaja dostepu do urzadzen zewnetrznych
+TAK
+NIE

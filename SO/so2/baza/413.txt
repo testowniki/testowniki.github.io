@@ -1,0 +1,4 @@
+X01
+Przetwarzanie posrednie eliminuje fragmentacje zewnetrzna dysku przez przesuwanie plikow w tle
+TAK
+NIE

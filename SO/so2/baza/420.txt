@@ -1,0 +1,4 @@
+X01
+Przydzial indeksowy miejsca na dysku opisuje polozenie pliku jako ciag segmentow roznej wielkosci
+TAK
+NIE

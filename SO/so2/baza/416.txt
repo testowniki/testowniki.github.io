@@ -1,0 +1,4 @@
+X01
+Przetwarzanie potokowe w powloce sh mozna je wywolac wypisujac dwie komendy w nawiasach okraglych rozdzielone przecinkami
+TAK
+NIE

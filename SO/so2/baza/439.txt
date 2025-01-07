@@ -1,0 +1,4 @@
+X10
+Planowanie srednioterminowe okresla kolejnosc kopiowania procesow do pamieci z obszaru wymiany
+TAK
+NIE

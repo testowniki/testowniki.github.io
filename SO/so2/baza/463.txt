@@ -1,0 +1,4 @@
+X01
+Warunek wykluczania w synchronizacji miedzy procesami zapewnia, ze proces nie jest wywlaszczany, gdy znajduje sie w sekcji krytycznej
+TAK
+NIE

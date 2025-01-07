@@ -1,0 +1,4 @@
+X01
+Stronicowanie na zadanie wlaczane jest na zadanie procesu (przez wywolanie funkcji swapon)
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Przydzial indeksowy miejsca na dysku wymaga zapisu tablicy indeksowej na dysku
+TAK
+NIE

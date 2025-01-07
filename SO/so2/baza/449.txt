@@ -1,0 +1,4 @@
+X01
+Swobodny (zrandomizowany), dostep do pliku szereguje dostep wielu procesow do pliku
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Ochrona pamieci w systemach operacyjnych zapewnia, ze procesy nie zostana zmodyfikowane w trakcie kopiowania do obszaru wymiany (swapping)
+TAK
+NIE

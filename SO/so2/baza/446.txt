@@ -1,0 +1,4 @@
+X01
+Sygnaly w systemie linux nie moga byc ignorowane przez procesy
+TAK
+NIE

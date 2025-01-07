@@ -1,0 +1,4 @@
+X01
+Sciezka do pliku to sciezka symboliczna okreslajaca polozenie pliku wzgledem katalogu domowego uzytkownika
+TAK
+NIE

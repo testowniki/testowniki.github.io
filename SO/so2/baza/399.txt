@@ -1,0 +1,4 @@
+X01
+Kanal komunikacyjny z zerowym buforowaniem moze powodowac uspienie procesu czytajacego z kanalu
+TAK
+NIE

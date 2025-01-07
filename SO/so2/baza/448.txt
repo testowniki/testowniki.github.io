@@ -1,0 +1,4 @@
+X01
+Swobodny (zrandomizowany), dostep do pliku polega na wspoldzieleniu otwartych plikow przez wiele procesow
+TAK
+NIE

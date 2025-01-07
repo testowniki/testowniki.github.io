@@ -1,0 +1,4 @@
+X01
+Planowanie zadan (scheduling) ma na celu unikanie blokad
+TAK
+NIE

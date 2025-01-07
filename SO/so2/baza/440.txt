@@ -1,0 +1,4 @@
+X10
+Planowanie srednioterminowe wybiera proces do uruchomienia sposrod procesow gotowych
+TAK
+NIE

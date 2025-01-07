@@ -1,0 +1,4 @@
+X10
+Proces moze przejsc do stanu zablokowania bezposrednio ze stanu aktywnosci
+TAK
+NIE

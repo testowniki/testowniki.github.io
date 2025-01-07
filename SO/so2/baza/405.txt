@@ -1,0 +1,4 @@
+X10
+Kanal komunikacyjny z nieograniczonym buforowaniem umozliwia buforowanie operacji dyskowych
+TAK
+NIE

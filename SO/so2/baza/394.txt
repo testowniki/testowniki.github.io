@@ -1,0 +1,4 @@
+X10
+Funkcja systemowa execve w unixie (Linuxie) laduje nowy program w miejsce obrazu pamieci procesu, ktory wywolal te funkcje
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Stronicowanie na zadanie wykorzystuje segmentacje pamieci
+TAK
+NIE

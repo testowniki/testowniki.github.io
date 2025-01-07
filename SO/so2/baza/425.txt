@@ -1,0 +1,4 @@
+X10
+Proces uspiony (zablokowany) oczekuje az inny proces go zbudzi
+TAK
+NIE

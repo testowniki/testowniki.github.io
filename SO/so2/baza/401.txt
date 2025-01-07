@@ -1,0 +1,4 @@
+X01
+Kontekst procesu obejmuje informacje konieczne do zablokowania procesu
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Ochrona pamieci w systemach operacyjnych okresla prawa dostepu procesow do pamieci dyskowej
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Funkcja systemowa signal wysyla komunikat do standardowego strumienia bledow
+TAK
+NIE

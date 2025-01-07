@@ -1,0 +1,4 @@
+X10
+Sygnaly w systemie linux wysylane sa do pojedynczych procesow, grup procesow, procesow okreslonego uzytkownika lub do wszystkich procesow
+TAK
+NIE

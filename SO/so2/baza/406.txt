@@ -1,0 +1,4 @@
+X10
+Ogole semafory dijkstry przyjmuja tylko wartosci 0 lub 1
+TAK
+NIE

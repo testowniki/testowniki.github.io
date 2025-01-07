@@ -1,0 +1,4 @@
+X01
+Planowanie srednioterminowe okresla procesy, ktore nalezy odblokowac
+TAK
+NIE

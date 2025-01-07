@@ -1,0 +1,4 @@
+X10
+Planowanie zadan (scheduling) ma na celu wybor procesu do aktywacji
+TAK
+NIE

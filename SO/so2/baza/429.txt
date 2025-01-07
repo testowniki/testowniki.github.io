@@ -1,0 +1,4 @@
+X01
+Powloka systemu operacyjnego pozwala definiowac zmienne srodowiskowe, przekazywane do uruchamianych programow
+TAK
+NIE

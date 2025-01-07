@@ -1,0 +1,4 @@
+X01
+Stan procesu przechowywany jest w jadrze systemu operacyjnego w obszarze uarea
+TAK
+NIE

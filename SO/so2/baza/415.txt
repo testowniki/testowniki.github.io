@@ -1,0 +1,4 @@
+X01
+Przetwarzanie potokowe dostepne jest tylko w systemach wieloprocesorowych
+TAK
+NIE

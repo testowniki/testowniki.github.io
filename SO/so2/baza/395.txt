@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa execve w unixie (Linuxie) tworzy nowy proces, realizujacy program podany w argumencie do tej funkcji
+TAK
+NIE

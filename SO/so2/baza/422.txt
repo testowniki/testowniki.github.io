@@ -1,0 +1,4 @@
+X01
+Proces moze przejsc do stanu zablokowania w wyniku wykonania funkcji exit (w linuxie)
+TAK
+NIE

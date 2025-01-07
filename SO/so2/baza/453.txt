@@ -1,0 +1,4 @@
+X10
+Stan procesu okresla, czy procesor jest przydzielony do procesu
+TAK
+NIE

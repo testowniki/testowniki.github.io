@@ -1,0 +1,4 @@
+X10
+Przydzial ciagly miejsca na dysku charakteryzuje sie fragmentacja zewnetrzna przestrzeni dysku
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Stronicowanie na zadanie wymaga tworzenia obrazu pamieci w obszarze wymiany
+TAK
+NIE

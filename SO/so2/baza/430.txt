@@ -1,0 +1,4 @@
+X01
+Pozycje katalogowe w systemie FAT pozwalaja definiowac nazwy plikow dowolnej wielkosci
+TAK
+NIE

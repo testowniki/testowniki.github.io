@@ -1,0 +1,4 @@
+X10
+Przetwarzanie potokowe realizowane jest przez przekierowanie standardowego wyjscia komendy pierwszej do standardowego wejscia komendy drugiej
+TAK
+NIE

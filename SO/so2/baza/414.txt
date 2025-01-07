@@ -1,0 +1,4 @@
+X10
+Przetwarzanie posrednie polega na kopiowaniu danych miedzy dyskiem a wolnymi urzadzeniami zewnetrznymi w celu poprawy wykorzystania procesora
+TAK
+NIE
