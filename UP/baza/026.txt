@@ -1,0 +1,7 @@
+X00001
+Załączony rysunek przedstawia zapis pitów i landów na dysku CD. Czy może to być zapis EFM? <img src="baza/026.png">
+tak, poniewaz jest to zapis NRZI polaczony z EFM
+nie, poniewaz jest to zapis NRZI polaczony z PCM
+tak, poniewaz metoda NRZI sluzy wlasnie do realizacji takiego zapisu EFM
+nie, poniewaz dlugosc 1-go (od lewej) landu jest za krotka
+nie, poniewaz pity 2-gi i 4-ty sa za krotkie

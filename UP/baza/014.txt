@@ -1,0 +1,7 @@
+X00100
+Pierwsze komercyjne dostepne dyski optyczne tzw. LaserDisc opracowane w latach `70 XXw. charakteryzowaly sie:
+zadna z pozostalych odpowiedzi nie jest poprawna, bo te technologie stosuje sie.. i HD. LaserDisc nie korzystaly z tych technologii
+stala predkoscia katowa obrotu dysku w napedzie CAV (Constant Angular Velocity)
+stala predkoscia liniowa obrotu dysku w napedzie CLV (Constant Linear Velocity)
+stopniowana predkoscia liniowa obrotu dysku w napedzie ZCLV (ZonedConstantLinearVelocity)
+stopniowana predkosc katowa obrotu dysku w napedzie CAA (Constant Angular Acceleration)

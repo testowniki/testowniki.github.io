@@ -1,0 +1,7 @@
+X10000
+Modem wykorzystuje modulację 32-QAM pracując z prędkością 2 425 bodów na sekundę. Jaka jest prędkość bitowa przesyłania informacji?
+12 125 bps
+10 287 b/s
+13 716 bps
+17 145 b/s
+jest za mało danych, aby odpowiedzieć na to pytanie

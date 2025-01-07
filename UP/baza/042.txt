@@ -1,0 +1,7 @@
+X00100
+Kodowanie EFM stosowane jest przy zapisie cyfrowym na dyskach optycznych w celu:
+zadna z pozostalych odpowiedzi nie jest prawidlowa
+zapewnienia technicznej mozliwosci zapisu pitow i landow na nosnikach optycznych
+zminimalizowania liczby pitow i landow na powierzchni dysku
+kompresji danych, a w rezultacie zaoszczedzenia miejsca na dyskach
+modulacji nosnej a tym samym zamiany wartosci binarnych na sygnal sterujacy zapisem

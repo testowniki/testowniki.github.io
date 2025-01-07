@@ -1,0 +1,6 @@
+X0100
+Pytanie o to, ktore mozna ponownie aktywowac:
+a. EM, AM, RF
+b. EM, AM
+c. EM, RF
+d. AM, RF

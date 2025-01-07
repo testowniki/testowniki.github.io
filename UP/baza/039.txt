@@ -1,0 +1,7 @@
+X00010
+sciezki prowadzace towarzyszace sciezce danych na plytach DVD:
+a. zadna z pozostalych odpowiedzi nie jest poprawna
+b. umozliwiaja ustalenie wlasciwego polozenia glowicy nad sciezka
+c. zawieraja informacje o wymaganym polozeniu glowicy nad sciezka
+d. umozliwiaja ustalenie wlasciwej predkosci obrotowej plyty, wlasciwego polozenia glowicy nad sciezka oraz awieraja informacje o podziale dysku na sektory i informacje technologiczne
+e. sa takie same jak na plytach CD oraz pelnia te same funkcje i zawieraja te same informacje

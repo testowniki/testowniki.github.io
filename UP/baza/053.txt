@@ -1,0 +1,8 @@
+X000010
+Dany jest PESEL 9211219291x. Cyfra kontrolna tego numeru PESEL  jest równa:
+5
+7
+3
+4
+1
+8

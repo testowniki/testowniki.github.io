@@ -1,0 +1,10 @@
+X0000100
+Na rysunku przedstawione są komunikaty: <img src="baza/025.png">
+2 pakietow Bluetooth
+protokolu X-modem
+2 komend WaveOut
+protokolu Y-modem
+protokolu NMEA
+2 pakietów BLE
+2 pakietów WiFi
+

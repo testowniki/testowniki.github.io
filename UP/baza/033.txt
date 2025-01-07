@@ -1,0 +1,3 @@
+X1
+ATR (byly podane bity A: 11100011 i B: 10010100). Jaka informacje przekazuja?
+a. nie mam pojecia

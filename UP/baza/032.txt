@@ -1,0 +1,3 @@
+X1
+Suma kontrolna (byl ciag liczb z okreslonymi wagami, trzeba bylo okreslic jak obliczyc suma kontrolna) //byl podany algorytm?
+a. Suma kontrolna otrzymywana poprzez wzor: NPNPNPNPNPNK K = (10 - (suma_cyfr(P) + 3 * suma_cyfr(N))%10) % 10

@@ -1,0 +1,7 @@
+X01000
+Przedstawione na rysunku urządzenie to: <img src="baza/036.png">
+TAG pracujący na częstotliwości radiowej 7-9 MHz
+transponder RFID Tiris pracujący na częstotliwości 1.3 GHz
+1-bit EAS tag pracujący na zasadzie podziału częstotliwości 130 kHz
+transponder RFID MIFARE Ultralight pracujący na częstotliwości 13 MHz
+TAG akustyczno-magnetyczny pracujący <100 kHz

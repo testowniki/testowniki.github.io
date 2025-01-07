@@ -1,0 +1,7 @@
+X10000
+W modemie transmitujac dane z predkoscia 2,4 Kb/s, wykorzystywano modulacje 8-QAM. Po zmianie jedynie sposobu modulacji, predkosc transmisji wzrosla do 4 Kb/s. Ile bitow informacji koduje teraz pojedynczy symbol?
+5
+4
+3
+2
+1

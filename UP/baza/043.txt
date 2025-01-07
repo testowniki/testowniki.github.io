@@ -1,0 +1,7 @@
+X00100
+Zalaczony rysunek przedstawia: <img src="baza/043.png">
+a. zasady modulacji kwadraturowej 8 QAM
+b. zasady modulacji fazowej 16 QAM
+c. zadna z pozostalych odpowiedzi nie jest prawidlowa
+d. zasady rozmieszczania znacznikow sterujacych obrotami dysku LaserDisc
+e. zasady rozmieszczania sektorow na dyskach CD/DVD

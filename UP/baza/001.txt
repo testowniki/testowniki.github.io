@@ -1,0 +1,7 @@
+X01000
+W jaki sposob nastepuje kasowanie danych zapisanych na plytach wykorzystujacych fotoczula warstwe ograniczajaca jako nosnik zapisanych informacji
+A. poprzez podgrzanie do temp. pow 600C i szybkie ostudzenie
+B. zadna z wymienionych // w C temperatura za wysoka (powinna byc 200C i wolne stygniecie)
+C. poprzez podgrzanie do temp. 400C i wolne stygniecie <- (uwazam za poprawna DJ)
+D. kazda z metod moze byc stosowana
+E. poprzez podgrzanie i przylozenie zewnetrznego pola magnetycznego

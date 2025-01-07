@@ -1,0 +1,7 @@
+X00100
+Na kartach magnetycznych:
+a. jest tylko jedna sciezka ISO, ktora moze byc zapisana tylko jednokrotnie
+b. jest tylko jedna sciezka ISO, ktora jest wielokrotnego zapisu
+c. sa trzy sciezki IATA, ABA, NCR przy czym tylko NCR jest wielokrotnego zapisu 
+d. sa trzy sciezki IATA, ABA, NCR i wszystkie moga byc zapisywanie wielokrotnie
+e. sa dwie sciezki ISO-1, ISO-2, ktore moga byc zapisane tylko jednokrotnie

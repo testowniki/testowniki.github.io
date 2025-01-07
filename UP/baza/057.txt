@@ -1,0 +1,8 @@
+X001000
+W modemie transmitując dane z prędkością 9.6 kb/s , wykorzystywano modulację 8-QAM. Po zmianie jedynie sposobu modulacji, prędkość transmisji wzrosła do 12.8 kb/s. Ile bitów informacji koduje teraz pojedynczy symbol?
+2
+3
+4
+5
+6
+żadna z pozostałych odpowiedzi nie jest poprawna

@@ -1,0 +1,7 @@
+X00100
+Kody paskowe to:
+żadna z pozostałych odpowiedzi nie jest poprawna
+Postnet, UPC, PDF417
+EAN-13, Postnet
+GTIN-13, QR
+EAN-13, QR, UPC

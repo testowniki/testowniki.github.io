@@ -1,0 +1,7 @@
+X00010
+Zalaczony rysunek przedstawia: <img src="baza/047.png">
+zasady modulacji fazowej 4QAM
+zasady modulacji 16 QAM, dla ktorej 4 Bod = 1bps
+binarny zapis danych w postaci pitow i landow na powierzchni dysku Blue-ray Disc
+zasady modulacji 16 QAM, dla ktorej 1 Bod = 4 bps
+zadna z pozostalych odpowiedzi nie jest prawidlowa

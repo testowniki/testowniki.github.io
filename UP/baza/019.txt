@@ -1,0 +1,7 @@
+X00010
+W sekwencji ATR jako pierwszy wystepuje znak TS . . . //Powtarza sie
+a. zadna z pozostalych odpowiedz nie jest poprawna
+b. jest on obligatoryjny oraz pozwala na ustalenie kierunku transmisji, poniewaz transmisja odbywa sie na jednej lini I/O
+c. jest on obligatoryjny oraz okresla parametry transmisji takie jak: predkosc transmisji jej kierunek oraz liczb obslugiwanych przez karte protokolow
+d. jest on obligatoryjny oraz okresla parametry transmisji takie jak: etu, kolejnosc bitow w bajcie czy sposob kodowania 0/1
+e. nie jest on obligatoryjny, ale jest stosowany aby czytnik mogl zsynchronizowac sie z karta, tak aby odczytal dobrze nastepny znak T0, ktory okresla f. podstawowy protokol obslugiwany przez karte

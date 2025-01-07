@@ -1,0 +1,7 @@
+X10000
+Załączony rysunek przedstawia: <img src="baza/031.png">
+zadna z odpowiedzi nie jest poprawna
+czesc I. - strukture komendy APDU, czesc II - strukture sekwencji ART
+czesc I. - strukture komendy ATR, czesc II - strukture sekwencji APDU
+czesc I. - strukture komendy PTS, czesc II - strukture sekwencji APDU
+czesc I. - strukture komendy ATR, czesc II - strukture sekwencji PTS

@@ -1,0 +1,7 @@
+X10000
+Zalaczony rysunek przedstawia: <img src="baza/037.png">
+zasady modulacji fazowej PSK
+zasady modulacji czestotliwosciowej FM
+zasady kodowania PCM (Pulse Code Modulation)
+zasady modulacji amplitudowej AM
+zasady kodowania EFM (Eight to Fourteen Modulation)

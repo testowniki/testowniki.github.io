@@ -1,0 +1,6 @@
+X0100
+Tagi typu AM (Acousto Magnetic) sa okreslane jako akustyczne poniewaz:
+a. zadna z pozostalych odpowiedzi nie jest poprawna
+b. czestotliwosc ich pobudzania sygnalem sinusoidalnym lezy w zakresie drgan akustycznych
+c. gdy znajda sie w obszarze bramki, wzbudzaja sie wydajac dzwiek slyszalny przez czlowieka
+d. czestotliwosc sygnalu sinusoidalnego, jakim sa pobudzane, jest z zakresu drgan akustycznych

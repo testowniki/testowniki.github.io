@@ -1,0 +1,8 @@
+X000001
+W kanale komunikacyjnym szumy mają 16 krotnie mniejszą energię niż przesyłany sygnał. Korzystając z powyższego wykresu, jaką modulację należy zastosować, aby zapewnić maksymalną możliwą przepustowość i aby średnio, nie więcej niż tylko 1 na 10 tysięcy przesyłanych bitów był przekłamany? <img src="baza/048.png">
+8-PSK
+QPSK
+kazda z wymienionych modulacji spelnia ten warunek
+zadna z wymienionych modulacji nie spelnia tego warunek
+8-PSK, bo jako lezaca pomiedzy dwiema pozostalymi jest srednio dobra, 16-PSK to za duzo, QPSK to za malo
+16-PSK

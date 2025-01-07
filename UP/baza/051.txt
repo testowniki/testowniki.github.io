@@ -1,0 +1,7 @@
+X00100
+Przedstawione na rysunku bajty A i B są elementami TD_i sekwencji ATR (Answer To Reset), otrzymanej od karty mikroprocesorowej, po jej zresetowaniu. Informacja, jaką przekazuje nam karta to: <img src="baza/051.png">
+A - przekazuje 3-bajtowy deskryptor kolejnego protokolu, B - bedzie jeszcze jeden bajt sekwencji ATR
+A - przekazuje 3-bajtowy deskryptor ostatniego protokolu, B - przekazuje 1 - bajtowy deskryptor kolejnego protokolu
+A - przekazuje 3-bajtowy deskryptor kolejnego protokolu, B - przekazuje 6 - bajtowy deskryptor kolejnego protokolu
+A - przekazuje 3-bajtowy deskryptor kolejnego protokolu, B - bedzie jeszcze jeden bajt sekwencji ATR
+A - przekazuje ostatni bajt sekwencji ATR, B - przekazuje 6-bajtowy deskryptor kolejnego protokolu

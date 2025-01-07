@@ -1,0 +1,9 @@
+X01000
+W modemie transmitując dane z prędkością 9.6 kb/s , wykorzystywano modulację 8-QAM .
+Po zmianie jedynie sposobu modulacji prędkość transmisji wzrosła do 19.2 kb/s.
+Jaką, nową modulację zastosowano?
+128-QAM
+64-QAM
+16-QAM
+32-QAM
+żadna z pozostałych odpowiedzi nie jest poprawna.

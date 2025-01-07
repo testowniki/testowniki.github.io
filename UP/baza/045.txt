@@ -1,0 +1,8 @@
+X000100
+Dany jest PESEL 0532200151 . Cyfra kontrolna tego numeru PESEL jest rowna:
+a. 4 
+b. 6 
+c. 8 
+d. 7 
+e. 3 
+f. 5

@@ -1,0 +1,6 @@
+X0001
+sciezki prowadzace towarzyszace sciezce danych na plytach CD zawieraja informacje o:
+a. zadna z pozostalych odpowiedzi nie jest poprawna
+b. tylko o polozeniu sciezki tak, aby glowica znajdowala sie dokladnie nad nia i w okreslonej odleglosci od powierzchni plyty
+c. strukturze logicznej sciezki, podziela sciezki na sektory oraz numeracji sektorow 
+d. polozeniu sciezki, wymaganej predkosci obrotowej, wysokosci glowicy nad sciezka

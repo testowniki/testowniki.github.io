@@ -1,0 +1,6 @@
+X0100
+Tagi AM (acustico magnetic) oraz EM (electro magnetic)
+a. wykorzystuja zjawisko magnetostrykcji
+b. mozna wielokrotnie aktywowac i dezaktywowac
+c. zbudowane sa z ferromagnetykow twardych i materialow o niskiej koercji
+d. nie maja cech wspolnych

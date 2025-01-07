@@ -1,0 +1,6 @@
+X0001
+Pytanie Dany jest kod PESEL 28090901649. Kod ten należy do:
+132 mężczyzny urodzonego w obecnym stuleciu.
+262 mężczyzny urodzonego w XX wieku.
+262 kobiety urodzonej w obecnym stuleciu.
+83 kobiety urodzonej w XX wieku.

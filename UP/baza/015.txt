@@ -1,0 +1,6 @@
+X0010
+Przedstawione na rysunku kody to: <img src="baza/015.png">
+I. kod POSTNET, II. kod PLANETposiadajace identyczne wagi w zapisie binarnym
+I. kod Postnet, II. kod BnB posiadajace identyczne wyznaczajace i zapisujace cyfre kontrolna
+I. kod Postnet, II. kod BnB posiadajace identyczne wagi w zapisie binarnym
+I. kod POSTNET, II. kod PLANET, identycznie wyznaczajace i zapisujace

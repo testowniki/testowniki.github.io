@@ -1,0 +1,7 @@
+X10000
+W grupie tagow AM (acousto magnetic), EM (electro magnetic) i RF  (radio frequency)
+jedynie tagi AM i EM moga byc wielokrotnie aktywowane i dezaktywowane
+tylko tagi AM moga byc wielokrotnie aktywowane i dezaktywowane
+zadna z pozostalych odpowiedzi nie jest poprawna
+tylko tagi EM moga byc wielokrotnie aktywowane i dezaktywowane
+wszystkie trzy typy moga byc wielokrotnie aktywowane i dezaktywowane

@@ -1,0 +1,3 @@
+X1
+Pytanie o to co jest najwazniejsze w przypadku pojemnosci zapisu dla BD
+a. szerokosc fali ?

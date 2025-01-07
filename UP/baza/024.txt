@@ -1,0 +1,6 @@
+X0001
+Czytniki OMR i OCR to:
+a. rozne urzadzenia, OCR - sluza do wprowadzania informacji do komputera poprzez zaznaczanie wybranych miejsc na formularzu, OMR - sa in...
+b. bardzo podobne urzadzenia, nazywane roznie w zaleznosci od producenta
+c. rozne urzadzenia, OMR sluza do wprowadzania informacji do komputera poprzez wpisywanie cyfr, OCR - wpisywanie liter
+d. rozne urzadzenia, OMR sluza do wprowadzania informacji do komputera poprzez zaznaczanie wybranych miejsc na formularzu, OCR - wpisywanie liter i cyfr
