@@ -1,0 +1,5 @@
+X100
+Znalezienie punktu przeciecia powierzchni kwadryki i polprostej wymaga
+rozwiazania rownania kwadratowego
+aproksymacji siatki wielobokow
+wyznaczania widocznosci obiektow w metodzie z- bufora

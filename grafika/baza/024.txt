@@ -1,0 +1,5 @@
+X001
+Jednoznaczne zdefiniowanie rzutu rownoleglego (innego niz pionowy) wymaga podania
+jednego parametru
+trzech parametrow
+dwoch parametrow

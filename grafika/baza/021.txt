@@ -1,0 +1,5 @@
+X100
+W rzucie perspektywicznym obrazy rzutowanych punktow sa wyznaczane przez
+punkty przeciecia prostych rzutowania i rzutni
+zaniedbanie jednej ze wspolrzednych rzutowanych punktow
+punkty przeciecia dwoch prostych rzutowania ze soba 

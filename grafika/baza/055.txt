@@ -1,0 +1,5 @@
+X010
+Trojkat, ktorego wierzcholki maja wspolrzedne (l,0,0); (0,l,0); (0,0,l) wyznacza Wprzestrzeni trojwymiarowej
+2x+y+2z= 1
+X + y + z = l
+x+2y+2z= l.

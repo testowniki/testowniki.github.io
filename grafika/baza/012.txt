@@ -1,0 +1,5 @@
+X010
+Krzywa Hermite'a jest okreslona przy pomocy wielomianow
+stopnia 2.
+stopnia 3.
+ktorych stopien zalezy od liczby punktow kontrolnych.

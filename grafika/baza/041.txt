@@ -1,0 +1,5 @@
+X100
+Niejednorodna powierzchnia B-sklejana w przestrzeni 3-D jest zapisywana przy pomocy
+trzech rownan z dwoma parametrami
+dwoch rownan z trzema parametrami
+rownania uwiklanego

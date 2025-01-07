@@ -1,0 +1,5 @@
+X001
+Powierzchnie NURBS sa
+szczegolnym przypadkiem kwadryk
+analitycznym modelem sluzacym do wygodnego opisywania powierzchni pozbawionych brzegu
+uogolnieniem niejednorodnych powierzchni B-spline

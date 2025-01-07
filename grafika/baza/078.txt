@@ -1,0 +1,5 @@
+X100
+Aby gladko zamknac krzywa Beziera potrzebne sa
+4 punkty kontrolne
+3 punkty kontrolne
+8 punkty kontrolne

@@ -1,0 +1,5 @@
+X001
+Kwadryka to
+powierzchnia opisana przy pomocy funkcji wymiernej trzech zmiennych
+powierzchnia opisana dowolnym wielomianem trzech zmiennych stopnia wiekszego niz dwa
+powierzchnia opisana wielomianem trzech zmiennych stopnia nie wiekszego niz dwa

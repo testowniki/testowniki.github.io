@@ -1,0 +1,5 @@
+X010
+W modelu CIE - XYZ barwa biala jest okreslona przez liczby
+x = 1.0, y= 1,0.
+x = 0,333..., y = 0, 333....
+x = 0.5, y = 0,5.

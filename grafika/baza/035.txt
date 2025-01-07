@@ -1,0 +1,5 @@
+X100
+Opis punktu plaszczyzny (x, y) we wspolrzednych jednorodnych tworzony jest przez
+dodaniu trzeciej wspolrzednej, ktorej wartosc wynosi 1
+dodanie trzeciej wspolrzednej, ktorej wartosc jest zalezna od x
+dodaniu trzeciej wspolrzednej, ktorej wartosc jest zalezna od x i y

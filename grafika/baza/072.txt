@@ -1,0 +1,5 @@
+X001
+Radiancja (luminancja energetyczna) jest wyrazona w jednostkach
+[W sr]/m2
+[W m2]/sr
+W/[m2 sr]

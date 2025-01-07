@@ -1,0 +1,5 @@
+X100
+Przy budowie modeli w postaci siatek trojkatow dla powierzchni opisanych parametrycznie, triangulacja niejednorodna
+zmniejszenia liczby trojkatow siatki, przy zachowaniu okreslonej dokladnosci modelowania
+uproszczenia obliczen w algorytmie triangulacji
+uzyskania modelu zlozonego z mozliwie podobnych trojkatow

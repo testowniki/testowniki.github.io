@@ -1,0 +1,5 @@
+X001
+Zlozonosc obliczeniowa algorytmu usuwania scian niewidocznych przez sortowanie wzgledem glebokosci zalezy od
+logarytmu liczby scian.
+kwadratu liczby scian.
+iloczynu liczby scian i liczby punktow ekranu.

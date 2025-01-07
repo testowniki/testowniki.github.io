@@ -1,0 +1,5 @@
+X010
+Perspektywa dwupunktowa wystepuje, gdy
+zdefiniowano dwa punkty zbieznosci prostych rzutowania
+dwie osie ukladu wspolrzednych przecinaja rzutnie
+nastepuje dwukrotne skrocenie odcinkow rownoleglych do rzutni

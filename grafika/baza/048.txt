@@ -1,0 +1,5 @@
+X001
+Dla opisanej parametrycznie niejednorodnej krzywej B-sklejanej wezly to
+punkty kontrolne okreslone przy definiowaniu krzywej
+punkty poczatku i konca krzywej
+pewne wartosci parametru

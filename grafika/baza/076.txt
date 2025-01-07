@@ -1,0 +1,5 @@
+X010
+W algorytmie Bresenhama rysowania odcinka prostej jej wspolczynnik kierunkowy
+musi byc dodatni.
+musi byc liczba rzeczywista z zakresy od 0 do 1
+musi byc ilorazem dwoch liczb calkowitych

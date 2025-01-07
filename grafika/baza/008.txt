@@ -1,0 +1,5 @@
+X100
+Krzywa Beziera w przestrzeni trojwymiarowej jest opisana:
+Ukladem trzech rownan parametrycznych
+Rownaniem uwiklanym B(x,y,z) = 0
+Wielomianem Bernsseina stopnia n=3 

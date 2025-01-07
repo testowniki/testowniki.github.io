@@ -1,0 +1,5 @@
+X001
+Perspektywe okresla sie jako jednopunktowa, dwupunktowa, lub trojpunktowa w oparciu o
+liczbe punktow zbieznosci prostych rzutowania
+najmniejsza odleglosc punktu zbieznosci od srodka ukladu wspolrzednych
+liczbe osi ukladu wspolrzednych przecinajacych rzutnie

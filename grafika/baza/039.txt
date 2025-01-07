@@ -1,0 +1,5 @@
+X001
+Przy uzyciu diagramu barw CIE -XYZ mozliwe jest
+mnozenie barw.
+filtrowanie dolnoprzepustowe niektorych barw widma widzialnego.
+sumowanie barw.

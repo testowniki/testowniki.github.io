@@ -1,0 +1,5 @@
+X001
+Powierzchnia B-spline w przestrzeni trojwymiarowej jest okreslona przez
+rownanie W postaci B(x, y, z) = 0
+dwa rownania zawierajace trzy parametry
+trzy rownania zawierajace dwa parametry

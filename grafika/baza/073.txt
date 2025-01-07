@@ -1,0 +1,5 @@
+X100
+W algorytmie kompresji JPEG skladowa stala transformaty kosinusowej dla poszczegolnych blokow zapisywana jest
+wedlug porzadku kolejnych blokow w kolejnych liniach
+tak samo jak pozostale wspolczynniki transformaty
+wedlug reguly zig-zag

@@ -1,0 +1,5 @@
+X100
+lloczyn wektorowy wektorow [ 1 0 0 ] i [ 0 0 1 ] to
+[ 0 -1 0 ]
+[ 1 0 1 ]
+[ 0 1 0 ]

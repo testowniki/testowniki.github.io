@@ -1,0 +1,5 @@
+X010
+Przy rzutowaniu rownoleglym odcinka jego rzut
+moze byc dluzszy niz rzutowany odcinek
+moze byc krotszy niz rzutowany odcinek
+jest zawsze krotszy niz rzutowany odcinek

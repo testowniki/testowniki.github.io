@@ -1,0 +1,5 @@
+X100
+Krzywa Beziera jest opisana
+rownaniem parametrycznym
+rownaniem uwiklanym
+wielomianem Bernsteina o stopniu n = 3

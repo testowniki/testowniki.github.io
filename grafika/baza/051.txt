@@ -1,0 +1,5 @@
+X001
+W algorytmie kompresji JPEG kwantyzacja wspolczynnikow transformaty kosinusowej  polega na
+zastapieniu zerami zadanej liczby najmniejszych wspolczynnikow
+zaokragleniu wspolczynnikow do najblizszej liczby calkowitej
+podzieleniu wspolczynnikow przez odpowiednie liczby i zaokragleniu

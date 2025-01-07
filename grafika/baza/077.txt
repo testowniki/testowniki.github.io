@@ -1,0 +1,5 @@
+X100
+Aliasing to
+strata informacji zawartej w sygnale pierwotnym w wyniku probkowania ze zbyt mala czestotliwoscia obrazu, ze skladowymi o wysokiej czestotliwosci
+pojawienie sie w sygnale odtworzonym z probek, skladowych, ktorych nie bylo w sygnale pierwotnym
+dodanie do probek sygnalu pierwotnego nowych probek, wyznaczonych metoda interpolacji

@@ -1,0 +1,5 @@
+X001
+W bibliotece graficznej OpenGL prawidlowe wypelnienie wieloboku
+jest mozliwe dla dowolnego wieloboku
+wymaga spelnienia warunku braku wierzcholkow lezacych na jednej prostej
+wymaga spelnienia warunku wypuklosci

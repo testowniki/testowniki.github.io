@@ -1,0 +1,5 @@
+X001
+Napisanie w ogolnej postaci rownania uwiklanego elipsoidy wymaga podania
+czterech parametrow
+dwoch parametrow
+trzech parametrow

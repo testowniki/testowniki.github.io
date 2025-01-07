@@ -1,0 +1,5 @@
+X100
+W ogolnej procedurze wizualizacji 2-D, proporcje bokow okna obserwatora i urzadzenia
+moga byc dowolne
+wynikaja z zastosowanego algorytmu obcinania
+zaleza od rozmiarow ekranu urzadzenia

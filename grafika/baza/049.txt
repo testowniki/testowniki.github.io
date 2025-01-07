@@ -1,0 +1,6 @@
+X001
+Macierz zlozenia dwoch transformacji przesuniecia uzyskuje sie przez
+pomnozenie iloczynu macierzy poszczegolnych przesuniec przez ich wyznacznik
+dodanie macierzy opisujacych poszczegolne transformacje
+pomnozenie macierzy opisujacych poszczegolne transformacje
+

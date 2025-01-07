@@ -1,0 +1,5 @@
+X100
+Procedury obcinania sluza do usuwania elementow opisu obiektu lezacych poza
+oknem obserwatora.
+obszarem ograniczonym przez prosta okreslona W ukladzie wspolrzednych obserwatora
+czescia wspolna okna obserwatora i okna urzadzenia graficznego

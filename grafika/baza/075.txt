@@ -1,0 +1,5 @@
+X100
+Aby (zakladajac trojskladnikowy model barw) opisac wlasnosci powierzchni barwnego obiektu przy pomocy modelu Phonga nalezy podac
+9 parametrow.
+12 parametrow.
+10 parametrow.

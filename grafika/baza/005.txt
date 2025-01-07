@@ -1,0 +1,5 @@
+X001
+Model barw HSV jest przydatny
+w kodowaniu barwy dla potrzeb transmisji w systemach telewizji wysokiej rozdzielczosci
+przy transformacji pomiedzy przestrzeniami barw monitorow i drukarek
+przy okreslaniu opisu liczbowego barwy wyobrazanej

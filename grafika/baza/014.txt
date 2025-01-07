@@ -1,0 +1,5 @@
+X100
+Modele barw YUV (PAL) i YIQ (NTSC) roznia sie
+sposobem obliczania skladowych chrominancji
+sposobem obliczania skladowej luminancji.
+liczba skladowych opisujacych barwe.

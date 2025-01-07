@@ -1,0 +1,5 @@
+X001
+Model barw YUV zwiazany jest z modelem RGB przez
+pewne rownanie calkowe wykorzystujace psychofizyczny model widzenia
+empiryczne rownanie rozkladu natezenia barw
+zadana transformacje liniowa

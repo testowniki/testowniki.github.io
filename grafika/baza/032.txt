@@ -1,0 +1,5 @@
+X001
+Idea kodowania entropijnego jest
+przypisanie obiektom kodow ustalanych zgodnie z regula zig-zag.
+dostosowanie parametrow kompresowanego stratnie sygnalu do poziomu zaklocen w kanale transmisyjnym
+przypisanie obiektom kodow, ktorych dlugosc zalezy od czestosci wystepowania kodowanych obiektow

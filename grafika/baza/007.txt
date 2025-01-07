@@ -1,0 +1,5 @@
+X001
+Na wykresie CIE-XYZ tzw. barwy czyste (prazki widma) reprezentowane sa przez
+punkty przeciecia osi i obwiedni wykresu
+osie wykresu
+punkty nalezace do obwiedni wykresu

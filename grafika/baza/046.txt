@@ -1,0 +1,5 @@
+X001
+Aby obrocic dowolny wielobok wokol jego wierzcholka o dany kat nalezy
+wykonac jedna transformacje elementarna.
+wykonac dwie transformacje elementarne.
+wykonac trzy transformacje elementarne.

@@ -1,0 +1,5 @@
+X001
+Transformacje punktow Z przestrzeni trojwymiarowej we wspolrzednych jednorodnych
+zapisuje sie przy pomocy macierzy 0 wymiarze 3x3.
+zapisuje sie korzystajac macierzy o wymiarze 4x3.
+zapisuje sie przy pomocy macierzy o wymiarze 4x4.

@@ -1,0 +1,5 @@
+X001
+W bibliotece graficznej OpenGL do zestawu tak zwanych tworow pierwotnych
+nie nalezy luk okregu, ale nalezy pelny okrag
+nalezy dowolny luk okregu
+nie nalezy, ani luk okregu ani pelny okrag

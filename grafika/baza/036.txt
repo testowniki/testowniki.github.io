@@ -1,0 +1,5 @@
+X100
+Promieniowanie widzialne to promieniowanie elektromagnetyczne o dlugosci fali z zakresu:
+380 - 780 nm
+380 - 780 pm
+380 - 780 um

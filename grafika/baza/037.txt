@@ -1,0 +1,5 @@
+X100
+We wzorze wyrazajacym prawo Snella wystepuje funkcja
+sinus.
+wykladnicza.
+Gaussa.

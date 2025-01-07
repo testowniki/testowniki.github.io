@@ -1,0 +1,5 @@
+X100
+Iloczyn skalarny wektorow [ -1 0 -1 ] i [ 1 1 -1 ] wynosi
+0.
+1.
+[-1 0 1].

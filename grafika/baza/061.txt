@@ -1,0 +1,5 @@
+X001
+Iloczyn wektorowy dwoch wektorow to
+liczba bedaca iloczynem ich dlugosci i sinusa kata pomiedzy nimi.
+liczba bedaca iloczynem ich dlugosci i kosinusa kata pomiedzy nimi
+wektor

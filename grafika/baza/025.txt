@@ -1,0 +1,5 @@
+X010
+Aby dokonac transformacji obrazu barwnego zapisanego przy pomocy modelu RGB, W obraz w stopniach szarosci nalezy
+wyliczyc srednie wartosci skladowych dla poszczegolnych pikseli obrazu
+wyliczyc luminancje dla poszczegolnych pikseli obrazu
+uzyc filtru liniowego dzialajacego w oknie o rozmiarze zaleznym od sredniej wartosci skladowej histogramu obrazu

@@ -1,0 +1,5 @@
+X100
+Algorytm przegladania linii (scan line algorythm) sluzy do wypelniania
+wielobokow
+wielobokow opisanych przez podanie wspolrzednych kolejnych wierzcholkow
+wielobokow, po podziale na trojkaty i wstepnym porzadkowaniu ich wg. pewnego kryterium

@@ -1,0 +1,5 @@
+X100
+Uklad funkcji bazowych dla krzywej Hermita to
+cztery wielomiany stopnia trzeciego
+dwa wielomiany stopnia drugiego i dwa trzeciego
+trzy wielomiany stopnia czwartego

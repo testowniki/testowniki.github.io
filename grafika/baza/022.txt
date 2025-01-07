@@ -1,0 +1,5 @@
+X100
+Krzywa Beziera na plaszczyznie jest opisana 
+Ukladem rownan parametrycznych x(u)= fx(u), y(u)=fy(u)
+Ukladem rownan parametrycznych x(u)= fy(u), y(u)=fx(u)
+dwoma wielomianami stopnia n = 3 

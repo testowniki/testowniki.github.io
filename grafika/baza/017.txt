@@ -1,0 +1,5 @@
+X100
+Powierzchnia Beziera w przestrzeni 3-D jest okreslona przy pomocy, wielomianow o stopniu
+zaleznym od liczby punktow kontrolnych.
+3.
+dowolnie ustalanym przed generacja krzywej.

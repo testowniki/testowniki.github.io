@@ -1,0 +1,5 @@
+X001
+Aby zwiekszyc stopien kompresji obrazu kodowanego przy pomocy algorytmu JPEG nalezy
+zwiekszyc rozmiar makrobloku
+przeprowadzic wstepna selekcje pikseli o podobnych barwach
+zwiekszyc wartosci elementow w tablicy kwantyzacji

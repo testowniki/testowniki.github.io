@@ -1,0 +1,5 @@
+X010
+Skanowanie bardzo duzego obiektu 3-D najlepiej jest wykonac przy pomocy
+skanera triangulacyjnego o duzej bazie
+skanera z dalmierzem
+skanera triangulacyjnego o malej bazie

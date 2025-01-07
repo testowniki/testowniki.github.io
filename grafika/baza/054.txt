@@ -1,0 +1,5 @@
+X100
+Przy rysowaniu odcinka prostej algorytmem Bresenhama dla obliczenia wspolrzednych kolejnego punktu, nalezy wykonac
+wylacznie operacje staloprzecinkowe
+jedno mnozenie staloprzecinkowe i dodawanie zmiennoprzecinkowe
+dodawanie zmiennoprzecinkowe i mnozenie przez 2

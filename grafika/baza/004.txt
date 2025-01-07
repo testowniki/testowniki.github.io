@@ -1,0 +1,5 @@
+X100
+Gonioreflektometr to przyrzad sluzacy do
+pomiaru energii swiatla rozproszonego na scenie 3-D
+pomiaru charakterystyki energetycznej punktu powierzchni obiektu
+pomiaru wspolrzednych opisujacych polozenie punktu na powierzchni obiektu trojwymiarowego

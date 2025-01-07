@@ -1,0 +1,5 @@
+X001
+Algorytm z-bufora to metoda
+testowania wypuklosci bryl w metodzie konstrukcyjnej geometrii brylowej
+szybkiego rysowania dyskretnego obrazu okregu na ekranie monitora
+obliczania i wizualizacji widocznosci elementow sceny 3-D

@@ -1,0 +1,5 @@
+X010
+W modelu oswietlenia Phonga zwiekszanie wykladnika funkcji kosinus powoduje, ze
+modelujemy zjawisko wzrostu wrazenia chropowatosci powierzchni
+zblizamy sie do modelu idealnego zwierciadla
+modelujemy zjawisko wiekszego rozproszenia promieniowania

@@ -1,0 +1,5 @@
+X100
+Aby znalezc punkty przeciecia polprostej i sfery nalezy
+rozwiazac rownanie kwadratowe
+rozwiazac rownanie liniowe
+rozwiazac rownanie szescienne

@@ -1,0 +1,5 @@
+X010
+W oku ludzkim wystepuje
+Dwa rodzaje czopkow i dwa rodzaje precikow
+Trzy rodzaje czopkow i jeden rodzaj precikow
+Trzy rodzaje precikow i jeden rodzaj czopkow

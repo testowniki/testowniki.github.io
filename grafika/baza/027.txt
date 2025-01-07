@@ -1,0 +1,5 @@
+X001
+Napisanie rownania parametrycznego zadanej polprostej w przestrzeni 3-D, wymaga podania
+trojelementowego wektora i jednej liczby.
+czterech liczb.
+szesciu liczb

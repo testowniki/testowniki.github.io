@@ -1,0 +1,5 @@
+X010
+Prawo Lamberta mowi, ze intensywnosc oswietlenia punktu powierzchni jest proporcjonalna do
+kosinusa kata pomiedzy kierunkiem padania swiatla a kierunkiem obserwacji
+kosinusa kata pomiedzy kierunkiem padania swiatla a kierunkiem wyznaczonym przez wektor normalny do powierzchni w tym punkcie
+sinusa kata pomiedzy kierunkiem padania swiatla a kierunkiem obserwacji

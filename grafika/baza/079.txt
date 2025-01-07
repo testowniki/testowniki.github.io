@@ -1,0 +1,5 @@
+X100
+W metodzie sledzenia promieni tzw. promienie testujace sluza do:
+Wyznaczenia oswietlen lokalnych w okreslonych punktach obiektow
+Wyznaczenia punktow przeciecia promieni wtornych i scian obiektow sceny 
+Wyznaczenia oswietlenia lokalnego dla scian sceny niewidocznych dla obserwatora

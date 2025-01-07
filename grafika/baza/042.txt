@@ -1,0 +1,5 @@
+X001
+W algorytmie JPEG metoda przegladania tablicy wspolczynnikow zwana zig-zag ma na celu
+usuniecie z tablicy wspolczynnikow 0 wartosciach ujemnych
+rozdzielenie wartosciami niezerowymi duzych blokow wspolczynnikow o wartosci 0.
+zgrupowanie wspolczynnikow o wartosci 0 w mozliwie duze bloki

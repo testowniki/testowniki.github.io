@@ -1,0 +1,5 @@
+X001
+Model barw Mansella zawiera
+nieskonczona liczbe barw
+100 uporzadkowanych liniowo zestawow po 9 barw
+skonczona liczbe barw
