@@ -1,0 +1,4 @@
+X01
+Schemat chlodzenia Cauchy'ego gwarantuje uzyskanie wyniku optymalnego z okreslonym bledem.
+Prawda
+Falsz

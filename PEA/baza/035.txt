@@ -1,0 +1,6 @@
+X0001
+Ktore z ponizszych nie opisuje cechy dobrego sasiedztwa? Wybierz jedna odpowiedz:
+Rozwiazanie z sasiedztwie niewiele rozni sie od aktualnego rozwiazania
+Zawiera nie mniej niz jedno rozwiazanie, rozne od aktualnego
+Niezaleznie od wyboru rozwiazania poczatkowego osiagalne jest kazde rozwiazanie w przestrzeni rozwiazan
+Zawiera cala przestrzen rozwiazan

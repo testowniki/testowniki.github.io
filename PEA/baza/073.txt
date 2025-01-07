@@ -1,0 +1,6 @@
+X1000
+Zlozonosc obliczeniowa metody Brute Force dla problemu TSP o n wierzcholkach wynosi:
+theta(n!)
+theta(2n)
+theta(2^n^2)
+theta(n2)

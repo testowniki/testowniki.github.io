@@ -1,0 +1,4 @@
+X10
+W problemach ciaglych sasiedztwo definiowane jest przez funkcje odleglosci.
+Prawda
+Falsz

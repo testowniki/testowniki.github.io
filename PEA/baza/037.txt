@@ -1,0 +1,6 @@
+X0001
+Algorytmy przeszukiwania lokalnego
+zawsze dzialaja w czasie wykladniczym
+zawsze znajduja optimum globalne
+zadna z pozostalych nie jest prawidlowa
+znajduja optimum lokalne

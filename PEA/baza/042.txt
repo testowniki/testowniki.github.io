@@ -1,0 +1,4 @@
+X01
+Liczba permutacji w sasiedztwie typu insert wynosi O(n^3).
+Prawda
+Falsz

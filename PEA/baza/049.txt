@@ -1,0 +1,7 @@
+X00001
+Jak zdefiniowane jest, w metodzie poszukiwania z zakazami, pojecie kryterium aspiracji? Wybierz jedna odpowiedz:
+Jako rezygnowanie z najlepszego ruchu
+Jako pominiecie rozwazenia czesci sasiedztwa 
+zadne z wymienionych
+Jako wybor losowego ruchu w sasiedztwie 
+Jako wybor ruchu pomimo jego obecnosci na liscie tabu

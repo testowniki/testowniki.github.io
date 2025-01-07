@@ -1,0 +1,7 @@
+X01000
+Jaka jest liczba permutacji w sasiedztwie typu invert? (dotyczy TSP) (Wybierz jedna odpowiedz):
+O(n!)
+O(n^2)
+O(n^2 log n)
+O(lg n)
+O(2^n)

@@ -1,0 +1,4 @@
+X01
+W metodzie poszukiwania z zakazami kadencja nie moze miec tej samej dlugosci co lista tabu.
+Prawda
+Falsz

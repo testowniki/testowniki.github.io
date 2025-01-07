@@ -1,0 +1,8 @@
+X100000
+Oszacowanie wartosci biezacego rozwiazania w metodzie Branch&Bound, to:
+lower bound
+lowest bound
+upper bound
+new bound
+uppest bound
+best bound

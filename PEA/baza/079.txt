@@ -1,0 +1,6 @@
+X0100
+W programowaniu dynamicznym do wyboru decyzji wykorzystuje sie odpowiednio skonstruowana:
+funkcje dopasowania
+funkcje dominacji
+regule optymalnosci
+wlasnosc Bellmana

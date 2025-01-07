@@ -1,0 +1,4 @@
+X10
+W klasie P znajduja sie problemy, dla ktorych znaleziono algorytmy dzialajace w czasie wielomianowym.
+Prawda
+Falsz

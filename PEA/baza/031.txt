@@ -1,0 +1,6 @@
+X0010
+Poprawna (zgodnie z prezentacja z wykladu) kolejnosc wytwarzania nowej populacji w algorytmie genetycznym (GA) to:
+ocena, selekcja, krzyzowanie, mutacja, utworzenie nowej populacji
+selekcja, mutacja, krzyzowanie, ocena, utworzenie nowej populacji
+selekcja, krzyzowanie, mutacja, ocena, utworzenie nowej populacji
+selekcja, ocena, krzyzowanie, mutacja, utworzenie nowej populacji

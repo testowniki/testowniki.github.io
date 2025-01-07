@@ -1,0 +1,4 @@
+X01
+Zaleta metody Tabu Search jest mozliwosc zakazywania wykonania niektorych dobrych (z punktu widzenia jakosci rozwiazania) ruchow.
+Prawda
+Falsz

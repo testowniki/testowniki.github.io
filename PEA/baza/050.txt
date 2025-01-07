@@ -1,0 +1,6 @@
+X0001
+Wiedzac, ze jesli w problemie 3-SAT dwa literaly znajduja sie w jednej klauzuli, to roznica ich indeksow rozni sie maksymalnie o 7, to mozna go rozwiazac w czasie wielomianowym przy pomocy: 
+algorytmu zachlannego
+algorytmu Brute Force
+metody dziel i zwyciezaj
+metody programowania dynamicznego

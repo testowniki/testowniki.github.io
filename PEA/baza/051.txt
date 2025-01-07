@@ -1,0 +1,6 @@
+X0001
+Czym jest p (rho) w algorytmie mrowkowym?
+iloscia feromonu jaka posiada pojedyncza mrowka na poczatku
+iloscia wyparowujacego feromonu w jednostce czasu
+wspolczynnikiem przezywalnosci mrowki
+wspolczynnikiem okreslajacym ilosc wyparowujacego feromonu w jednostce czasu

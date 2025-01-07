@@ -1,0 +1,6 @@
+X0010
+Dla zadania ukladanki (tzw. szesnastki) najgorzej poinformowana heurystyka jest heurystyka oparta o:
+metryke euklidesowa
+metryke manhattan
+liczbe pol nie na swoim miejscu
+liczbe ruchow do uzyskania stanu GOAL

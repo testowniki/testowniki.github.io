@@ -1,0 +1,6 @@
+X0010
+Wskaz prawdziwy wniosek z faktow: problem A jest NP-zupelny, problem B jest P-zupelny:
+Nie mozna przeprowadzic redukcji miedzy problemami w czasie wielomianowym
+Istnieje redukcja z problemu A do problemu B
+Istnieje redukcja z problemu B do problemu A
+Problem B moze byc rozwiazany w logartczminej pamieci

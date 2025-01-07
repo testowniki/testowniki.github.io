@@ -1,0 +1,7 @@
+X11010
+Zaznacz wszystkie oszacowania algorytmow efektywnych obliczeniowo: 
+O(n) 
+O(n*log_10(n))
+O(2^n)
+O(n^2)
+O(n^n)

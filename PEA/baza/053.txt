@@ -1,0 +1,4 @@
+X10
+Rozwiazanie dopuszczalne, to rozwiazanie spelniajace wszystkie warunki ograniczajace.
+Prawda
+Falsz

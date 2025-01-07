@@ -1,0 +1,6 @@
+X1000
+Jaka jest czasowa zlozonosc obliczeniowa algorytmu typu Brute force dla TSP o n wierzcholkach? Wybierz jedna odpowiedz:
+O(n!)
+O(n^n)
+O(2^n)
+O(n)

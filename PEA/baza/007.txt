@@ -1,0 +1,6 @@
+X1000
+Chromosom (w GA) nalezy do schematu, jezeli dla kazdej pozycji j=1,2,...,L symbol na i-tej pozycji odpowiada symbolowi na:
+j-tej pozycji schematu
+kazdej pozycji schematu
+i-tej pozycji schematu
+j-1 pozycji schematu

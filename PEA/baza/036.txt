@@ -1,0 +1,6 @@
+X0010
+Przeszukiwanie sasiedztwa w wersji greedy wykonywane jest do (Wybierz jedna odpowiedz):
+przeszukania calego sasiedztwa.
+znalezienia najlepszego rozwiazania w sasiedztwie.
+znalezienia rozwiazania lepszego od aktualnego w sasiedztwie.
+znalezienia rozwiazania w sasiedztwie.

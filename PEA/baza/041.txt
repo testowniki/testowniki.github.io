@@ -1,0 +1,4 @@
+X10
+W Symulowanym Wyzarzaniu wybor gorszego (co do wartosci funkcji celu) rozwiazania x (roznego od rozwiazania aktualnego) jest bardziej prawdopodobny jezeli wartosc temperatury T jest wysoka.
+Prawda
+Falsz

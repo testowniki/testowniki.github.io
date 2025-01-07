@@ -1,0 +1,8 @@
+X000001
+Ktory z ponizszych zapisow jest prawdziwy?
+<img src="baza/058a.png">
+<img src="baza/058b.png">
+<img src="baza/058c.png">
+<img src="baza/058d.png">
+<img src="baza/058e.png">
+<img src="baza/058f.png">

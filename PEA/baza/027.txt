@@ -1,0 +1,4 @@
+X10
+Metoda przegladu zupelnego jest metoda dokladna.
+Prawda
+Falsz

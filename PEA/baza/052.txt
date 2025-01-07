@@ -1,0 +1,7 @@
+X00100
+Co okresla parametr p (rho) w algorytmie mrowkowym? (Wybierz jedna odpowiedz)
+Jest wspolczynnikiem przezywalnosci mrowki.
+Ilosc feromonu posiadanego przez pojedyncza mrowke.
+Ilosc feromonu wyparowujacego w jednostce czasu.
+Sile wyboru zachlannego przy wyborze krawedzi przez mrowke.
+Szybkosc parowania feromonu w jednostce czasu.

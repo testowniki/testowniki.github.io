@@ -1,0 +1,7 @@
+X10000
+W metodzie przeszukiwania z zakazami, rezygnacja z zasady blokowania ruchow nazywana jest:
+kryterium aspiracji
+kryterium dywersyfikacji
+kryterium aprecjacji
+kryterium intensyfikacji
+kryterium rezygnacji

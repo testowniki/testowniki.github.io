@@ -1,0 +1,7 @@
+X00100
+Ile jest permutacji w sasiedztwie typu invert?
+O(n)
+O(2^n)
+O(n^2)
+O(n^3)
+O(log(n))

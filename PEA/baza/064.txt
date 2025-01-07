@@ -1,0 +1,8 @@
+X000001
+Wlasnosc mowiaca, ze prawdopodobienstwo przejscia ze stanu s do stanu s' zalezy tylko od stanu s, a nie od historii poprzednich stanow; przyszle stany procesu sa warunkowo niezlaezne od stanow przeszlych, to wlasnosc:
+niezaleznosci
+Bellmana
+Forda-Fulkersona
+optymalnosci
+ograniczenia
+Markova
