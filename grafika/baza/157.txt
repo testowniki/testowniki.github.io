@@ -1,0 +1,5 @@
+X010
+Macierz transformacji obrotu wokol osi x w przestrzeni 3-D, przy zalozeniu wprowadzenia wspolrzednych jednorodnych ma
+9 elementow.
+16 elementow.
+12 elementow.

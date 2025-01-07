@@ -1,0 +1,5 @@
+X100
+W metodzie sledzenia promieni kierunek promienia pierwotnego jest wyznaczany przez
+Wspolrzedne analizowanego piksela i kierunek rzutowania
+Srodek ukladu wspolrzednych zewnetrznych i polozenie obserwatora
+Wspolrzedne analizowanego piksela i srodek ukladu wspolrzednych zewnetrznych

@@ -1,0 +1,5 @@
+X001
+Jezeli w metodzie energetycznej srodki dwoch scian polaczono odcinkiem i wektor normalny do jednej z nich jest prostopadly do tak utworzonego odcinka, to wspolczynnik sprzezenia optycznego scian jest:
+1.
+zalezny od iloczynu powierzchni scian.
+0.

@@ -1,0 +1,5 @@
+X010
+Perspektywa dwupunktowa to przypadek rzutu perspektywicznego, w ktorym:
+Dwie osie ukladu wspolrzednych przecinaja rzutnie
+Zdefiniowano dwa punkty zbieznosci prostych rzutowania
+Nastepuje dwukrotne skrocenie odcinkow rownoleglych do prostych rzutowania

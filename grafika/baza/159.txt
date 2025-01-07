@@ -1,0 +1,5 @@
+X001
+Metoda splotu bezposredniego w zagadnieniu filtracji tekstury korzysta z
+filtracji gornoprzepustowej.
+przeksztalcenia kosinusowego.
+filtracji dolnoprzepustowej.

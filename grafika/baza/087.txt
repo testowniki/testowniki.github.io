@@ -1,0 +1,5 @@
+X100
+Kolorymetr jest to urzadzenie do
+Mierzenia dlugosci fali swiatla barwnego
+Okreslania rozkladu swiatla na barwy podstawowe
+Mierzenia dlugosci fali swiatla bialego

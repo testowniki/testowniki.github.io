@@ -1,0 +1,5 @@
+X010
+W procesie kodowania MPEG-2 ramka P jest kodowana na podstawie
+poprzedniej ramki P lub B.
+poprzedniej ramki I lub P.
+poprzedniej ramki I lub B.

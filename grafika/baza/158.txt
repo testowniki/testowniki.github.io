@@ -1,0 +1,5 @@
+X001
+Aby okreslic transformacje obrotu punktu wokol osi z w przestrzeni trojwymiarowej nalezy
+Podac trzy parametry.
+Podac dwa parametry
+Podac jeden parametr.

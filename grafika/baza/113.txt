@@ -1,0 +1,5 @@
+X100
+Funkcja BRDF sluzy do
+opisu wlasnosci powierzchni obiektu
+aproksymacji siatki wielobokow
+wyznaczania widocznosci obiektow w metodzie z- bufora

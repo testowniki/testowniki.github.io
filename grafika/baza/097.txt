@@ -1,0 +1,5 @@
+X100
+Iloczyn skalarny dwoch wektorow:
+Jest liczba
+Jest wektorem
+Zawsze jest liczba dodatnia

@@ -1,0 +1,5 @@
+X100
+Obcinanie:
+Usuwa wszystkie elementy znajdujace sie poza oknem obserwatora
+Usuwa jeden element znajdujacy sie poza oknem obserwatora
+Usuwa wybrany element znajdujacy sie poza oknem obserwatora

@@ -1,0 +1,5 @@
+X100
+Iloczyn wektorowy:
+Nie jest przemienny
+Jest iloczynem skalarnym mnozonych wektorow i sinusa kata miedzy nimi
+Jest liczba

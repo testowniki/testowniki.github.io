@@ -1,0 +1,5 @@
+X010
+NURBS to:
+algorytm podzialu powierzchni na trojkaty o roznej wielkosci.
+pewien rodzaj powierzchni opisanej parametrycznie.
+metoda estymacji odleglosci wykorzystywana w dalmierzu laserowym.

@@ -1,0 +1,5 @@
+X100
+Narysowanie okregu na ekranie w systemie wektorowym wymaga
+Podania sygnalow kosinusoidalnych
+Podania sygnalow piloksztaltnego 
+Podania sygnalow tangensoidalnych

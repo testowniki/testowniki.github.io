@@ -1,0 +1,5 @@
+X100
+Metoda elementow skonczonych sluzy do analizy wlasnosci bryly opisanej
+przy pomocy zbioru czworoscianow
+rownaniem parametrycznym
+chmura punktow, ktore uzyskano W wyniku skanowania laserowego

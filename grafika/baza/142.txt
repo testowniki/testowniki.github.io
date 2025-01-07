@@ -1,0 +1,5 @@
+X100
+Metoda splotu bezposredniego w zagadnieniu filtracji tekstury korzysta z:
+filtru liniowego.
+algorytmu nadprobkowania adaptacyjnego.
+szybkiej transformaty Fouriera (FFT).

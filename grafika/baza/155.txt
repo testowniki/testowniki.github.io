@@ -1,0 +1,5 @@
+X001
+Wynikiem kwantyzacji w algorytmie JPEG jest
+tablica zawierajaca liczby dodatnie.
+tablica zawierajaca liczby calkowite dodatnie.
+tablica zawierajaca liczby calkowite.

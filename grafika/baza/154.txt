@@ -1,0 +1,5 @@
+X100
+W modelu Phonga dla wykonania obliczen oswietlenia wystarczajaca jest znajomosc odpowiednich wspolczynnikow i
+wektora normalnego do powierzchni, wektora wyznaczajacego kierunek padania swiatla i wektora kierunku obserwacji
+wektora normalnego do powierzchni oraz wektora wyznaczajacego kierunek padania swiatla
+wektora normalnego do powierzchni oraz wektora okreslajacego kierunek obserwacji

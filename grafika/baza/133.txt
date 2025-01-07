@@ -1,0 +1,5 @@
+X010
+promienia pierwotnego jest wyznaczany przez
+Wspolrzedne analizowanego punktu ekranu i srodek ukladu wspolrzednych
+Wspolrzedne analizowanego punktu ekranu i punkt polozenie obserwatora
+Srodek ukladu wspolrzednych zewnetrznych i punkt polozenie obserwatora

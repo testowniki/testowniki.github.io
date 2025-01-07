@@ -1,0 +1,5 @@
+X100
+Rozpieta na n punktach kontrolnych krzywa Beziera jest opisana wielomianami, ktorych stopien jest
+zalezny od liczby punktow kontrolnych.
+Niezalezny od liczby punktow kontrolnych 
+5

@@ -1,0 +1,5 @@
+X001
+W algorytmie JPEG skladowa stala (AC):
+jest przetwarzana przy pomocy reguly Zig-Zag, jesli jej wartosc przekracza ustalony prog.
+jest przetwarzana przy pomocy reguly Zig-Zag.
+nie jest przetwarzana przy pomocy reguly Zig-Zag.

@@ -1,0 +1,5 @@
+X001
+W rzutowaniu perspektywicznym punkty obrazu wyznaczana sa przez:
+Przeciecie sie prostych rzutowania 
+Pominiecie jednej wspolrzednej 
+Przeciecie prostych rzutowania z rzutnia 

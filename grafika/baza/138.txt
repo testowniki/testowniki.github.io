@@ -1,0 +1,3 @@
+X1
+Ktore to twory pierwotne?
+GL_TRIANGLES_FAN GL_QUAD_STRIP i GL_QUADS

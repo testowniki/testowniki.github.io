@@ -1,0 +1,5 @@
+X100
+W modelu oswietlenia dla powierzchni dyspersyjnych, oswietlenie punktu zalezy od kata
+Pomiedzy kierunkiem padania swiatla i normalna do powierzchni 
+Pomiedzy kierunkiem obserwacji i kierunkiem padania swiatla
+Pomiedzy kierunkiem obserwacji i normalna do powierzchni

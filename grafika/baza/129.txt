@@ -1,0 +1,5 @@
+X010
+Aby okreslic transformacje obrotu w punkcie wokol srodka ukladu wspolrzednych w przestrzeni dwuwymiarowej nalezy
+Podac dwa parametry 
+Podac jeden parametr 
+Podac trzy parametry 

@@ -1,0 +1,5 @@
+X100
+Metoda podzialu przestrzeni sluzy do 
+Ograniczenia obliczen w metodzie sledzenia promieni
+Zmniejszenia wymiaru macierzy transformacji 
+Obliczania wspolczynnikow sprzezenia w metodzie energetycznej

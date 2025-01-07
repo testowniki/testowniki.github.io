@@ -1,0 +1,5 @@
+X010
+Krzywa Hermite'a w przestrzeni trojwymiarowej, pomiedzy punktem poczatkowym i koncowym:
+ma zawsze tylko jedno ekstremum.
+moze nie miec ekstremum.
+ma jedno lub dwa ekstrema.

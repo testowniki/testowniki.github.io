@@ -1,0 +1,5 @@
+X100
+Pojemnosc tzw. z-bufora zwiazana jest z:
+Liczba pikseli ekranu
+Liczba punktow kontrolnych sluzacych do definiowania powierzchni B-sklejanej
+Liczba pikseli obrazu

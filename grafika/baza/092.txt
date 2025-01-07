@@ -1,0 +1,5 @@
+X100
+W metodzie energetycznej wynik obliczen oswietlenia sceny
+Nie zalezy od polozenia obserwatora
+Zalezy od polozenia obserwatora w przypadku rzutu rownoleglego
+Zalezy od polozenia obserwatora

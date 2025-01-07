@@ -1,0 +1,5 @@
+X010
+W metodzie energetycznej przyjmuje sie, ze platy powierzchni modelu sceny powinny:
+byc opisane rownaniami parametrycznymi
+rozpraszac swiatlo
+odbijac swiatlo w sposob kierunkowy

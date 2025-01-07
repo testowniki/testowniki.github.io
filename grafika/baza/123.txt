@@ -1,0 +1,5 @@
+X100
+Metoda splotu bezposredniego w zagadnieniu filtracji tekstury korzysta z
+Filtru liniowego.
+Filtru dolnoprzepustowego
+Nieliniowego filtru gornoprzepustowego

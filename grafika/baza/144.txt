@@ -1,0 +1,5 @@
+X001
+Eksperyment kolorymetryczny wykonany w celu budowy modelu barw CIE-XYZ polegal na:
+rozkladzie swiatla o zadanej dlugosci fali na skladowa odpowiadajaca zawartosci bieli i barwe czysta.
+statystycznej analizie wystepujacych w przyrodzie barw rejestrowanych w roznych porach dnia.
+rozkladzie swiatla o zadanej dlugosci fali na barwy podstawowe R, G, B.

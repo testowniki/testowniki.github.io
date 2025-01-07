@@ -1,0 +1,5 @@
+X010
+Na obrazie perspektywicznym sceny 3-D liczba pozornych punktow zbieznosci zalezy od
+liczby punktow zbieznosci prostych rzutowania
+liczby osi ukladu wspolrzednych przecinajacych rzutnie
+odleglosci obserwatora od srodka ukladu wspolrzednych

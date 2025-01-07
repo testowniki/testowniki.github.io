@@ -1,0 +1,5 @@
+X100
+W metodzie opisu siatek wielobokow przy pomocy wskaznikow na liste wierzcholkow
+wierzcholek zapisywany jest tylko raz
+wierzcholek zapisywany jest dwa razy
+Dane opisujace wierzcholek moga sie powtarzac

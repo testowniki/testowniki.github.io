@@ -1,0 +1,5 @@
+X100
+Krzywa Hermite'a jest okreslona przez
+Kombinacje ograniczen i wielomianow bazy
+Kombinacje ograniczen
+Kombinacje wielomianow bazy

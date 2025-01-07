@@ -1,0 +1,5 @@
+X100
+Przy rysowaniu odcinka prostej algorytmem DDA dla obliczenia wspolrzednych kolejnego punktu, nalezy wykonac 
+Jedno dodawania zmiennoprzecinkowe i jedno zaokraglenie
+Dwa dodawania zmiennoprzecinkowe i jedno zaokraglenie
+Jedno mnozenie zmiennoprzecinkowe i jedno zaokraglenie

@@ -1,0 +1,5 @@
+X100
+Model barw Munsella jest tablica, ktora zawiera:
+kolorowe prostokaty uporzadkowane zgodnie z osiami okreslajacymi jasnosc, nasycenie barwy i jej odcien.
+kolorowe prostokaty uporzadkowane zgodnie z osiami odpowiadajacymi barwom podstawowym R, G, B.
+kolorowe prostokaty uporzadkowane na osi zgodnie z rosnacymi dlugosciami odpowiadajacej im fali swiatla widzialnego.

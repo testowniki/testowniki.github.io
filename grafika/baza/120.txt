@@ -1,0 +1,5 @@
+X100
+Algorytm DDA to:
+Metoda rysowania obrazu odcinka prostej na ekranie monitora rastrowego
+Szybka metoda wyznaczania przeciec sledzonego promienia i powierzchni kwadryki
+Metoda usuwania elementow niewidocznych sceny bazujaca na opisie geometrycznym

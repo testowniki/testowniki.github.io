@@ -1,0 +1,5 @@
+X100
+Aby opisac punkt plaszczyzny (x,y) we wspolrzednych jednorodnych nalezy
+Wprowadzic trzecia wspolrzedna
+Zmodyfikowac wartosc wspolrzednych przez przyjecie wartosci bezwzglednych
+Podzielic wartosc x i y przez odleglosc punktu od srodka ukladu wspolrzednych

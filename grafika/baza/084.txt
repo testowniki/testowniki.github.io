@@ -1,0 +1,5 @@
+X100
+W algorytmie JPEG skladowa DC:
+Nie jest przetwarzana przy pomocy reguly zig-zag
+Jest przetwarzana przy pomocy reguly zig-zag
+Jest przetwarzana przy pomocy reguly zig-zag, jesli jej wartosc przekracza ustalony prog

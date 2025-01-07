@@ -1,0 +1,5 @@
+X100
+Metoda bryl otaczajacych sluzy do
+Redukcji liczby testow na przeciecie w metodzie sledzenia promieni
+Wyznaczania wspolczynnikow sprzezenia optycznego w metodzie energetycznej
+Eliminacji elementow niewidocznych sceny w algorytmie z-bufora

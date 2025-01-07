@@ -1,0 +1,5 @@
+X100
+Elipsa wraz z brzegiem:
+Jest obszarem wypuklym
+Jest wypukla gdy odleglosc jej ognisk jest mniejsza od wiekszej srednicy
+Nie jest obszarem wypukly

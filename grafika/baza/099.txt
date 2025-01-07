@@ -1,0 +1,5 @@
+X100
+Transformacje punktow z przestrzeni dwuwymiarowej we wspolrzednych jednorodnych
+Zapisuje sie  przy pomocy macierzy o wymiarze 3x3
+Zapisuje sie  przy pomocy macierzy o wymiarze 2x2
+Zapisuje sie  przy pomocy macierzy o wymiarze 2x3

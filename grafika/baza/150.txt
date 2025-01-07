@@ -1,0 +1,5 @@
+X100
+W metodzie energetycznej wspolczynniki sprzezenia optycznego pomiedzy elementami sceny wyznacza sie na podstawie:
+geometrii sceny.
+wlasciwosci materialowych powierzchni elementow.
+usredniania wartosci funkcji rozkladu oswietlenia globalnego sceny.

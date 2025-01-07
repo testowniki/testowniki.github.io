@@ -1,0 +1,5 @@
+X010
+Plaszczyzna
+nie jest kwadryka
+jest kwadryka
+est kwadryka, przy spelnieniu warunku, ze wszystkie wspolczynniki sa niezerowe

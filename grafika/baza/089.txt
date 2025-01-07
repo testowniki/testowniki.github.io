@@ -1,0 +1,5 @@
+X100
+Przy uzyciu diagramu barw CIE-XYZ mozliwe jest:
+sumowanie barw
+sumowanie wektrow
+nakurwiaj salta

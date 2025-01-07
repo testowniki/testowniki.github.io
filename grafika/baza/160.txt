@@ -1,0 +1,5 @@
+X001
+Porownanie przestrzeni barw odtwarzanych przez monitor i drukarke moze byc  przeprowadzone z wykorzystaniem
+wykresu obrazujacego wartosci wspolczynnikow transformaty kosinusowej sygnalow obu urzadzen.
+wykresu obrazujacego statystyczne wlasnosci rozkladu luminancji dla obu urzadzen
+wykresu CIE-XYZ.

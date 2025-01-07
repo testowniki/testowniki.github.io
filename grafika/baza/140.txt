@@ -1,0 +1,5 @@
+X100
+W metodzie sledzenia promieni uzyskuje sie najlepsze obrazy dla scen, na ktorych:
+wystepuja obiekty o powierzchniach polyskujacych.
+wystepuja obiekty o powierzchniach matowych.
+wystepuja obiekty o modelach w postaci siatek trojkatow.

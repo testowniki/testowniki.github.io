@@ -1,0 +1,5 @@
+X100
+Krzywa B-sklejana okreslona na 4 punktach kontrolnych
+nie przechodzi przez te punkty
+przechodzi przez pierwszy i ostatni punkt kontrolny
+przechodzi przez wszystkie punkty kontrolne

@@ -1,0 +1,5 @@
+X010
+NURBS to skrot od
+Nonuniform Raytraced B-Splines 
+Nonuniform Rational B-Splines 
+Nonuniform Rendering B-Splines

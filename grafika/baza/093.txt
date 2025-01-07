@@ -1,0 +1,5 @@
+X100
+Jednym z zalozen metody energetycznej jest warunek, ze platy powierzchni modelu sceny
+Odbijaja swiatlo tak samo we wszystkich kierunkach
+Opisane sa rownaniami parametrycznymi powierzchni Beziera 
+Odbijaja swiatlo roznie w roznych kierunkach. 

@@ -1,0 +1,5 @@
+X100
+W skanerze triangulacyjnym z dwiema kamerami glowica lasera w procesie skanowania:
+jest nieruchoma
+obraca sie o staly kat alfa po kazdym pomiarze
+jest ruchoma

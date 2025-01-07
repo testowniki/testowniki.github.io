@@ -1,0 +1,5 @@
+X100
+Cztery punkty w przestrzeni trojwymiarowej
+Moga okreslac jednoznacznie plaszczyzne
+Zawsze okreslaja jednoznacznie plaszczyzne 
+Zawsze okreslaja dwie rozne plaszczyzny 

@@ -1,0 +1,5 @@
+X100
+W bibliotece OpenGL prawidlowe wypelnienie wieloboku
+Wymaga spelnienia warunku wypuklosci
+jest mozliwe dla dowolnego wieloboku
+Wymaga spelnienia warunku braku wierzcholkow lezaych na jednej prostej 

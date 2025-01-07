@@ -1,0 +1,5 @@
+X100
+Algorytm interpolacji wektorow normalnych (algorytm Phonga) w porownaniu z metoda interpolacji intensywnosci (algorytm Gourauda) daje zazwyczaj:
+obrazy bardziej realistyczne, ale wymaga wykonania wiekszej ilosci obliczen.
+obrazy mniej realistyczne, lecz uzyskane przy mniejszej ilosci wykonanych obliczen.
+obrazy lepsze, ktorych jakosc jest podobna do uzyskiwanych przy pomocy metody cieniowania jednorodnego.

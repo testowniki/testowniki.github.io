@@ -1,0 +1,5 @@
+X010
+Perspektywe klasyfikuje sie jako jednopunktowa, dwupunktowa lub trzypunktowa w oparciu o
+Liczbe punktow zbieznosci prostych rzutowania
+Liczbe osi ukladu wspolrzednych przecinajacych plaszczyzne rzutowania
+Wzgledna odleglosc punktu zbieznosci od srodka ukladu wspolrzednych

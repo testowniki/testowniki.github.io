@@ -1,0 +1,5 @@
+X010
+Krzywa Beziera okreslona przez 3 punkty kontrolne jest opisana wielomianami stopnia
+3
+2
+4

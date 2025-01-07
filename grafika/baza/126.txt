@@ -1,0 +1,5 @@
+X100
+Aby obrocic wielobok wokol jego jednego z jego wierzcholkow o zadany kat nalezy:
+wykonac dwie transformacje przesuniecia i jeden obrot.
+wykonac jedna transformacje przesuniecia i jeden obrot.
+wykonac jedna transformacje obrotu.

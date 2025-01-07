@@ -1,0 +1,5 @@
+X100
+Wezly krzywej sklejanej to:
+Pewne wartosci parametru uzywanego do jej opisania
+Punkty kontrolne zadawane przy interakcyjnym projektowaniu krzywej
+Punkty przegiecia krzywej

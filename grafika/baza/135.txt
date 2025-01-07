@@ -1,0 +1,5 @@
+X010
+Efekt aliasingu w przypadku obrazu rysowanego na ekranie monitora obrazu sceny trojwymiarowej moze sie pojawic, gdy:
+rozdzielczosc monitora mierzona liczba pikseli na jednostke powierzchni ekranu jest zbyt duza.
+na scenie znajduje sie wiele malych obiektow a obserwator znajduje sie wzgledem nich daleko.
+scena sklada sie z kilku duzych obiektow i obserwator znajduje sie wzgledem nich dosc blisko.

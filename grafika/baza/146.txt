@@ -1,0 +1,5 @@
+X100
+Metoda energetyczna jest stosowana zwykle do generacji obrazow scen
+zbudowanych z obiektow o powierzchniach matowych.
+zbudowanych z obiektow o powierzchniach lustrzanych.
+zbudowanych z obiektow opisanych rownaniami powierzchni typu NURBS.

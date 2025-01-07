@@ -1,0 +1,5 @@
+X010
+Krzywa Beziera jest opisana w przestrzeni 3-D
+Kombinacjami liniowymi wspolrzednych punktow poczatkowego i koncowego. 
+Kombinacjami liniowymi wspolrzednych punktow kontrolnych i wielomianow Bernsteina. 
+Ukladem dwoch rownan parametrycznych zawierajacym trzy parametry. 

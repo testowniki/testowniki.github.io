@@ -1,0 +1,5 @@
+X100
+W algorytmie Gorouda interpolacji podlegaja:
+Intensywnosci oswietlenia wyliczone dla wierzcholkow wielobokow siatki modelu
+Wektory normalne wyznaczone w wierzcholkach wielobokow siatki modelu
+Srednie intensywnosci oswietlenia wyliczone dla scian

@@ -1,0 +1,5 @@
+X001
+W metodzie sledzenia promieni kierunek promienia pierwotnego:
+wybierany jest losowo przy uzyciu generatora liczb losowych standaryzowanego rozkladu normalnego.
+zalezy od przyjetego sposobu rzutowania sceny.
+jest ustalony przez opis plaszczyzny rzutni.

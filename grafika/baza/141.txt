@@ -1,0 +1,5 @@
+X100
+Metoda bryl hierarchicznych stosowana w metodzie sledzenia promieni uzywana jest w celu:
+uproszczania obliczen punktow przeciecia promieni i obiektow sceny.
+uproszczania obliczen obrazow cieni obiektow sceny.
+uproszczania obliczen oswietlenia.

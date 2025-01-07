@@ -1,0 +1,5 @@
+X100
+NURBS to
+Pewien typ powierzchni
+Algorytm obliczana przeciec wielobokow 
+Okreslenie specyficznej konstrukcji skanerow laserowych

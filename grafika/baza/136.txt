@@ -1,0 +1,3 @@
+X1
+Dlaczego stosuje sie triangulacje niejednorodna w przypadku plaszczyzn/powierzchni?
+Triangulacja niejednorodna pozwala na uzyskanie modelu zlozonego ze znacznie mniejszej liczby trojkatow niz podzial jednorodny, przy zachowaniu tej samej dokladnosci

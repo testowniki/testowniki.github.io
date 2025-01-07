@@ -1,0 +1,5 @@
+X010
+W ogolnej procedurze wizualizacji 2D, tak zwane obcinanie ma na celu
+modyfikacje niektorych elementow opisu rysowanego obiektu.
+proporcjonalne obciecie wszystkich bokow okna urzadzenia.
+obciecie dluzszych bokow okna obserwatora.
