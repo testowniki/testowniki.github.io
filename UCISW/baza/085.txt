@@ -1,0 +1,4 @@
+X01
+Czy uklad PALCE22V10 ma programowalna matryce iloczynow?
+NIE
+TAK

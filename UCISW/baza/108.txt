@@ -1,0 +1,6 @@
+X0010
+Tranzystor w bramce CMOS, ktory otwiera sie przy podaniu poziomu zera logicznego (napiecia niskiego), to tranzystor:
+NDMOS
+PDMOS
+PEMOS
+NEMOS

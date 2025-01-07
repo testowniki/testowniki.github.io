@@ -1,0 +1,6 @@
+X0100
+W symbolu ukladu PAL litera R (np. w PAL16R6) oznacza:
+uklad o WY kombinacyjnych aktywnych poziomem wysokim
+uklad o WY rejestrowych
+uklad z makrokomorkami konfigurowalnymi
+uklad o WY kombinacyjnych aktywnych poziomem niskim

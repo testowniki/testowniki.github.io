@@ -1,0 +1,4 @@
+X10
+Czy w jezyku VHDL z jedna jednostka (entity) moze byc skojarzonych dowolnie wiele architektur?
+TAK
+NIE

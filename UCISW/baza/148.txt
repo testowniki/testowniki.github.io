@@ -1,0 +1,4 @@
+X01
+Uklad XC95144XL do programowania wykorzystuje EPROM (sporne z opracowania) :
+TAK
+NIE

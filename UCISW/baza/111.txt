@@ -1,0 +1,4 @@
+X01
+Uklad PALCE22V10 ma programowalna matryce sum :
+TAK
+NIE

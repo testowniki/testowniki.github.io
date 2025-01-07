@@ -1,0 +1,6 @@
+X0010
+Uklad PAL16L8 ma laczna liczbe wejsc do matrycy programowalnej rowna :
+8
+16
+32
+4

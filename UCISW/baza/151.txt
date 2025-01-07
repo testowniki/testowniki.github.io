@@ -1,0 +1,4 @@
+X10
+Czy w jezyku VHDL wyrazenie: (a and b or c) (gdzie a, b oraz c sa sygnalami typu std_logic) jest poprawne?
+NIE
+TAK

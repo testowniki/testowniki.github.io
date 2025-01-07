@@ -1,0 +1,5 @@
+X100
+Mozliowosc wykorzystania gotowych duzych blokow funkcyjnych tzw. mega cores :
+SC
+GA
+FPGA

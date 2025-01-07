@@ -1,0 +1,5 @@
+X010
+Projektowanie przez uzytkownika tylko warstw metalizacji ukladu scalonego dotyczy :
+SC
+GA
+FPGA

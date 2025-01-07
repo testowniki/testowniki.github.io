@@ -1,0 +1,5 @@
+X010
+Wykorzystanie powierzchi ukladu niewiele ponizej 80% :
+SC
+GA
+FPGA

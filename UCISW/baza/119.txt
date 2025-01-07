@@ -1,0 +1,5 @@
+X010
+Najkrotszy czas produkcji wsrod ukladow z programowalna maska :
+SC
+GA
+FPGA

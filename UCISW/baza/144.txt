@@ -1,0 +1,6 @@
+X0010
+W oznaczeniach ukladow PAL druga z dwoch liczb (np. 8 w symbolu PLA16L8) to:
+calkowita liczba wyprowadzen obudowy
+calkowita liczba WE atrycy programowalnej
+calkowita liczba WY w ogole lub WY rejestrowych
+calkowita liczba sprzezen zwrotnych wracajacych do matrycy programowalnej

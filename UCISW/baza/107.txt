@@ -1,0 +1,7 @@
+X10000
+Technologia programowania ukladow bipolarnych dotyczy :
+FPROM
+EEPROM
+EPROM
+AFPROM
+SRAM

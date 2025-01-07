@@ -1,0 +1,4 @@
+X10
+W jezyku VHDL funkcja rozstrzygajaca jest konieczna w przypadku sygnalow z wieloma sterownikiami :
+TAK
+NIE

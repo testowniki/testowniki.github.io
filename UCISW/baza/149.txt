@@ -1,0 +1,4 @@
+X01
+W jezyku VHDL instrukcje procesow mozna zagniezdzac :
+TAK
+NIE

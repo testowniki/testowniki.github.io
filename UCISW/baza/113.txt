@@ -1,0 +1,4 @@
+X01
+W jezyku VHDL lista warunkow isntrukcji przypisania sygnalu when ... else musi byc rozlaczna i wyczerpujaca :
+TAK
+NIE

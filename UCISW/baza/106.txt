@@ -1,0 +1,7 @@
+X10000
+Najwyzsza niezawodnosc polaczenia programowalengo dotyczy:
+FPROM
+EEPROM
+EPROM
+AFPROM
+SRAM

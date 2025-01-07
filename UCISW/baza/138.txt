@@ -1,0 +1,4 @@
+X10
+Uklad XC9536XL ma alokatory termow sluzace do wymiany termow miedzy makrokomorkami w bloku funkcyjnym :
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+W jezyku VHDL instrukcja for ... generate moze wystapic wewnatrz procesu :
+TAK
+NIE

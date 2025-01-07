@@ -1,0 +1,4 @@
+X10
+Uklad PALCE22V10 ma 10 przerzutnikow :
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+W jezyku VHDL opis na poziomie RTL nie moze zawierac instrukcji sekwencyjnych :
+TAK
+NIE

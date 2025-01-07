@@ -1,0 +1,5 @@
+X100
+Projektowanie wiekszosci/wszystkich masek ukladu scalonego :
+SC
+GA
+FPGA

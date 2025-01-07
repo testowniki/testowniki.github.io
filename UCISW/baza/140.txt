@@ -1,0 +1,6 @@
+X1000
+Uklad PAL16L8 ma liczbe WY kombinacyjnych rowna :
+8
+64
+32
+4

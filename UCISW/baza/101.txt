@@ -1,0 +1,6 @@
+X0001
+Wybierz technologie w ktorej uzytkownik projektuje najwieksza liczbe masek ukladu scalonego:
+PAL
+GA
+SC
+FPGA

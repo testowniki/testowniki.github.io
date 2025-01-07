@@ -1,0 +1,4 @@
+X10
+Uklad PALCE22V10 ma 22 sygnaly dostepne koplementarnie w matrycy programowalnej :
+TAK
+NIE

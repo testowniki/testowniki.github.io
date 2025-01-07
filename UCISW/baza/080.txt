@@ -1,0 +1,5 @@
+X010
+Posiada konfigurowalna matryce iloczynow i sum :
+PAL
+PLA
+PLE

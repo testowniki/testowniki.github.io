@@ -1,0 +1,6 @@
+X0100
+Wskaz najbardziej rozpowszechniony rodzaj prostych ukladow PLD:
+PLA
+PAL
+PLE
+FPGA

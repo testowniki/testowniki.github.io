@@ -1,0 +1,5 @@
+X001
+Najkrotszy czas przygotowania projektu :
+SC
+GA
+FPGA

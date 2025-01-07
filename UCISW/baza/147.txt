@@ -1,0 +1,4 @@
+X01
+Uklad XC95144XL zawiera przerzutniki o blokach WE/WY :
+TAK
+NIE

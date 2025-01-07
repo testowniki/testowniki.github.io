@@ -1,0 +1,6 @@
+X0100
+Wybierz uklady w ktorych jest programowalna matryca sum przy stalej matrycy iloczynow:
+PAL
+PLE
+PLA
+CPLD

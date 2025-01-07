@@ -1,0 +1,5 @@
+X100
+Najnizszy koszt jednostkowy 1 ukladu scalonego dotyczy :
+SC
+GA
+FPGA

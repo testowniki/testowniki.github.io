@@ -1,0 +1,4 @@
+X01
+Czy w jezyku VHDL kazda architektura jest skojarzona z dokladnie jedna jednostka?
+NIE
+TAK

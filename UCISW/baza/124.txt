@@ -1,0 +1,4 @@
+X10
+W jezyku VHDL instrukcja iteracyjna for ... loop moze wystapic wylacznie wewnatrz procesu :
+TAK
+NIE

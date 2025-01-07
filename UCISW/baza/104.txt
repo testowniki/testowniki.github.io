@@ -1,0 +1,4 @@
+X01
+Uklad XC95144XL ma alokatory termow pozwalajace na wymiane termow miedzy blokami funkcyjnymi :
+TAK
+NIE

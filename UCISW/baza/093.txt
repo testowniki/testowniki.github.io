@@ -1,0 +1,7 @@
+X01000
+Kasowanie z wykorzystaniem efektu tunelowego dotyczy :
+FPROM
+EEPROM
+EPROM
+AFPROM
+SRAM

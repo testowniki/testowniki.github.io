@@ -1,0 +1,6 @@
+X0001
+Uklad PAL16R8 ma calkowita liczbe termow rowna :
+8
+16
+32
+64

@@ -1,0 +1,4 @@
+X01
+Uklad PAL16L8 ma 8 przerzutnikow :
+TAK
+NIE

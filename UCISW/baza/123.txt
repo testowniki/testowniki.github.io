@@ -1,0 +1,6 @@
+X1000
+W klasycznych bramkach CMOS jedynka logiczna jest osiagana przez zwarcie jej wyjscia:
+do dodatniego napiecia zasilajacego przez otwarte tranzystory MOS z kanalem typu N
+do dodatniego napiecia zasilajacego przez otwarte tranzystory MOS z kanalem typu P
+do ujemnego napiecia zasilajacego przez otwarte tranzystory MOS z kanalem typu N
+do ujemnego napiecia zasilajacego przez otwarte tranzystory MOS z kanalem typu P

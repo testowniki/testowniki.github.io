@@ -1,0 +1,6 @@
+X0100
+Uklad XC9536XL ma calkowita (we wszystkich blokach funkcyjnych) liczbe termow rowna :
+36
+180
+130
+5

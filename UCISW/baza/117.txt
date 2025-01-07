@@ -1,0 +1,6 @@
+X0001
+Jaki sygnal wykorzystuja uklady CPLD z rodziny XC9500XL jak alternatywe dla GTS :
+GSR
+GCK
+PTCK
+PTOE

@@ -1,0 +1,4 @@
+X01
+W jezyku VHDL wielkosc liter jest rozroznialna :
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Czy uklady CPLD rodziny XC9500XL maja przerzutniki, ktorych sygnal taktujacy moze byc pobrany tylko z wypr. zewnetrznego?
+TAK
+NIE

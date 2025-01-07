@@ -1,0 +1,4 @@
+X10
+W jezyku VHDL typ STD_LOGIC mozna stosowac wylacznie do sygnalow, ktore maja tylko jeden sterownik :
+TAK
+NIE

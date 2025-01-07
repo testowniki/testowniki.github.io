@@ -1,0 +1,4 @@
+X01
+Czy uklady CPLD rodziny XC9500XL maja bufory WY, ktore przy odpowiednim napieciu VCCIO moga sterowac ukladami CMOS 1.8V?
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Uklad XC9536XL ma ulotna pamiec konfiguracji :
+TAK
+NIE

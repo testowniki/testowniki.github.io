@@ -1,0 +1,4 @@
+X10
+Uklad XC95144XL mozna skonfigurowac na poziomie kazdej makrokomorki w trybie obnizonego poboru mocy :
+TAK
+NIE

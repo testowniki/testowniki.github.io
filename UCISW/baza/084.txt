@@ -1,0 +1,7 @@
+X00010
+Programowanie jednokrotne ukladow CMOS o duzym stopniu scalenia dotyczy :
+FPROM
+EEPROM
+EPROM
+AFPROM
+SRAM

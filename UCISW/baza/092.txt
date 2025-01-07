@@ -1,0 +1,6 @@
+X0100
+Uklad XC9572XL ma liczbe termow przypadajacych na jedno makrokomorke rowna :
+8
+5
+3
+54

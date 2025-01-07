@@ -1,0 +1,6 @@
+X0010
+Uklad XC95288XL ma liczbe termow w kazdym bloku funkcyjnym rowna:
+32
+54
+90
+288

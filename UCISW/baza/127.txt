@@ -1,0 +1,4 @@
+X10
+W jezyku VHDL opisy przerzutnikow musza posrednio lub bezposrednio odwolywac sie do atrybutu EVENT :
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Czy uklady CPLD rodziny XC9500XL zawieraja dodatkowe przerzutniki w blokach WE/WY do zatrzaskiwania sygnalow WE?
+TAK
+NIE

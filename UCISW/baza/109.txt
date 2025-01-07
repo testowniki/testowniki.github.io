@@ -1,0 +1,4 @@
+X01
+Uklad XC9536XL zwiera przerzutniki ktorych sygnal taktujacy moze byc pobrany tylko z wyprowadzenia zewnetrznego :
+TAK
+NIE

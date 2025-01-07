@@ -1,0 +1,4 @@
+X01
+Uklad PALCE22V10 jest wykonany w technologii antifuse :
+TAK
+NIE

@@ -1,0 +1,7 @@
+X10000
+Jednokrotne programowanie przez rozwieranie polaczen dotyczy :
+FPROM
+EEPROM
+EPROM
+AFPROM
+SRAM

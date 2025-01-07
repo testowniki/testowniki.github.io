@@ -1,0 +1,6 @@
+X0100
+Wybierz uklad PLD funkcjonujace jak pamiec PROM:
+PLA
+PAL
+PLE
+CPLD

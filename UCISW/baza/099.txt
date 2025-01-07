@@ -1,0 +1,4 @@
+X01
+W jezyku VHDL w cyklu symulacji aktualizacja wartosci sygnalow odbywa sie po wykonaniu wszystkich procesow :
+TAK
+NIE

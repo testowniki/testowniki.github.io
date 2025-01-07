@@ -1,0 +1,4 @@
+X10
+W jezyku VHDL jest wbudowany operator potegowania :
+TAK
+NIE

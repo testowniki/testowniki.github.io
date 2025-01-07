@@ -1,0 +1,6 @@
+X0001
+Wybierz uklad, w ktorych wystepuje wiele identycznych matryc programowalnych w jednej strukturze ukladu:
+PLA
+PLE
+FPGA
+CPLD

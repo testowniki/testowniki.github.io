@@ -1,0 +1,6 @@
+X0001
+Ktora technologia konfigurowania uzywa lawinowe wprowadzanie elektronow o duzej energii kinetycznej?
+SRAM
+FPROM
+AFPROM
+EPROM
