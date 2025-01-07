@@ -1,0 +1,6 @@
+X1000
+Jezeli algorytm jest 2-aproksymacyjny to uzyskamy rozwiazanie
+Co najwyzej dwukrotnie gorsze od optymalnego
+Co najwyzej dwukrotnie lepsze od optymalnego
+Co najmniej dwukrotnie lepsze od optymalnego
+Co najmniej dwukrotnie gorsze od optymalnego

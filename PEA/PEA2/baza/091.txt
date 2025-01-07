@@ -1,0 +1,8 @@
+X001000
+Problem, dla ktorego nie istnieje algorytm jego rozwiazania, przy czym wykazano, ze algorytm jego rozwiazania nie istnieje, to algorytm:
+rozstrzygalny
+otwarty
+nierozwiazywalny
+zamkniety
+deterministyczny
+dokladny

@@ -1,0 +1,6 @@
+X0010
+<img src="baza/095.png">
+f(x) ">=" k f(x*)
+f(x) "=<" 1/k f(x*)
+f(x) "=<" k f(x*)
+f(x*) "=<" k f(x*) 

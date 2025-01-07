@@ -1,0 +1,3 @@
+X1
+Problem maksymalizacyjny to
+Problem, w ktorym celem jest uzyskanie jak najwiekszej wartosci funkcji celu, przy spelnieniu okreslonych ograniczen.

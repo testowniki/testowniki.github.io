@@ -1,0 +1,7 @@
+X00100
+Jaki schemat chlodzenia w Symulowanym Wyzarzaniu opisany jest wzorem alpha(T) = ak T, gdzie 0 < a <1 ? (Wybierz jedna odpowiedz):
+Cauchy'ego
+Logarytmiczny
+Geometryczny
+Boltzmanna 
+Liniowy

@@ -1,0 +1,7 @@
+X00010
+Jaki jest skutek zwiekszenia dokladnosci modelu problemu, czyli zblizenia go do problemu rzeczywistego? Wybierz jedna odpowiedz:
+Wydluzenie czasu uzyskiwania wyniku i zmniejszenie dokladnosci wyniku.
+Nie ma wplywu na czas i dokladnosc uzyskiwanego wyniku.
+Skrocenie czasu uzyskiwania wyniku.
+Wydluzenie czasu uzyskiwania wyniku i zwiekszenie dokladnosci wyniku.
+Wydluzenie czasu uzyskiwania wyniku.

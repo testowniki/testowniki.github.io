@@ -1,0 +1,6 @@
+X0001
+Ruch na liscie tabu (w metodzie Tabu search) pozostaje na niej
+Przez stala liczbe iteracji
+Do czasu zakonczenia dzialania algorytmu
+Do momentu wypelnienia listy tabu
+Przez ustalona liczbe iteracji lub do spelnienia kryterium aspiracji

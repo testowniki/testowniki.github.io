@@ -1,0 +1,6 @@
+X0100
+Pula macierzysta w Algorytmach genetycznych to
+Populacja początkowa
+Zbiór osobników wybranych podczas selekcji
+Populacja po zastosowaniu operatorów genetycznych
+Zbiór osobników o największym stopniu przystosowania 

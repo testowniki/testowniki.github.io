@@ -1,0 +1,6 @@
+X1100
+Algorytm mrowkowy (ACO) jest algorytmem: (zaznacz wszystkie poprawne)
+stadnym
+metaheurystycznym
+zachlannym
+aproksymacyjnym

@@ -1,0 +1,6 @@
+X0010
+Oszacowanie zlozonosci czasowej i pamieciowej algorytmu Helda Karpa to (odpowiednio)
+O(n^2) O(n*2^n)
+O(n!) O(n^2*2n)
+O(n^2*2^n) O(n*2^n)
+O(n!) O(2n)

@@ -1,0 +1,6 @@
+X0100
+Eksploracja przestrzeni rozwiazan to
+Przeszukiwanie przestrzeni w sasiedztwie najbardziej obiecujacego rozwiazania
+Przeszukiwanie przestrzeni rozwiazan w poszukiwaniu obiecujacych obszarow
+Systematyczne wyznaczanie rozwiazan i wybor najlepszego z nich
+Poszukiwanie optimow lokalnych

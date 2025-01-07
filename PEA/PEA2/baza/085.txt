@@ -1,0 +1,7 @@
+X10000
+W problemach ciaglych sasiedztwo rozwiazania x definiowane jest przez (dotyczy poszukiwania lokalnego):
+metryke (funkcje odleglosci)
+wszystkie transformacje x
+funkcje celu
+losowe transformacje x
+w inny sposob

@@ -1,0 +1,6 @@
+X0011
+Parametrem (-ami) wpływającym (-ymi) na czas uzyskania rozwiązania instancji problemu w metodzie Symulowanego wyżarzania jest (są)
+Stała Boltzmanna
+Długość kadencji
+Wielkość sąsiedztwa
+Temperatura

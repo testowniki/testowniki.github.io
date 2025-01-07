@@ -1,0 +1,8 @@
+X001101
+Jakiego rodzaju algorytmem jest algorytm Dijkstry?
+stadnym
+populacyjnym
+dokladnym
+deterministycznym
+aproksymacyjnym
+zachlannym

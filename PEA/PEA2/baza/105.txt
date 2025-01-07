@@ -1,0 +1,7 @@
+X00100
+Gorne ograniczenie w rozwiazywaniu problemu minimalizujacego (np. B&B) to (Wybierz jedna odpowiedz):
+rozwiazanie optymalne
+potencjalnie najlepsze mozliwe rozwiazanie dostepne z aktualnego wezla
+najlepsze aktualne rozwiazanie
+dowolne rozwiazanie, np. losowe
+potencjalnie najlepsze rozwiazanie mozliwe do osiagniecia z dowolnego wezla

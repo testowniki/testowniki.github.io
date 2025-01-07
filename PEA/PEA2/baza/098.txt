@@ -1,0 +1,7 @@
+X10000
+W jakim najkrotszym czasie mozna rozwiazac ciagly problem plecakowy? Wybierz jedna odpowiedz:
+O(n log n)
+O(n2log n)
+O(n!)
+O(n2)
+O(2n)

@@ -1,0 +1,6 @@
+X0010
+Aby rozwiazac optymalizacyjny TSP, wczesniej nalezy rozwiazac
+Optymalizacyjny problem Hamiltona
+Decyzyjny problem aproksymacyjny
+Decyzyjny problem Hamiltona
+Nie trzeba rozwiazywac zadnego innego problemu

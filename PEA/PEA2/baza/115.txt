@@ -1,0 +1,6 @@
+X0001
+Model rozwiazywanego problemu musi zawierac co najmniej okreslenie
+Stanu poczatkowego i koncowego
+Stanu poczatkowego i koncowego oraz ruchow (operatorow zmiany stanu problemow)
+Stanu poczatkowego i koncowego, ruchow oraz warunki ograniczajace
+Stanu poczatkowego i koncowego, ruchow, warunki ograniczajace oraz funkcje celu
