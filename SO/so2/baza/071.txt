@@ -1,0 +1,4 @@
+X01
+W unixie wystepuje katalog, dostepny przez sciezke ./ jest to katalog glowny, jeden dla calego systemu
+TAK
+NIE

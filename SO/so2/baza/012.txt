@@ -1,0 +1,4 @@
+X10
+Bloki alokacji (klastry) w systemie plikow sa stalej wielkosci w calym systemie plikow
+TAK
+NIE

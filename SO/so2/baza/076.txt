@@ -1,0 +1,4 @@
+X01
+Katalog glowny systemu plikow w unixie nie ma nazwy, definiowany jest przez zapisanie numeru jego inodeíu w superbloku
+TAK
+NIE

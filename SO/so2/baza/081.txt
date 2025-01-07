@@ -1,0 +1,4 @@
+X01
+Katalog glowny systemu plikow w unixie zawiera stala liczbe pozycji, ktorej nie mozna zmienic bez rekompilacji jadra systemu
+TAK
+NIE

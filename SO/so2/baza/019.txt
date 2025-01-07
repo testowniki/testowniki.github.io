@@ -1,0 +1,4 @@
+X01
+Sekwencyjny dostep do pliku nie pozwala dopisywac rekordow na koniec istniejacego pliku
+TAK
+NIE

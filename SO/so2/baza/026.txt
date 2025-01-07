@@ -1,0 +1,4 @@
+X01
+Bezposredni==swobodny dostep do pliku wymaga zmiany kolejnosci rekordow w pliku w celu optymalizacji czas dostepu
+TAK
+NIE

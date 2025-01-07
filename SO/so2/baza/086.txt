@@ -1,0 +1,4 @@
+X01
+Katalog biezacy w unixie uzytkwnik nie moze zmienic go, jezeli nie ma uprawnien root
+TAK
+NIE

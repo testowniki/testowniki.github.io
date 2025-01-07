@@ -1,0 +1,4 @@
+X01
+W hierarchicznym systemie plikow wystepuje wiele katalogow glownych
+TAK
+NIE

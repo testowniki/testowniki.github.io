@@ -1,0 +1,4 @@
+X01
+Przydzial listowy miejsca na dysku wymaga zapisu tablicy listowej na dysku
+TAK
+NIE

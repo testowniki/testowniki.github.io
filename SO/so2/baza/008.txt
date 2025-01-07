@@ -1,0 +1,4 @@
+X10
+W hierarchicznym systemie plikow wystepuja sciezki wzgledne i bezwzgledne dostepu do plikow
+TAK
+NIE

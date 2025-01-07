@@ -1,0 +1,4 @@
+X01
+Sekwencyjny dostep do pliku nie powinien byz uzywany - jest implementowany jedynie z przyczyn historycznych
+TAK
+NIE

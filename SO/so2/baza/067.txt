@@ -1,0 +1,4 @@
+X01
+“Spooling” to metoda buforowania dysku w szybkich pamieciach wbudowanych do sterownika
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+W hierarchicznym systemie plikow moga wystepowac wielokrotne dowiazania twarde do pliku
+TAK
+NIE

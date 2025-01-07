@@ -1,0 +1,4 @@
+X10
+Powloka systemu operacyjnego okresla dostepny zestaw i skladnie komend wewnetrznych
+TAK
+NIE

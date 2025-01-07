@@ -1,0 +1,4 @@
+X01
+“Spooling” to metoda buforowania dysku bazujaca na tworzeniu duzych puli buforow systemowych
+TAK
+NIE

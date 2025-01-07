@@ -1,0 +1,4 @@
+X10
+Bloki alokacji (klastry) w systemie plikow dobierane sa tak, aby zminimalizowac fragmentacje wewnetrzna
+TAK
+NIE

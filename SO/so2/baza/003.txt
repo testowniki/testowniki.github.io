@@ -1,0 +1,4 @@
+X01
+W hierarchicznym systemie plikow uzytkownikom przypisane sa priorytety dostepu do plikow
+TAK
+NIE

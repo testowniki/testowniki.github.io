@@ -1,0 +1,4 @@
+X10
+Bezposredni==swobodny dostep do pliku pozwala na wystepowanie plikow nieciaglych, wewnatrz ktorych moga wystapic niezaalokowane obszary
+TAK
+NIE

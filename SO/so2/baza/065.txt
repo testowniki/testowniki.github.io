@@ -1,0 +1,4 @@
+X01
+“Spooling” wylaczonych wszystkich innych procesach
+TAK
+NIE

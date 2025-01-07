@@ -1,0 +1,4 @@
+X01
+Katalog glowny systemu plikow w unixie ma ograniczona wielkosc, poniewaz umieszczony jest w calosci w superbloku
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Bezposredni==swobodny dostep do pliku blokuje rownoczesny dostep wielu procesow do pliku
+TAK
+NIE

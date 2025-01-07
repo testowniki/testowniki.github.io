@@ -1,0 +1,4 @@
+X01
+“Spooling” to technika programowania, zmniejszjaca pamiec wymagana do wykonania programu
+TAK
+NIE

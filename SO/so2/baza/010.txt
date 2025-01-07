@@ -1,0 +1,4 @@
+X01
+Bloki alokacji (klastry) w systemie plikow dobierane sa tak, aby zminimalizowac fragmentacje zewnetrzna
+TAK
+NIE

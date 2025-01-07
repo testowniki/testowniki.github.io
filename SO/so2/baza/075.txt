@@ -1,0 +1,4 @@
+X01
+Katalog glowny systemu plikow w unixie jest plikiem zawierajacym rekordy z nazwami, innymi atrybutami i tablicami indeksowymi nalezacych do niego plikow
+TAK
+NIE

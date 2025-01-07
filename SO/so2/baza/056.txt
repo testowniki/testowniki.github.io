@@ -1,0 +1,4 @@
+X01
+Planowanie srednioterminowe musi byc zaimplementowane w kazdym wieloprogramowym sO
+TAK
+NIE

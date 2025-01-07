@@ -1,0 +1,4 @@
+X10
+W unixie wystepuje katalog, dostepny przez sciezke ./ kazdy proces moze miec swoj taki katalog
+TAK
+NIE

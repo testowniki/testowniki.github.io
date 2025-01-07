@@ -1,0 +1,4 @@
+X10
+“Spooling” to technika kopiowania w tle danych z nosnika papierowego na szybszy magnetyczny
+TAK
+NIE

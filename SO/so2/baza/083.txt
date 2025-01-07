@@ -1,0 +1,4 @@
+X10
+Katalog biezacy w unixie jest plikiem zawierajacym rekordy z nazwami i numerami inodeíow nalezacych do niego plikow
+TAK
+NIE

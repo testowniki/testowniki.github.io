@@ -1,0 +1,4 @@
+X01
+Sekwencyjny dostep do pliku pozwala czytac rekordy w dowolnej kolejnosci dzieki operacji lseek
+TAK
+NIE

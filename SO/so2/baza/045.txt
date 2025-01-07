@@ -1,0 +1,4 @@
+X01
+Przydzial listowy miejsca na dysku jest algorytmem optymalnym, nie dajacym sie zaimplementowac w praktyce
+TAK
+NIE

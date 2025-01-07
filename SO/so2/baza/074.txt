@@ -1,0 +1,4 @@
+X10
+Katalog glowny systemu plikow w unixie jest plikiem zawierajacym rekordy z nazwami i numerami inodeíow nalezacych do niego plikow
+TAK
+NIE

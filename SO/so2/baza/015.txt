@@ -1,0 +1,4 @@
+X10
+Bloki alokacji (klastry) w systemie plikow numerowane sa liczbami binarnymi stalej dlugosci, co ogranicza ich liczbe
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Sekwencyjny dostep do pliku polega na czytaniu lub zapisie pliku rekord po rekordzie w stalej kolejnosci
+TAK
+NIE

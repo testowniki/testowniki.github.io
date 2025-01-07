@@ -1,0 +1,4 @@
+X01
+Katalog glowny systemu plikow w unixie nie zawiera pozycji .. (normalnie wskazujacej na katalog nadrzedny)
+TAK
+NIE

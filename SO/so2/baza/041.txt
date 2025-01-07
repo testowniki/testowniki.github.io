@@ -1,0 +1,4 @@
+X01
+Przydzial ciagly miejsca na dysku wymaga zapisu tablicy indeksowej na dysku
+TAK
+NIE

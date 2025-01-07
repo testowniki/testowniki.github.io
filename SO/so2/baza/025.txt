@@ -1,0 +1,4 @@
+X01
+Sekwencyjny dostep do pliku szereguje dostep wielu procesow do pliku
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Planowanie srednioterminowe okresla procesy, ktore nalezy zablokowac
+TAK
+NIE

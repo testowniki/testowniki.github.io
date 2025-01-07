@@ -1,0 +1,4 @@
+X01
+Katalog biezacy w unixie nie zawiera pozycji . i ..
+TAK
+NIE

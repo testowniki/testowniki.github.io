@@ -1,0 +1,4 @@
+X01
+Powloka systemu operacyjnego okresla dostepny zestaw i skladnie komend zewnetrznych
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Planowanie krotkoterminowe okresla procesy, ktore nalezy zablokowac
+TAK
+NIE

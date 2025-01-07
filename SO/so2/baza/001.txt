@@ -1,0 +1,4 @@
+X10
+W hierarchicznym systemie plikow wystepuje wiele katalogow
+TAK
+NIE

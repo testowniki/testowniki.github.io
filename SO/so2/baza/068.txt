@@ -1,0 +1,4 @@
+X10
+“Spooling” polega na zapisie danych wyjsciowych z programu na szybkie nosniki magnetyczne i drukowaniu ich w tle po zakonczeniu programu
+TAK
+NIE

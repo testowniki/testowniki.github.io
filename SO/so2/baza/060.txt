@@ -1,0 +1,4 @@
+X01
+“Spooling” to technika przydzielania dodatkowych buforow procesom uprzywilejowanym
+TAK
+NIE

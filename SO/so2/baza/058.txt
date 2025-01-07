@@ -1,0 +1,4 @@
+X10
+Planowanie dlugoterminowe bezposrednio decyduje o wyborze procesow, ktore nalezy wczytac do pamieci
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Planowanie srednioterminowe to wybor zadania, ktore w pierwszej kolejnosci powinno zostac wczytane do pamieci op
+TAK
+NIE

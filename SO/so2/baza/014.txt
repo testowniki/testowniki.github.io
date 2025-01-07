@@ -1,0 +1,4 @@
+X01
+Bloki alokacji (klastry) w systemie plikow powinny byc jak najwieksze, aby bylo ich w systemie niewiele
+TAK
+NIE

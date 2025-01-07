@@ -1,0 +1,4 @@
+X01
+Bloki alokacji (klastry) w systemie plikow sa zawsze wielkosci dwoch rekordow fizycznych (sektorow) na dysku
+TAK
+NIE

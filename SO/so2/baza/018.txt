@@ -1,0 +1,4 @@
+X01
+Sekwencyjny dostep do pliku jest mozliwy tylko w plikach z rekordami stalej dlugosci
+TAK
+NIE

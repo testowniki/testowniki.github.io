@@ -1,0 +1,4 @@
+X10
+Bezposredni==swobodny dostep do pliku pozwala czytac rekordy w dowolnej kolejnosci dzieki operacji lseek
+TAK
+NIE

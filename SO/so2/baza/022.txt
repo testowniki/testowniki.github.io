@@ -1,0 +1,4 @@
+X10
+Sekwencyjny dostep do pliku wyklucza powstawanie “dziur” w plikach, w ktorych nie ma przydzielonych blokow
+TAK
+NIE

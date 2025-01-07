@@ -1,0 +1,4 @@
+X10
+Planowanie srednioterminowe polega na wyborze procesu, ktory ma zostac usuniety z pamieci op
+TAK
+NIE

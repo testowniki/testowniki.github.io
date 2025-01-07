@@ -1,0 +1,4 @@
+X10
+W hierarchicznym systemie plikow okreslona jest dokladnie jedna sciezka bezwzgledna do pliku
+TAK
+NIE

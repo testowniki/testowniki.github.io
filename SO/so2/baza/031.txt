@@ -1,0 +1,4 @@
+X01
+Bezposredni==swobodny dostep do pliku pozwala na zapis fragmentow roznych plikow do wspolnego bloku alokacji
+TAK
+NIE

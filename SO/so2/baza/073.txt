@@ -1,0 +1,4 @@
+X01
+W unixie wystepuje katalog, dostepny przez sciezke ./ proces musi miec prawa zapisu w tym katalogu, aby mogl sie wykonywac
+TAK
+NIE

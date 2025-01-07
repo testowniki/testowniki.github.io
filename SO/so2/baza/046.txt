@@ -1,0 +1,4 @@
+X01
+Przydzial listowy miejsca na dysku charakteryzuje sie brakiem fragmentacja wewnetrznej przestrzeni dysku
+TAK
+NIE

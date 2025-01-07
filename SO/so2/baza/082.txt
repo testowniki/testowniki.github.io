@@ -1,0 +1,4 @@
+X01
+Katalog glowny systemu plikow w unixie musi miec taka sama zawartosc, jak katalog do ktorego jest montowany
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Sekwencyjny dostep do pliku powinien byc uzywany jedynie przy operacjach na plikach specjalnych, odpowiadajacych urzadzeniom znakowym
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Planowanie dlugoterminowe okresla procesy, ktore nalezy utworzyc
+TAK
+NIE

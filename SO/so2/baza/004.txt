@@ -1,0 +1,4 @@
+X01
+W hierarchicznym systemie plikow uzytkownicy maja dostep tylko do swoich plikow
+TAK
+NIE

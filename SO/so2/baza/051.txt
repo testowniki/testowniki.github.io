@@ -1,0 +1,4 @@
+X01
+Planowanie srednioterminowe wymaga architektury wieloprocesorowej
+TAK
+NIE

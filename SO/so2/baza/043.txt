@@ -1,0 +1,4 @@
+X01
+Przydzial indeksowy miejsca na dysku charakteryzuje sie fragmentacja zewnetrzna przestrzeni dysku
+TAK
+NIE

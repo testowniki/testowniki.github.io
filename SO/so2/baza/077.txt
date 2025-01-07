@@ -1,0 +1,4 @@
+X01
+Katalog glowny systemu plikow w unixie nie ma nazwy, zajmuje zawsze to samo miejsce na partycji dysku (w systemie plikow)
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+“Spooling” eliminuje fragmentacje zewnetrzna dyskow przez przesuwanie plikow w trakcie normalnej pracy komputera (w tle)
+TAK
+NIE

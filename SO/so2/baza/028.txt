@@ -1,0 +1,4 @@
+X10
+Bezposredni==swobodny dostep do pliku jest mozliwy tylko w plikach z rekordami stalej dlugosci
+TAK
+NIE

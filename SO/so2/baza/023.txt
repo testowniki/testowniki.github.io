@@ -1,0 +1,4 @@
+X10
+Sekwencyjny dostep do pliku ulatwia grupowanie operacji dyskowych przez system operacyjny
+TAK
+NIE

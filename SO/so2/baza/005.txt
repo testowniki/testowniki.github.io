@@ -1,0 +1,4 @@
+X10
+W hierarchicznym systemie plikow okresla sie sciezki dostepu do plikow
+TAK
+NIE

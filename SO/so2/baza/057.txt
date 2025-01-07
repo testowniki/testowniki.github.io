@@ -1,0 +1,4 @@
+X01
+Planowanie dlugoterminowe wymaga architektury wieloprocesorowej
+TAK
+NIE
