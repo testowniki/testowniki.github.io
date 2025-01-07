@@ -1,0 +1,6 @@
+X0001
+Metoda Depth search to metoda
+Zachlanna
+Typu local search
+Heurystyczna
+slepa

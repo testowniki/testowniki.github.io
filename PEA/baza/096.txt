@@ -1,0 +1,4 @@
+X01
+Kryterium aspiracji jest elementem metody Symulowanego Wyzarzania.
+Prawda
+Falsz

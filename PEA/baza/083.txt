@@ -1,0 +1,6 @@
+X0100
+Zlozonosc obliczeniowa metody BnB dla problemu TSP o n wierzcholkach wynosi:
+omega(n!),O(n)
+omega(n),O(n!)
+omega(n^2),O(2^n)
+omega(n),O(n^2)

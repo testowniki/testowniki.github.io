@@ -1,0 +1,4 @@
+X10
+W programowaniu dynamicznym decyzja podejmowana na dowolnym etapie nie zalezy od decyzji podjetych na etapach wczesniejszych.
+Prawda
+Falsz

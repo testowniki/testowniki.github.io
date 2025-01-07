@@ -1,0 +1,6 @@
+X0110
+Algorytm heurystyczny charakteryzuje sie
+Gwarancja uzyskania rozwiazania optymalnego
+Brakiem gwarancji uzyskania rozwiazania optymalnego
+Powiazaniem z okreslonym problemem
+K-optymalnoscia

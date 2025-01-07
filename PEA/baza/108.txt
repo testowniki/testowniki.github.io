@@ -1,0 +1,6 @@
+X0101
+Ktore z podanych metod poszukiwania rozwiazania sa metodami heurystycznymi?
+A*
+Algorytmy genetyczne
+Programowanie dynamiczne
+Przeszukiwanie Tabu

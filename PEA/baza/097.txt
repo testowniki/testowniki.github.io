@@ -1,0 +1,4 @@
+X01
+Jednym z elementow charakterystycznych metody poszukiwania z zakazami jest strategia weryfikacji.
+Prawda
+Falsz

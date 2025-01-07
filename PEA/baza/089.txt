@@ -1,0 +1,4 @@
+X10
+W metodzie Symulowanego Wyzarzania dlugosc epoki okresla czas poszukiwania rozwiazania w sasiedztwie dla okreslonej temperatury.
+Prawda
+Falsz

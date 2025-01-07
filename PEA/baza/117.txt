@@ -1,0 +1,6 @@
+X0010
+Zastosowanie heurystyki najblizszego sasiada do TSP pozwala na uzyskanie rozwiazania optymalnego
+Zawsze
+Tylko dla ograniczonej wielkosci instancji
+Jezeli wagi krawedzi sa jednakowe
+Jezeli oszacowane sa dolne i gorne oszacowania

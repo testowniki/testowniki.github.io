@@ -1,0 +1,6 @@
+X0010
+Algorytm stworzony wedlug metody Brute force to algorytm
+Heurystyczny
+Aproksymacyjny
+Dokladny
+Przyblizony

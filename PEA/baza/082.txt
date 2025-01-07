@@ -1,0 +1,6 @@
+X0001
+Ktory z ponizszych warunkow moga byc warunkami zakonczenia algorytmu Tabu Search?
+wykonanie zadanej liczby iteracji
+uzyskanie wyniku satysfakcjonujacego
+wyczerpanie czasu
+wszystkie pozostale sa poprawne

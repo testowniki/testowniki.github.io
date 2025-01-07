@@ -1,0 +1,6 @@
+X0010
+W algorytmie przeszukiwania z zakazami przez kryterium aspiracji rozumie sie:
+zrezygnowanie z najlepszego ruchu
+pominiecie rozwazania czesci sasiedztwa
+wybor ruchu, pomimo jego obecnosci na liscie tabu
+wybor losowego ruchu w sasiedztwie

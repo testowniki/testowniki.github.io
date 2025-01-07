@@ -1,0 +1,6 @@
+X1000
+Programowanie dynamiczne to metoda okreslajaca ogolne podejscie polegajace na przeksztalceniu optymalizacyjnego w (Wybierz jedna odpowiedz): 
+wieloetapowy proces decyzyjny, w ktorym stan na kazdym etapie zalezy od decyzji wybieranej ze zbioru decyzji dopuszczalnych.
+wieloetapowy proces decyzyjny, w ktorym stan na kazdym etapie nie zalezy od decyzji wybieranej ze zbioru decyzji dopuszczalnych.
+wieloetapowy proces decyzyjny, w ktorym stan na kazdym etapie zalezy od decyzji wybieranej ze zbioru dostepnych decyzji.
+wieloetapowy proces optymalizacyjny, w ktorym stan na kazdym etapie zalezy od decyzji wybieranej ze zbioru decyzji dopuszczalnych.

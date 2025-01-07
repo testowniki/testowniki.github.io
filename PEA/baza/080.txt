@@ -1,0 +1,6 @@
+X1000
+Problem plecakowy w wersji ciaglej continuous knapsack problem mozna rozwiazac w czasie wielomianowym przy uzyciu:
+algorytmu zachlannego
+algorytmu typu Brute-Force
+algorytmu randomizowanego
+zadna z pozostalych nie jest prawidlowa

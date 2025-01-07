@@ -1,0 +1,6 @@
+X0100
+Regula "Least lower bound" wyboru kolejnego wierzcholka (drzewa poszukiwan) ze zbioru wierzcholkow aktywnych (w programowaniu dynamicznym) polega na wyborze (wierzcholka):
+w kolejnosci malejacej wartosci dolnego ograniczenia
+w kolejnosci niemalejacej wartosci dolnego ograniczenia
+w kolejnosci malejacej wartosci gornego ograniczenia
+w losowej kolejnosci

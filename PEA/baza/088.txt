@@ -1,0 +1,7 @@
+X10010
+Czas rozwiazania problemu w programowaniu dynamicznym zalezy od: (zaznacz wszystkie poprawne)
+liczby generowanych podproblemow
+zawsze liniowo od rozmiaru wejscia
+zawsze wykladniczo od rozmiaru wejscia
+czasu potrzebnego na rozwiazanie podproblemu
+pamieci potrzebnej na rozwiazanie podproblemu

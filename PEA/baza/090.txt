@@ -1,0 +1,4 @@
+X10
+Metoda ruletki jest metoda wyznaczania osobnikow do puli rodzicielskiej.
+Prawda
+Falsz

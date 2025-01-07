@@ -1,0 +1,4 @@
+X10
+Metoda najpierw najlepszy wyznacza najkrotsza sciezke w grafie ze wzgledu na dlugosc sciezki.
+Prawda
+Falsz

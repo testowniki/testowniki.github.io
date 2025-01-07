@@ -1,0 +1,8 @@
+X100000
+W schemacie mrowkowym, kiedy stala ilosc feromonu Q rozkladana jest na kazda jednostke dlugosci krawedzi to mowimy o algorytmie:
+gestosciowym
+ilosciowym
+cyklicznym
+stalym
+krawedziowym
+proporcjonalnym

@@ -1,0 +1,6 @@
+X0101
+Zagadnienie TSP to:
+zagadnienie plecakowe
+problem NP-trudny
+teoria podejmowania decyzji
+problem komiwojazera

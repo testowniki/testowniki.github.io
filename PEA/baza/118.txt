@@ -1,0 +1,6 @@
+X1000
+W metodzie Tabu search lista tabu zawiera
+Ruch i kadencje
+Ruch
+Ruch i kryterium aspiracji
+Kadencje
