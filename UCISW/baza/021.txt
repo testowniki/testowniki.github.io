@@ -1,0 +1,6 @@
+X0010
+Wybierz rodzine ukladow, w ktorej konfiguracja przechowywana jest w statycznej pamieci RAM:
+GS
+SC
+FPGA
+CPLD

@@ -1,0 +1,4 @@
+X10
+W jezyku VHDL proces z lista wrazliwosci sygnalow zostanie wykonany w kazdym cyklu symulacji, w ktorym dowolny sygnal z listy posiada zdarzenie :
+TAK
+NIE

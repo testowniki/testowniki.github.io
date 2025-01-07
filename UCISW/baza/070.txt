@@ -1,0 +1,6 @@
+X0100
+Uklad XC95144XL ma liczbe makrokomorek w jednym bloku funkcyjnym rowna:
+54
+18
+3
+144

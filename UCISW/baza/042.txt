@@ -1,0 +1,6 @@
+X1000
+Uklad XC95144XL ma liczbe globalnych sygnalow Set/Reset rowna :
+1
+2
+3
+4

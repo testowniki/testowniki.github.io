@@ -1,0 +1,6 @@
+X0100
+Uklad XC9572XL jest przystosowany do pracy z minimalnym napieciem zasilania Vcc rownym :
+2.5 V
+3.3 V
+1.4 V
+5 V

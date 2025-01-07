@@ -1,0 +1,6 @@
+X0010
+W jezyku VHDL ciag bitowy B”000_1111_0001_11” mozna zapisac jako:
+X”0F” & O”013”
+X”0F0” & O”7”
+X”0F” & O”07”
+X”0F” & O”0” & “11”

@@ -1,0 +1,6 @@
+X0001
+Majac Y1 i Y2 to Y dla 1 + 0 jest rowny
+1
+0
+U
+X

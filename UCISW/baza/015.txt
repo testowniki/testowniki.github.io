@@ -1,0 +1,6 @@
+X0100
+Uklad XC9536XL ma maksymalna liczbe WE/WY :
+144
+36
+18
+54

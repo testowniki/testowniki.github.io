@@ -1,0 +1,7 @@
+X00100
+Kasowanie promieniem jonizujacym dotyczy:
+FPROM
+EEPROM
+EPROM
+AFPROM
+SRAM

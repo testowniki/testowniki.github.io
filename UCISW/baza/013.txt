@@ -1,0 +1,4 @@
+X01
+Uklad PAL16R8 ma bufory trojstanowe sterowane globalnym sygnalem OE z pinu zewnetrznego :
+TAK
+NIE

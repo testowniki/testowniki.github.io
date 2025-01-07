@@ -1,0 +1,6 @@
+X0001
+Uklady TTL wykorzystuja zasilanie :
+2.5V
+1.4V
+3.3V
+5V

@@ -1,0 +1,6 @@
+X0010
+Ktorej z ponizszych funkcji czterech zmiennych NIE MOzNA zrealizowac w jednej bramce CMOS laczac tranzystory w odpowiednie struktury rownoleglo-szeregowe?
+not(A and B and C and D)
+not(A or B or C or D)
+not((A or B) and (C or D))
+A or B or C or D

@@ -1,0 +1,7 @@
+X01000
+Nieulotne programowanie wielokrotne ukladow wlutowanych dotyczy:
+FPROM
+EEPROM
+EPROM
+AFPROM
+SRAM

@@ -1,0 +1,4 @@
+X01
+Czy uklady CPLD rodziny XC9500XL zawieraja jedna globalna matryce polaczen sygnalow pomiedzy blokami funkcyjnymi?
+NIE
+TAK

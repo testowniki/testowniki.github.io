@@ -1,0 +1,4 @@
+X10
+Czy w jezyku VHDL kazdy sygnal majacy w pewnym cyklu symulacji zdarzenie jest takze w tym cyklu aktywny?
+TAK 
+NIE

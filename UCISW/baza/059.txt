@@ -1,0 +1,7 @@
+X00010
+Programowanie jednokrotne ukladow wykonanych w technologi CMOS dotyczy:
+FPROM
+EEPROM
+EPROM
+AFPROM
+SRAM

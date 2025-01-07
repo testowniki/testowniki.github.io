@@ -1,0 +1,7 @@
+X00010
+Jednokrotne programowanie przez zwieranie antybezpiecznikow dotyczy :
+FPROM
+EEPROM
+EPROM
+AFPROM
+SRAM

@@ -1,0 +1,4 @@
+X10
+Czy uklad PALCE22V10 ma jednakowa liczbe bramek iloczynu dolaczonych do bramek OR w matrycy?
+TAK
+NIE

@@ -1,0 +1,6 @@
+X1000
+W ktorej technologii wystepuje najdluzszy proces kasowania pamieci konfiguracji?
+EPROM
+EEPROM
+AFPROM
+SRAM

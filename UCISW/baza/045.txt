@@ -1,0 +1,4 @@
+X10
+W jezyku VHDL instrukcje for ... generate mozna zagniezdzac :
+TAK
+NIE

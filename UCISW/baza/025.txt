@@ -1,0 +1,6 @@
+X1000
+Uklad XC9572XL ma liczbe sygnalow dochodzacych do kazdego bloku funkcyjnego rowna :
+54
+18
+3
+144

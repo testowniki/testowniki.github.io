@@ -1,0 +1,4 @@
+X01
+W jezyku VHDL po wykonywaniu procesu wartosci sygnalow w nim przypisywanych nie zmieniaja sie :
+TAK
+NIE

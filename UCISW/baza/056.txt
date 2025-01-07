@@ -1,0 +1,6 @@
+X0001
+Uklad XC95144XL ma ogolna liczbe przerzutnikow rowna:
+54
+18
+3
+144

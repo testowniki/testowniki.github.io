@@ -1,0 +1,4 @@
+X10
+W jezyku VHDL kazda instrukcja instancji komponentu musi miec etykiete :
+TAK
+NIE

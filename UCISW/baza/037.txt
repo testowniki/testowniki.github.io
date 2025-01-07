@@ -1,0 +1,4 @@
+X10
+W jezyku VHDL lista warunkow instrukcji case ... when musi byc rozlaczna i wyczerpujaca :
+TAK
+NIE

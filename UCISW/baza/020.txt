@@ -1,0 +1,6 @@
+X0001
+W ktorych z podanych ukladow osiaga sie najnizszy koszt przygotowania projektu?
+FC
+GA
+SC
+FPGA

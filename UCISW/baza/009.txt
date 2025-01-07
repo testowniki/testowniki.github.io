@@ -1,0 +1,4 @@
+X01
+Uklad XC9536XL ma przerzutniki w blokach WE/WY :
+TAK
+NIE

@@ -1,0 +1,6 @@
+X0001
+W symbolu ukladU PAL litera L (np. PAL 16L8):
+uklad o WY kombinacyjnych aktywnych poziomem wysokim
+uklad o WY rejestrowych
+uklad z makrokomorkami konfigurowalnymi
+uklad o WY kombinacyjnych aktywnych poziomem niskim

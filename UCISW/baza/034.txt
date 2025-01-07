@@ -1,0 +1,6 @@
+X0010
+Z ponizszych wskaz uklady programowalne z ulotna pamiecia konfiguracji:
+GA
+SC
+FPGA
+PAL

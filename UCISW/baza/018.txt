@@ -1,0 +1,6 @@
+X0001
+Wybierz element, ktory narzedzie syntezy powinno utworzyc dla ponizszego opisu VHDL: <img src="baza/018.png">
+Zatrzask typu D z synchronicznym kasowaniem
+Zatrzask typu D z asynchronicznym kasowaniem
+Przerzutnik typu D z synchronicznym kasowaniem
+Przerzutniktypu D z asynchronicznym kasowaniem

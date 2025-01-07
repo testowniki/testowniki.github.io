@@ -1,0 +1,4 @@
+X01
+Czy w jezyku VHDL typ STD_LOGIC jest typem wbudowanym, ktory mozna uzywac bez dolaczania bibliotek zewnetrznych?
+TAK
+NIE

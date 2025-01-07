@@ -1,0 +1,6 @@
+X1000
+Uklad PAL16R8 ma liczbe WY rejestrowych rowna :
+8
+16
+32
+64

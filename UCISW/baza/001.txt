@@ -1,0 +1,4 @@
+X01
+Uklad XC95144XL ma przerzutniki o wspolnym globalnym sygnale CE :
+TAK
+NIE

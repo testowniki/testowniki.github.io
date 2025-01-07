@@ -1,0 +1,4 @@
+X01
+Czy w jezyku VHDL kazda instrukcja instancji komponentu musi miec etykiete?
+NIE
+TAK

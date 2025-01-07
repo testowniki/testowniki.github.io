@@ -1,0 +1,4 @@
+X10
+Czy uklady CPLD rodziny XC9500XL zawieraja bufory WY o konfigurowanej szybkosci narastania zbocza?
+TAK
+NIE

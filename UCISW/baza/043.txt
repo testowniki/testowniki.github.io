@@ -1,0 +1,6 @@
+X0010
+Uklad XC95144XL ma liczbe globalnych sygnalow zegarowych rowna:
+54
+18
+3
+144

@@ -1,0 +1,6 @@
+X0100
+Uklad XC95144XL ma liczbe blokow funkcyjnych rowna :
+54
+8
+18
+4

@@ -1,0 +1,4 @@
+X10
+W jezyku VHDL w tresci architektury moga wystapic wylacznie instrukcje wspolbiezne :
+TAK
+NIE

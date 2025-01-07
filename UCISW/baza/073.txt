@@ -1,0 +1,6 @@
+X0001
+Pewien sygnal typu std_logic ma dwa sterowniki S1 oraz S2. Wskaz ciag obliczeniowy  przez jego funkcje rozstrzygajaca, jesli oba sterowniki zmieniaja sie co 100 ns przez nastepujace sekwencje wartosci: <br> S1: 1 W Z H <br> S2: U L L L
+1 X Z W
+U W Z X
+1 W L W
+U W L W

@@ -1,0 +1,4 @@
+X01
+W jezyku VHDL instrukcja przypisania zmiennej moze wystapic wprost w bloku architektury :
+TAK
+NIE

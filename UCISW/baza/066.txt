@@ -1,0 +1,3 @@
+X1
+Czy uklad PALCE22V10 ma programowalny typ przerzutnikow D/T?
+w klasycznej bramce CMOS

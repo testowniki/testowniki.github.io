@@ -1,0 +1,3 @@
+X1
+W symbolu ukladu PAL litera V (np.. w PAL22V10) oznacza:
+uklad wykonany w technologii CMOS

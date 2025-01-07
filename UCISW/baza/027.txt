@@ -1,0 +1,5 @@
+X001
+Najgorsze wykorzystanie powierzchi ukladu:
+SC
+GA
+FPGA

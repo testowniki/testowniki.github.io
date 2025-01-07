@@ -1,0 +1,4 @@
+X10
+Uklad PAL16L8 ma programowalna matryce iloczynow :
+TAK
+NIE

@@ -1,0 +1,6 @@
+X1000
+Kolejnosc nazw sygnalow interfejsow JTAG na schemacie (od gory do dolu) :
+TDI, TDO, TMS, TCK
+TDO, TDI, TMS, TCK
+TDO, TDI, TCK, TMS
+TDI, TDO, TCK, TMS

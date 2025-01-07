@@ -1,0 +1,4 @@
+X01
+Czy w jezyku VHDL instrukcje sekwencyjne moga wystapic bezposrednio w tresci architektury?
+TAK
+NIE

@@ -1,0 +1,6 @@
+X1000
+Wskaz sekwencje obliczona dla wyrazenia: S1 or S2, jesli oba argumenty S1 oraz S2 sa typu std_logic oraz zmieniaja sie co 100ns przechodzac przez nastepujacy ciag wartosci: <br> S1: 1 1 0 0 <br> S2: X W W X
+1 1 X X
+X W X X
+1 1 0 0
+X W 0 0

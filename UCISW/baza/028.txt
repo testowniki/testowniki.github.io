@@ -1,0 +1,6 @@
+X0010
+Wybierz technologie ktora jest najdrozsza wsrod ukladow programowalnych po stronie uzytkownika:
+GA
+SC
+FPGA
+CPLD

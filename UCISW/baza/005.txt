@@ -1,0 +1,6 @@
+X0100
+Wybierz technologie, ktora odznacza sie najdluzszym czasem przygotowania projektu:
+GA
+SC
+FPGA
+CPLD

@@ -1,0 +1,6 @@
+X1000
+W bramkach CMOS jedna pare komplementarna tworza:
+tranzystor NEMOS + tranzystor PEMOS
+tranzystor NDMOS + tranzystor PDMOS
+tranzystor PEMOS + tranzystor PDMOS
+tranzystor NEMOS + tranzystor NDMOS

@@ -1,0 +1,6 @@
+X0010
+Uklad PAL16R8 ma laczna liczbe WE do matrycy programowalnej rowna :
+8
+16
+32
+4

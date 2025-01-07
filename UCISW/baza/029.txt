@@ -1,0 +1,4 @@
+X01
+Uklad XC9572XL zawiera linie szybkich wewnetrznych sprezen zwrotnych w kazdym bloku funkcyjnym :
+TAK
+NIE

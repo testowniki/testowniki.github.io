@@ -1,0 +1,6 @@
+X0001
+Uklad XC9572XL ma liczbe blokow funkcyjnych rowna :
+54
+8
+18
+4

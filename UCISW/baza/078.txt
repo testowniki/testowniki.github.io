@@ -1,0 +1,5 @@
+X100
+Najlepsze wykorzystanie powierzchi ukladu:
+SC
+GA
+FPGA

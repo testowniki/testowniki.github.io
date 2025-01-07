@@ -1,0 +1,4 @@
+X10
+Uklad XC9572XL moze przy odpowiedniej konfiguracji sterowac wyjscia ukladow CMOS 2.5V :
+TAK
+NIE

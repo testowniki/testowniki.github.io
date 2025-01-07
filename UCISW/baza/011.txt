@@ -1,0 +1,6 @@
+X1000
+Ktora technologia jest tradycyjnie wykorzystywana do konfigurowania ukladow FPGA?
+SRAM
+EEPROM
+AFPROM
+EPROM

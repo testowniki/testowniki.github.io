@@ -1,0 +1,5 @@
+X001
+Posiada tylko konfigurowalna matryce sum:
+PAL
+PLA
+PLE

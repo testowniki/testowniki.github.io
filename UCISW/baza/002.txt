@@ -1,0 +1,4 @@
+X01
+W jezyku VHDL sygnaly niezainicjowanie jawnie maja nieokreslone wartosci poczatkowe :
+TAK
+NIE

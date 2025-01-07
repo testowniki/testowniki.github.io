@@ -1,0 +1,7 @@
+X00100
+Wprowadzanie elektronow o duzej energii kinetycznej dotyczy :
+FPROM
+EEPROM
+EPROM
+AFPROM
+SRAM

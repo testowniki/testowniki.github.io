@@ -1,0 +1,6 @@
+X0001
+Uklad XC95288XL ma napiecie zasilania VCCINT wynoszace:
+2.5V
+5.0V
+3.0V
+3.3V

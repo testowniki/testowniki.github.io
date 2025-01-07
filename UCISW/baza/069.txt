@@ -1,0 +1,4 @@
+X01
+W jezyku VHDL kazdy sygnal aktywny w pewnym cyklu symulacji ma takze w tym cyklu zdarzenie :
+TAK
+NIE

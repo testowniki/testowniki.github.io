@@ -1,0 +1,6 @@
+X0010
+W ktorej technologii wystepuje starzenie sie (drygt w czasie) rezystancji punktu programowalnego?
+EEPROM
+AFPROM
+EPROM
+FPROM
