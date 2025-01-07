@@ -15,7 +15,10 @@ var poprawaUP = 0;
 
 var poprawaIO = 0;
 
-function wpiszDaty() {
+function wypiszDaty(){
+}
+
+function wpiszDatyOld() {
     var now = new Date().getTime();
 
     //grafika
