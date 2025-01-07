@@ -1,0 +1,4 @@
+X10
+Fragmentacja wewnetrzna dysku jest wynikiem przydzialu miejsca na dysku porcjami stalej wielkosci
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Fragmentacja wewnetrzna dysku jest wynikiem przydzialu miejsca na dysku porcjami zmiennej wielkosci
+TAK
+NIE

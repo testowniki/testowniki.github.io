@@ -1,0 +1,4 @@
+X10
+Funkcja systemowa wait w unixie umozliwia czekanie na zakonczenie operacji we/wy
+TAK
+NIE

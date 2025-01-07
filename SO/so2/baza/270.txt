@@ -1,0 +1,4 @@
+X01
+Algorytm lRU (najdawniej uzywana) zastepowania stron pamieci polega na usuwaniu stron, ktore najdluzej przebywaly w pamieci fizycznej
+TAK
+NIE

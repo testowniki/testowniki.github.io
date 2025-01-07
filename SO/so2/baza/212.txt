@@ -1,0 +1,4 @@
+X01
+Technika opoznionego zapisu na dysk w systemie unix polega na zapisie bufora na dysk, w chwili jego zwalniania
+TAK
+NIE

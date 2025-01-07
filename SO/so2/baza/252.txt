@@ -1,0 +1,4 @@
+X10
+Algorytm przelaczania procesow w systemie unix opiera sie na priorytecie dynamicznym, obnizanym dla procesow intensywnych obliczeniowo, a podwyzszanym dla procesow interakcyjnych
+TAK
+NIE

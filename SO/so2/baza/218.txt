@@ -1,0 +1,4 @@
+X01
+Buforowanie operacji dyskowych w systemie unix wymaga od programisty uzywania operacji fflush aby miec pewnosc, ze zmiany w pliku zostana natychmiast zapisane na dysk
+TAK
+NIE

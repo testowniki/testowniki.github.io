@@ -1,0 +1,4 @@
+X10
+Dynamiczne laczenie programu mozna zrealizowac w systemie bez stronnicowania na zadanie
+TAK
+NIE

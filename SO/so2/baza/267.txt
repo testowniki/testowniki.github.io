@@ -1,0 +1,4 @@
+X01
+Algorytm fIFO zastepowania stron pamieci polega na usuwaniu stron, ktore najdawniej byly uzywane
+TAK
+NIE

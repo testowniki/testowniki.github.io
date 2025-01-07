@@ -1,0 +1,4 @@
+X01
+Fragmentacja wewnetrzna dysku jest wynikiem bledow programowych np. nie zamkniecia pliku przed zakonczeniem programu
+TAK
+NIE

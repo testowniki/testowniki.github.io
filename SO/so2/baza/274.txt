@@ -1,0 +1,4 @@
+X10
+Systemy wielodostepne pozwalaja na wspolbiezne przetwarzanie wielu procesow (jednego lub wielu uzytkownikow)
+TAK
+NIE

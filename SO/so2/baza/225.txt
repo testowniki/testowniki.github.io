@@ -1,0 +1,4 @@
+X01
+Sygnaly w systemie unix wysylane moga byc przez kazdy proces przy pomocy funkcji signal
+TAK
+NIE

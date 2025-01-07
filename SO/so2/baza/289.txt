@@ -1,0 +1,4 @@
+X01
+Dolaczenia w systemie plikow (links) oznaczone sa symbolem / w sciezkach dostepu
+TAK
+NIE

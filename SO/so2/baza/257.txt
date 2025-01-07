@@ -1,0 +1,4 @@
+X01
+Algorytm karuzelowy przelaczania procesow jest najczesciej wykorzystywanym algorytmem w roznych wersjach systemu operacyjnego unix
+TAK
+NIE

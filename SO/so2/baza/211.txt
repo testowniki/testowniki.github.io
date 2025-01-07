@@ -1,0 +1,4 @@
+X10
+Technika opoznionego zapisu na dysk w systemie unix polega na wprowadzeniu petli opozniajacej miedzy kolejnymi rozkazami zapisu
+TAK
+NIE

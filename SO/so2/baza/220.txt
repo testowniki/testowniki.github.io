@@ -1,0 +1,4 @@
+X10
+Sygnaly w systemie unix wykorzystywane sa m.in. do zabijania procesow
+TAK
+NIE

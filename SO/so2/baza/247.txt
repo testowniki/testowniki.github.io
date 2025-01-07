@@ -1,0 +1,4 @@
+X01
+Algorytm przelaczania procesow w systemie unix jest algorytmem z wywlaszczeniem procesow systemowych i uzytkowych
+TAK
+NIE

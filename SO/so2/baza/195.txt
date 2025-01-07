@@ -1,0 +1,4 @@
+X10
+Warunki konieczne do wystapienia blokady to przetrzymywanie i oczekiwanie, tzn. pozwolenie procesom nie bedacym aktywnymi ani gotowymi na zachowanie przydzialu zasobu
+TAK
+NIE

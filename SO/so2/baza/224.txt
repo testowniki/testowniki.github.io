@@ -1,0 +1,4 @@
+X01
+Sygnaly w systemie unix proces mozna zaprogramowac tak, aby ignorowal wszystkie sygnaly przychodzace
+TAK
+NIE

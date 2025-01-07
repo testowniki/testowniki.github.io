@@ -1,0 +1,4 @@
+X01
+Systemy wielodostepne wymuszaja prace wsadowa na komputerze
+TAK
+NIE

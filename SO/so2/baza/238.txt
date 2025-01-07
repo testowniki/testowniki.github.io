@@ -1,0 +1,4 @@
+X01
+Fragmentacja wewnetrzna dysku wystepuje jedynie w systemach z pamiecia wirtualna
+TAK
+NIE

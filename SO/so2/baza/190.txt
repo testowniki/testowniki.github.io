@@ -1,0 +1,4 @@
+X01
+Blokade systemu mozna usunac przez czasowe zablokowanie dostepu uzytkownikow do systemu
+TAK
+NIE

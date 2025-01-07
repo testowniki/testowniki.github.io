@@ -1,0 +1,4 @@
+X01
+Warunki konieczne do wystapienia blokady to okreslaja, kiedy proces moze przejsc do stanu zablokowania
+TAK
+NIE

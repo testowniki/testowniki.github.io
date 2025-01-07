@@ -1,0 +1,4 @@
+X10
+Algorytm przelaczania procesow w systemie unix jest algorytmem ze stalym priorytetem zewnetrznym, zadawanym komenda/funkcja nice
+TAK
+NIE

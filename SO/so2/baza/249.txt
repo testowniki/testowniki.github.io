@@ -1,0 +1,4 @@
+X10
+Algorytm przelaczania procesow w systemie unix jest algortmem priorytetowym, w ktorym priorytet jest wewnetrznie zmieniany w trakcie wykonywania procesu
+TAK
+NIE

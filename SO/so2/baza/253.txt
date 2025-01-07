@@ -1,0 +1,4 @@
+X10
+Algorytm przelaczania procesow w systemie unix pozwala modyfikowac priorytet procesu przy pomocy funkcji nice
+TAK
+NIE

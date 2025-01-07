@@ -1,0 +1,4 @@
+X01
+Buforowanie operacji dyskowych w systemie unix jest ograniczone do urzadzen z niewymiennym nosnikiem (np. twardych dyskow); dostep do plikow na  dyskietkach nie moze byc buforowany
+TAK
+NIE

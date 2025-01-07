@@ -1,0 +1,4 @@
+X10
+Algorytm przelaczania procesow w systemie unix jest algorytmem, w ktorym wywlaszczane sa tylko procesy uzytkownika
+TAK
+NIE

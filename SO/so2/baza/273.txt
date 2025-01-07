@@ -1,0 +1,4 @@
+X10
+Systemy wielodostepne pozwalaja na wykonywanie wielu zadan wspolbieznie
+TAK
+NIE

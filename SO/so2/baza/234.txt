@@ -1,0 +1,4 @@
+X01
+Fragmentacja wewnetrzna dysku jest wynikiem braku konserwacji systemu plikow (brak defragmentacji)
+TAK
+NIE

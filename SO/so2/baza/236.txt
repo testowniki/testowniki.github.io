@@ -1,0 +1,4 @@
+X01
+Fragmentacja wewnetrzna dysku powoduje lepsze wykorzystanie miejsca w pamieci przez procesy
+TAK
+NIE

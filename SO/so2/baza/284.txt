@@ -1,0 +1,4 @@
+X01
+Dynamiczne laczenie programu polega na ladowaniu nakladek programu, gdy sa potrzebne
+TAK
+NIE

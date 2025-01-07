@@ -1,0 +1,4 @@
+X10
+Sygnaly w systemie unix moga byc adresowane do wszystkich procesow uzytkownika o znanym uID
+TAK
+NIE

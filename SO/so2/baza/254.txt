@@ -1,0 +1,4 @@
+X01
+Algorytm karuzelowy przelaczania procesow jest algorytmem bez wywlaszczenia
+TAK
+NIE

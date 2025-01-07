@@ -1,0 +1,4 @@
+X10
+Warunki konieczne do wystapienia blokady to przelaczanie procesow wedlug algorytmu bez wywlaszczania
+TAK
+NIE

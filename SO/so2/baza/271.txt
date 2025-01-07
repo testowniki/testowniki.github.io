@@ -1,0 +1,4 @@
+X01
+Systemy wielodostepne wymagaja architektury wieloprocesorowej
+TAK
+NIE

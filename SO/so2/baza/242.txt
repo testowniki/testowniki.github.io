@@ -1,0 +1,4 @@
+X01
+Fragmentacja zewnetrzna pamieci jest wynikiem niedopasowania rozmiaru segmentow pamieci do wielokrotnosci wielkosci ramki
+TAK
+NIE

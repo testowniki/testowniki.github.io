@@ -1,0 +1,4 @@
+X01
+Algorytm karuzelowy przelaczania procesow jest algorytmem optymalnym, w praktyce niemozliwym do zrealizowania
+TAK
+NIE

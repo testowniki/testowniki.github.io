@@ -1,0 +1,4 @@
+X10
+Kryteriami rozwiazanie problemu sekcji krytycznej jest wzajemne wylaczanie - procesy musza miec mozliwosc wzajemnego blokowania
+TAK
+NIE

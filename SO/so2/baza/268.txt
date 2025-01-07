@@ -1,0 +1,4 @@
+X01
+Algorytm lRU (najdawniej uzywana) zastepowania stron pamieci gwarantuje najmniejsza mozliwa liczbe bledow stron
+TAK
+NIE

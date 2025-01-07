@@ -1,0 +1,4 @@
+X01
+Algorytmy przelaczania procesow z wywlaszczeniem zwiekszaja wspolczynnik wykorzystania procesora w systemach wielodostepnych
+TAK
+NIE

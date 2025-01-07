@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa wait w unixie moze byc wykonywana tylko przez procesy daemony
+TAK
+NIE

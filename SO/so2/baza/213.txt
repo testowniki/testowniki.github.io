@@ -1,0 +1,4 @@
+X01
+Technika opoznionego zapisu na dysk w systemie unix moze byc wybiorczo stosowana przez programowe wlaczanie/wylaczanie funkcja fctl
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Sygnaly w systemie unix wykorzystywane sa do synchronizacji procesow
+TAK
+NIE

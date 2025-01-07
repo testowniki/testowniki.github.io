@@ -1,0 +1,4 @@
+X10
+Kryteriami rozwiazanie problemu sekcji krytycznej jesr ograniczone czekanie - kazdy proces musi kiedys dostac sie do sekcji
+TAK
+NIE

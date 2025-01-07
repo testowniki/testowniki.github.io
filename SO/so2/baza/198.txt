@@ -1,0 +1,4 @@
+X10
+Warunki konieczne do wystapienia blokady to brak mechanizmu umozliwiajacego wywlaszczanie zasobow od procesow
+TAK
+NIE

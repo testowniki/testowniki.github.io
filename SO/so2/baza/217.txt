@@ -1,0 +1,4 @@
+X10
+Buforowanie operacji dyskowych w systemie unix utrudnia rownoczesny dostep do rekordow pliku przez wiele procesow (recordlocking)
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Kryteriami rozwiazanie problemu sekcji krytycznej jest postep - dostep do sekcji nie moze byc zablokowany, jezeli nie przebywa w niej inny
+TAK
+NIE

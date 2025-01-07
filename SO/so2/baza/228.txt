@@ -1,0 +1,4 @@
+X10
+Fragmentacja wewnetrzna dysku jest wynikiem niedopasowania rozmiaru plikow do wielokrotnosci wielkosci blokow alokacji
+TAK
+NIE

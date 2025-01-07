@@ -1,0 +1,4 @@
+X10
+Algorytm karuzelowy przelaczania procesow polega na uruchamianiu procesow na staly kwant czasu i wymuszaniu przelaczenia kontekstu, jezeli proces nie zwolni procesora w tym czasie
+TAK
+NIE

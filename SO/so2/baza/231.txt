@@ -1,0 +1,4 @@
+X10
+Fragmentacja wewnetrzna dysku jest wynikiem pozostawania niewykorzystanych fragmentow w ostatnich blokach plikow
+TAK
+NIE

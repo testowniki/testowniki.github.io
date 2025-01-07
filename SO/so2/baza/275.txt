@@ -1,0 +1,4 @@
+X10
+Systemy wielodostepne zapewniaja dostep wszystkich uzytkownikow do identycznych danych
+TAK
+NIE

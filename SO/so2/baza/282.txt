@@ -1,0 +1,4 @@
+X10
+Dynamiczne ladowanie programu mozna zrealizowac w systemie ze stronnicowaniem na zadanie
+TAK
+NIE

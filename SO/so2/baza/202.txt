@@ -1,0 +1,4 @@
+X10
+Warunki konieczne do wystapienia blokady to mozliwosc zawieszania procesow z przydzielonymi pewnymi zasobami
+TAK
+NIE

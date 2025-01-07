@@ -1,0 +1,4 @@
+X10
+Fragmentacja zewnetrzna pamieci moze byc wyeliminowana przez relokacje programow
+TAK
+NIE

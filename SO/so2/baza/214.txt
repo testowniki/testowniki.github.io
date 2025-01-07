@@ -1,0 +1,4 @@
+X01
+Technika opoznionego zapisu na dysk w systemie unix moze byc wylaczana komenda fctl
+TAK
+NIE

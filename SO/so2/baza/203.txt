@@ -1,0 +1,4 @@
+X10
+Funkcja systemowa wait w unixie zawiesza wykonywanie procesu w oczekiwaniu na zakonczenie procesu potomnego
+TAK
+NIE

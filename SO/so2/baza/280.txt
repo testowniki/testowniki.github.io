@@ -1,0 +1,4 @@
+X01
+Dynamiczne ladowanie programu polega na wykorzystaniu bibliotek dolaczanych w trakcie wykonywania programu
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Algorytm karuzelowy przelaczania procesow jest algorytmem z wywlaszczeniem
+TAK
+NIE

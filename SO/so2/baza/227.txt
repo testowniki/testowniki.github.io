@@ -1,0 +1,4 @@
+X01
+Fragmentacja wewnetrzna dysku jest wynikiem niedopasowania rozmiaru plikow do wielkosci obszarow wolnych (powstajacych przy kasowaniu plikow)
+TAK
+NIE

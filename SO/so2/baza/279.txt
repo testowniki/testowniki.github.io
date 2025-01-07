@@ -1,0 +1,4 @@
+X10
+Systemy wielodostepne dziela zadania na interakcyjne i wykonywane w tle
+TAK
+NIE

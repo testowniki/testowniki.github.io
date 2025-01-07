@@ -1,0 +1,4 @@
+X01
+Technika opoznionego zapisu na dysk w systemie unix jest metoda synchronizacji zapisow na dysku
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Sygnaly w systemie unix moga byc adresowane do wszystkich procesow uspionych w systemie
+TAK
+NIE

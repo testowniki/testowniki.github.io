@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa wait w unixie zawiesza wykonywanie procesu przez zadany argumentem czas
+TAK
+NIE

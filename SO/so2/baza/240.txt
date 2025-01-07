@@ -1,0 +1,4 @@
+X01
+Fragmentacja wewnetrzna dysku moze byc wyeliminowana przez relokacje programow
+TAK
+NIE

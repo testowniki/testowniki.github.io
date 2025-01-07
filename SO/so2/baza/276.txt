@@ -1,0 +1,4 @@
+X10
+Systemy wielodostepne pozwalaja na przesylanie sobie poczty w obrebie systemu
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Systemy wielodostepne wymagaja wielu terminali podlaczonych do jednego komputera
+TAK
+NIE

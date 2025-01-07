@@ -1,0 +1,4 @@
+X01
+Algorytm przelaczania procesow w systemie unix opiera sie na priorytecie statycznym, wyliczanym w opraciu o wykorzystanie procesora przez proces
+TAK
+NIE

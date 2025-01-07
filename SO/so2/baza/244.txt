@@ -1,0 +1,4 @@
+X01
+Fragmentacja zewnetrzna pamieci jest wynikiem bledow programowych np. nie zwalniania pamieci przed zakonczeniem programu
+TAK
+NIE

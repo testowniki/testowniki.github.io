@@ -1,0 +1,4 @@
+X10
+Buforowanie operacji dyskowych w systemie unix redukuje czas dostepu do plikow oraz liczbe fizycznych operacji we/wy
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa wait w unixie moze byc wykonywana tylko przez proces z uprawnieniami root
+TAK
+NIE

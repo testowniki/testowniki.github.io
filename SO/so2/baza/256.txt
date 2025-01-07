@@ -1,0 +1,4 @@
+X01
+Algorytm karuzelowy przelaczania procesow przelacza procesy wedlug dynamicznie zmienianego priorytetu
+TAK
+NIE

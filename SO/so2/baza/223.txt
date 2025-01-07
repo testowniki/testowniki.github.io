@@ -1,0 +1,4 @@
+X10
+Sygnaly w systemie unix mozna definiowac wlasne funkcje obslugi niektorych z nich
+TAK
+NIE

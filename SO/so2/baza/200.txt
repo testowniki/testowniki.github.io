@@ -1,0 +1,4 @@
+X01
+Warunki konieczne do wystapienia blokady to okreslaja, jak pisac programy wieolprocesowe aby unikac bloakd
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Dynamiczne laczenie programu polega na wykorzystaniu bibliotek dolaczanych w trakcie wykonywania programu
+TAK
+NIE

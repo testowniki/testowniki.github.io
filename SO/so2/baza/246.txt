@@ -1,0 +1,4 @@
+X01
+Algorytm przelaczania procesow w systemie unix jest algorytmem bez wywlaszczen
+TAK
+NIE
