@@ -1,0 +1,8 @@
+X100011
+Funkcja systemowa wait w Unixie
+Zawiesza wykonywanie procesu w oczekiwaniu na zakonczenie procesu potomnego
+Zawiesza wykonywanie procesu przez zadany argumentem czas
+Moze byc wykonywana tylko przez procesy daemony
+Moze byc wykonywana tylko przez proces z uprawnieniami root
+Umozliwia czekanie na zakonczenie operacji sieciowych
+Umozliwia czekanie na zakonczenie operacji we/wy

@@ -1,0 +1,7 @@
+X10001
+W hierarchicznym systemie plikow
+wystepuje wiele katalogow
+wystepuje wiele katalogow glownych
+uzytkownikom przypisane sa priorytety dostepu do plikow
+Uzytkownicy maja dostep tylko do swoich plikow
+Okresla sie sciezki dostepu do plikow

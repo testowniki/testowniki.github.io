@@ -1,0 +1,5 @@
+X010
+Sygnaly w systemie Unix
+Generowane sa wylacznie przez sterowniki urzadzen zewnÍtrznych
+Wysylane sa do pojedynczych procesow, grup procesow, procesow okreslonego uNytkownika lub do wszystkich procesow
+Moga byc ignorowane przez procesy (z wyjatkiem sygnalu 9)

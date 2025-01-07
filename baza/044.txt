@@ -1,0 +1,6 @@
+X0110
+Buforowanie operacji dyskowych w systemie Unix
+Jest ograniczone do urzadzen z niewymiennym nosnikiem (np. twardych dyskow); dostep do plikow na dyskietkach nie moze byc buforowany
+Redukuje czas dostepu do plikow oraz liczbe fizycznych operacji we/wy
+Utrudnia rownoczesny dostep do rekordow pliku przez wiele procesow (recordlocking)
+Wymaga od programisty uzywania operacji fflush aby miec pewnosc, ze zmiany w pliku zostana natychmiast zapisane na dysk

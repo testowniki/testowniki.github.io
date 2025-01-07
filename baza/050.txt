@@ -1,0 +1,7 @@
+X10011
+Algorytm przelaczania procesow w systemie Unix
+Jest algorytmem ze stalym priorytetem zewnetrznym, zadawanym komenda/funkcja nice
+Jest algorytmem bez wywlaszczen
+Jest algorytmem z wywlaszczeniem procesow systemowych i uzytkowych
+Jest algorytmem, w ktorym wywlaszczane sa tylko procesy uzytkownika
+Jest algortmem priorytetowym, w ktorym priorytet jest wewnetrznie zmieniany w trakcie wykonywania procesu

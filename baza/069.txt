@@ -1,0 +1,5 @@
+X001
+Planowanie zadan ma na celu
+Unikanie blokad
+Synchronizowanie dostepu do zasobow
+Wybor procesu do aktywacji

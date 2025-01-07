@@ -1,0 +1,5 @@
+X010
+Buforowanie operacji dyskowych
+Eliminuje fragmentacje wewnetrzna w systemie plikow
+Umozliwia zapis danych do pliku porcjami roznej wielkosci
+Umozliwia zrownoleglenie procesow

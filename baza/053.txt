@@ -1,0 +1,8 @@
+X010010
+Algorytm karuzelowy przelaczania procesow
+Jest algorytmem bez wywlaszczenia
+Jest algorytmem z wywlaszczeniem
+Przelacza procesy wedlug dynamicznie zmienianego priorytetu
+Jest najczesciej wykorzystywanym algorytmem w roznych wersjach systemu operacyjnego Unix
+Polega na uruchamianiu procesow na staly kwant czasu i wymuszaniu przelaczenia kontekstu, jezeli proces nie zwolni procesora w tym czasie
+Jest algorytmem optymalnym, w praktyce niemozliwym do zrealizowania

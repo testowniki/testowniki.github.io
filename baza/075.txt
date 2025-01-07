@@ -1,0 +1,5 @@
+X100
+Dynamiczne laczenie programu:
+Zmniejsza wielkosc pliku wykonywalnego (exe)
+Wykorzystuje biblioteki statyczne
+Polega na tworzeniu polaczen dynamicznych pomiedzy procesami

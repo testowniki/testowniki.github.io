@@ -1,0 +1,8 @@
+X100011
+Stronnicowanie na zadanie
+To podstawowa technika zwiekszania pamieci widzianej przez programy
+To podstawowa technika przyspieszenia dostepu do pamieci
+Polega na skladowaniu na dysk calego obrazu pamieci zablokowanego procesu
+Polega na buforowaniu stron pamieci w pamieci podrecznej cache
+Wymaga dodatkowych pol w tablicy stron (np. flagi waznosci)
+Wymaga utrzymywania w pamieci tablicy stron

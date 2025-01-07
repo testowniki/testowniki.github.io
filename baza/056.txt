@@ -1,0 +1,5 @@
+X010
+Algorytm LRU (najdawniej uzywana) zastepowania stron pamieci
+Gwarantuje najmniejsza mozliwa liczbe bledow stron
+Zapewnia, ze liczba bledow stron (dla tych samych procesow) nie zwiekszy sie, gdy doinstalujemy (udostepnimy) dodatkowe ramki pamieci fizycznej
+Polega na usuwaniu stron, ktore najdluzej przebywaly w pamieci fizycznej

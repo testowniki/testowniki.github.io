@@ -1,0 +1,5 @@
+X010
+Przydzial ciagly miejsca na dysku
+Jest algorytmem optymalnym, nie dajacym sie zaimplementowac w praktyce
+Charakteryzuje sie fragmentacja zewnetrzna przestrzeni dysku
+Wymaga zapisu tablicy indeksowej na dysku

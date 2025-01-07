@@ -1,0 +1,10 @@
+X11101001
+Sygnaly w systemie Unix
+Wykorzystywane sa do synchronizacji procesow
+Wykorzystywane sa m.in. do zabijania procesow
+Moga byc adresowane do wszystkich procesow uzytkownika o znanym UID
+Moga byc adresowane do wszystkich procesow uspionych w systemie
+Mozna definiowac wlasne funkcje obslugi niektorych z nich
+Proces mozna zaprogramowac tak, aby ignorowal wszystkie sygnaly przychodzace
+Wysylane moga byc przez kazdy proces przy pomocy funkcji signal
+Wysylane moga byc przez kazdy proces przy pomocy funkcji kill

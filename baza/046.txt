@@ -1,0 +1,7 @@
+X01001
+Fragmentacja wewnetrzna dysku jest wynikiem
+Niedopasowania rozmiaru plikow do wielkosci obszarow wolnych (powstajacych przy kasowaniu plikow)
+Niedopasowania rozmiaru plikow do wielokrotnosci wielkosci blokow alokacji
+Przydzialu miejsca na dysku porcjami zmiennej wielkosci
+Moze byc wyeliminowana przez program defragmentujacy
+Pozostawania niewykorzystanych fragmentow w ostatnich blokach plikow

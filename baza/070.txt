@@ -1,0 +1,5 @@
+X001
+Funkcja systemowa fork w Unixie (Linuxie)
+Tworzy nowy proces, realizujacy program podany w argumencie do tej funkcji
+Tworzy nowy watek, realizujacy funkcje podana w argumencie
+Tworzy nowy proces, realizujacy ten sam program co proces-rodzic

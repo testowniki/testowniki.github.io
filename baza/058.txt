@@ -1,0 +1,6 @@
+X1001
+Systemy wielodostepne
+Pozwalaja na przesylanie sobie poczty w obrebie systemu
+Wymuszaja prace wsadowa na komputerze
+Wymagaja wielu terminali podlaczonych do jednego komputera
+Dziela zadania na interakcyjne i wykonywane w tle

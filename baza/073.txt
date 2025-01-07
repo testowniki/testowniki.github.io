@@ -1,0 +1,5 @@
+X001
+Sciezka do pliku
+Moze byc wzgledna, bezwzgledna lub symboliczna
+sciezka wzgledna okresla polozenie pliku wzgledem katalogu domowego uzytkownika
+sciezka bezwzgledna okresla polozenie pliku wzgledem katalogu glownego

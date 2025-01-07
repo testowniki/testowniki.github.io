@@ -1,0 +1,7 @@
+X10001
+Stronnicowanie pamieci
+Polega na przydziale do programu ramek pamieci o stalej wielkosci
+Polega na przydziale do programu segmentow pamieci dowolnej wielkosci
+Wymaga tworzenia obrazu pamieci w obszarze wymiany na dysku
+Pozwala implementowac liniowy model adresow fizycznych w programie
+Pozwala implementowac liniowy model adresow logicznych w programie

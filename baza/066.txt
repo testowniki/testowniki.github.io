@@ -1,0 +1,4 @@
+X11
+Stronicowanie na zadanie
+Polega na wymianie stron w pamieci fizycznej, wczytywaniu stron, do ktorych wystepuja aktualnie odwolania
+Umozliwia zapisywanie do obszaru wymiany na dysku fragmentow kontekstow procesow, gdy brakuje pamieci fizycznej

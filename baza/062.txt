@@ -1,0 +1,9 @@
+X0100101
+Dolaczenia w systemie plikow (links)
+Oznaczone sa symbolem / w sciezkach dostepu
+Pozwalaja tworzyc systemy plikow o strukturze niehierarchicznej
+Sa wynikiem bledow w programie i polegaja na polaczenie sie list alokacji odpowiadajacych roznym plikom w tablicy FAT
+Sa wynikiem bledow w programie i powstaja przy wielokrotnym otwieraniu tych samych plikow do zapisu
+Wiaza nazwy plikow z INODEíami w systemie Unix
+Tworzone sa przy otwieraniu plikow, usuwane przy zamykaniu
+Moga byc symboliczne, gdy wskazuja sciezke dostepu do pliku wlasciwego, lub twarde, jezeli powstaja przez zdefiniowanie drugiej nazwy dla pliku

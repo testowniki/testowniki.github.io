@@ -1,0 +1,5 @@
+X010
+Fragmentacja zewnetrzna pamieci jest wynikiem
+Niedopasowania rozmiaru segmentow pamieci do wielokrotnosci wielkosci ramki
+Moze byc wyeliminowana przez relokacje programow
+Bledow programowych np. nie zwalniania pamieci przed zakonczeniem programu

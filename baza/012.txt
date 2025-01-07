@@ -1,0 +1,5 @@
+X100
+Algorytm karuzelowy:
+Zapewnia wszystkim procesom ten sam priorytet
+Nie pozwala wywlaszczac procesow systemowych
+Jest algorytmem z priorytetami dynamicznymi

@@ -1,0 +1,8 @@
+X011001
+Bloki alokacji (klastry) w systemie plikow
+Dobierane sa tak, aby zminimalizowac fragmentacje zewnetrzna
+Dobierane sa tak, aby zminimalizowac fragmentacje wewnetrzna
+Sa stalej wielkosci w calym systemie plikow
+Sa zawsze wielkosci dwoch rekordow fizycznych (sektorow) na dysku
+Powinny byc jak najwieksze, aby bylo ich w systemie niewiele
+Numerowane sa liczbami binarnymi stalej dlugosci, co ogranicza ich liczbe

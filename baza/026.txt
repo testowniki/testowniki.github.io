@@ -1,0 +1,8 @@
+X100110
+Semafory Dijkstry
+Operacja czekaj na tych semaforach zawsze usypia procesy
+Operacja sygnalizuj na tych semaforach moze usypiac procesy
+Sa mechanizmem ograniczajacym dostep do plikow
+Sluza do synchronizacji procesow
+Sluza do synchronizacji procesow wspolbieznych
+Sa to struktury danych do modelowania ruchu ulicznego

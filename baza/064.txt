@@ -1,0 +1,5 @@
+X001
+Dowiazania symboliczne w Linuxie:
+Zawieraja informacje o polozeniu pliku na dysku
+Musza miec rozszerzenie .ink
+Sa to pliki specjalne, ktore wskazuja przy pomocy sciezek na inne obiekty
