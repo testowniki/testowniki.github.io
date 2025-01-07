@@ -1,0 +1,4 @@
+X10
+Stronnicowanie pamieci pozwala implementowac liniowy model adresow logicznych w programie
+TAK
+NIE

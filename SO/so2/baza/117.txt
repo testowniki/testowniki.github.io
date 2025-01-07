@@ -1,0 +1,4 @@
+X01
+W semaforach dijkstry operacja sygnalizuj na tych semaforach moze usypiac procesy
+TAK
+NIE

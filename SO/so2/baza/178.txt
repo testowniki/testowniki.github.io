@@ -1,0 +1,4 @@
+X10
+Pamiec stronnicowania charakteryzuje sie tym, ze adres logiczny jest przeksztalcany na adres fizyczny przez odczytanie numeru ramki z tablicy stron, z pozycji odpowiadajacej numerowi strony
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Listy kontroli dostepu ACL w windows NT umozliwiaja zdefiniowanie obiektow, do ktorych dostep musi byc odnotowany
+TAK
+NIE

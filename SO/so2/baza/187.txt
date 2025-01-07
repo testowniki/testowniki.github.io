@@ -1,0 +1,4 @@
+X01
+Blokada systemu wystepuje tylko w systemach operacyjnych napisanych z bledami
+TAK
+NIE

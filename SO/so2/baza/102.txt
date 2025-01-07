@@ -1,0 +1,4 @@
+X01
+Plik MFT (Master file table) w systemie plikow NTFS zawiera kopie boot sektora
+TAK
+NIE

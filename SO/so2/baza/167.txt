@@ -1,0 +1,4 @@
+X01
+Stronnicowanie pamieci pozwala implementowac liniowy model adresow fizycznych w programie
+TAK
+NIE

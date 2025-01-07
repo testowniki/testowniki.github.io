@@ -1,0 +1,4 @@
+X01
+Stronnicowanie pamieci polega na przydziale do programu segmentow pamieci dowolnej wielkosci
+TAK
+NIE

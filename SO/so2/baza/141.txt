@@ -1,0 +1,4 @@
+X01
+Procesy charakteryzuja sie kontekstem, ktory okresla jakie procesy sa wykonywane wspolbieznie
+TAK
+NIE

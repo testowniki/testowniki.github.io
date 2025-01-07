@@ -1,0 +1,4 @@
+X01
+Kontekst procesu jest skladowany gdy proces sie konczy (wykonuje exit)
+TAK
+NIE

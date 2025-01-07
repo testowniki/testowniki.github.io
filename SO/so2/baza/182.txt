@@ -1,0 +1,4 @@
+X01
+Pamiec stronnicowania charakteryzuje sie tym, ze musi byc realizowa z wykorzystaniem pamieci asocjacyjnej na tablice stron
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Semafory binarne sluza do synchronizacji procesow wspolbieznych
+TAK
+NIE

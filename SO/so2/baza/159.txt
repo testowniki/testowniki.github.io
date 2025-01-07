@@ -1,0 +1,4 @@
+X01
+Stronnicowanie na zadanie to podstawowa technika przyspieszenia dostepu do pamieci
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Pamiec stronnicowania charakteryzuje sie tym, ze adresy logiczne sa tworzone jako suma adresu bazowego i przesuniecia
+TAK
+NIE

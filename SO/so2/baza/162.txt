@@ -1,0 +1,4 @@
+X10
+Stronnicowanie na zadanie wymaga dodatkowych pol w tablicy stron (np. flagi waznosci)
+TAK
+NIE

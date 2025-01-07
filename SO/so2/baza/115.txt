@@ -1,0 +1,4 @@
+X10
+Semafory binarne mozna uzywac do rozwiazywania dowolnych problemow synchronizacji procesow
+TAK
+NIE

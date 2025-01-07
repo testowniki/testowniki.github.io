@@ -1,0 +1,4 @@
+X01
+Pamiec stronnicowania charakteryzuje sie tym, ze jezeli strona nie ma przydzielonej ramki fizycznej, to wystepuje ablad stronyE; brak przydzialu jest oznaczony w tablicy stron bitem modyfikacji (modified flag)
+TAK
+NIE

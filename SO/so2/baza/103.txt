@@ -1,0 +1,4 @@
+X10
+Plik MFT (Master file table) w systemie plikow NTFS zawiera opis wszystkich plikow w systemie
+TAK
+NIE

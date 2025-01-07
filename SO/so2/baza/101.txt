@@ -1,0 +1,4 @@
+X10
+Plik MFT (Master file table) w systemie plikow NTFS zawiera listy ACL wszystkich plikow
+TAK
+NIE

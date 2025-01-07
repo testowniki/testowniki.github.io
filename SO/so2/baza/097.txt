@@ -1,0 +1,4 @@
+X01
+Listy kontroli dostepu ACL w windows NT pozwalaja definiowac klucze dostepu do zasobow
+TAK
+NIE

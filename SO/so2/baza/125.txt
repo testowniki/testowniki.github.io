@@ -1,0 +1,4 @@
+X10
+Semafory dijkstry mozna uzywac do rozwiazywania dowolnych problemow synchronizacji procesow
+TAK
+NIE

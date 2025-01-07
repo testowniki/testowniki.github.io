@@ -1,0 +1,4 @@
+X01
+Blokada systemu wystepuje, gdy dwa procesy probuja rownoczesnie pisac do tego samego pliku
+TAK
+NIE

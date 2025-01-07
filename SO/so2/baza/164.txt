@@ -1,0 +1,4 @@
+X10
+Stronnicowanie pamieci polega na przydziale do programu ramek pamieci o stalej wielkosci
+TAK
+NIE

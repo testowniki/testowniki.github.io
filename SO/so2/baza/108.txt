@@ -1,0 +1,4 @@
+X10
+Tablica FAT w systemie MS-DOS zastepuje mape zajetosci dysku
+TAK
+NIE

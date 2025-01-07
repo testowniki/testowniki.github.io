@@ -1,0 +1,4 @@
+X01
+Semafory binarne sluza do wyznaczania czasu w systemach czasu rzeczywistego
+TAK
+NIE

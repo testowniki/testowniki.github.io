@@ -1,0 +1,4 @@
+X01
+Semafory dijkstry to struktury danych do modelowania ruchu ulicznego
+TAK
+NIE

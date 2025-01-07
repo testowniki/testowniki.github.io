@@ -1,0 +1,4 @@
+X10
+Listy kontroli dostepu ACL w windows NT pozwalaja definiowac grupy uzytkownikow
+TAK
+NIE

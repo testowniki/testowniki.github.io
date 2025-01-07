@@ -1,0 +1,4 @@
+X01
+Tablica FAT w systemie MS-DOS zawiera osobna pozycje dla kazdego rekordu fizycznego (sektora) w partycji dysku
+TAK
+NIE

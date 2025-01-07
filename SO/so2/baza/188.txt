@@ -1,0 +1,4 @@
+X10
+Blokada systemu wystepuje tylko w systemach operacyjnych wieloprogramowych
+TAK
+NIE

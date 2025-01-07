@@ -1,0 +1,4 @@
+X10
+Semafory dijkstry sluza do synchronizacji procesow
+TAK
+NIE

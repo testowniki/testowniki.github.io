@@ -1,0 +1,4 @@
+X01
+Stronnicowanie pamieci wymaga tworzenia obrazu pamieci w obszarze wymiany na dysku
+TAK
+NIE

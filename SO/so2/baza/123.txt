@@ -1,0 +1,4 @@
+X10
+Semafory dijkstry sa to dane calkowitoliczbowe, na ktorych zdefiniowane sa operacje p i V
+TAK
+NIE

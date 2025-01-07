@@ -1,0 +1,4 @@
+X10
+Semafory dijkstry sa mechanizmem synchronizujacym dostep do plikow
+TAK
+NIE

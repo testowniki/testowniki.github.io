@@ -1,0 +1,4 @@
+X10
+Semafory binarne sa to dane jednobitowe, ktore mozna testowac, ustawiac i zerowac
+TAK
+NIE

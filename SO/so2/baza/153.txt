@@ -1,0 +1,4 @@
+X10
+Ochrona pamieci w systemach operacyjnych zapewnia, ze procesy uzytkowe nie moga zmodyfikowac obrazu pamieci systemu oper.
+TAK
+NIE

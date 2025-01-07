@@ -1,0 +1,4 @@
+X01
+Pamiec stronnicowania charakteryzuje sie tym, ze wymaga implementacji tablicy segmentow (sprzetowo lub programowo)
+TAK
+NIE

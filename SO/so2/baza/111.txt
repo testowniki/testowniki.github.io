@@ -1,0 +1,4 @@
+X01
+Semafory binarne sluza do blokowania dostepu do dysku w trybie binarnym (nie znakowym)
+TAK
+NIE

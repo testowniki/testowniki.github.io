@@ -1,0 +1,4 @@
+X01
+Semafory dijkstry sa to flagi dwustanowe, na ktorych zdefiniowane sa nieprzerywalne operacje p i V
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Plik MFT (Master file table) w systemie plikow NTFS zawiera tablice partycji dysku
+TAK
+NIE

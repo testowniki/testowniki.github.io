@@ -1,0 +1,4 @@
+X01
+Plik MFT (Master file table) w systemie plikow NTFS sluzy do okreslania warunkow logowania uzytkownikow do sytemu
+TAK
+NIE

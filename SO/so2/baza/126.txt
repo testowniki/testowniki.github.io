@@ -1,0 +1,4 @@
+X01
+Semafory dijkstry w ich implementacji stosuje sie petle goracego czekania
+TAK
+NIE

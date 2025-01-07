@@ -1,0 +1,4 @@
+X01
+Ochrona pamieci w systemach operacyjnych bazuje na szyfrowaniu zawartosci pamieci
+TAK
+NIE

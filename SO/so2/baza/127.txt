@@ -1,0 +1,4 @@
+X01
+Kontekst procesu okresla wszystkie zasoby, z ktorych moze proces korzystac
+TAK
+NIE

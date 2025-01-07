@@ -1,0 +1,4 @@
+X01
+Stronnicowanie na zadanie polega na buforowaniu stron pamieci w pamieci podrecznej cache
+TAK
+NIE

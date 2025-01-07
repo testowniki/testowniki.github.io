@@ -1,0 +1,4 @@
+X01
+Kontekst procesu jest odtwarzany przy kazdym przelaczeniu procesow
+TAK
+NIE

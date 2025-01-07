@@ -1,0 +1,4 @@
+X01
+Kontekst procesu opisuje zaleznosc pomiedzy wspolbieznymi procesami
+TAK
+NIE

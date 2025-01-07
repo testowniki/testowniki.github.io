@@ -1,0 +1,4 @@
+X01
+Kontekst procesu jest to miedzy innymi obraz pamieci procesu w chwili wstrzymania
+TAK
+NIE

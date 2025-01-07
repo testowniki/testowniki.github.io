@@ -1,0 +1,4 @@
+X10
+Powloka systemu operacyjnego pozwala na edytowanie linii komendy
+TAK
+NIE

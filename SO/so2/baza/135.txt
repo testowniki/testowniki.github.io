@@ -1,0 +1,4 @@
+X01
+Kontekst procesu jest to obraz plikow otwartych przez proces w pewnej chwili
+TAK
+NIE

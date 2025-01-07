@@ -1,0 +1,4 @@
+X10
+Ochrona pamieci w systemach operacyjnych bazuje na przeksztalcaniu adresow logicznych na fizyczne, kontrolowanym przez sO
+TAK
+NIE

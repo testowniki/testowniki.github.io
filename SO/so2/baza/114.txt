@@ -1,0 +1,4 @@
+X01
+Semafory binarne sa to dane calkowitoliczbowe z zakresu 0 - 2n (n>1) z niepodzielnymi operacjami p i V
+TAK
+NIE

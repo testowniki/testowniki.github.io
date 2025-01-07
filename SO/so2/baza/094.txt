@@ -1,0 +1,4 @@
+X01
+Listy kontroli dostepu ACL w windows NT sluza do okreslania warunkow logowania uzytkownikow do systemu
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Procesy charakteryzuja sie sekwencyjnym wykonywaniem operacji
+TAK
+NIE

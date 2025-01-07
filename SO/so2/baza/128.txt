@@ -1,0 +1,4 @@
+X01
+Kontekst procesu okresla wszystkie procesy, z ktorymi moze sie komunikowac
+TAK
+NIE

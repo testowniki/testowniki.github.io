@@ -1,0 +1,4 @@
+X01
+Stronnicowanie na zadanie polega na skladowaniu na dysk calego obrazu pamieci zablokowanego procesu
+TAK
+NIE

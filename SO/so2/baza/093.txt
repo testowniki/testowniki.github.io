@@ -1,0 +1,4 @@
+X10
+Powloka systemu operacyjnego pozwala na przegladanie historii wykonywanych komend
+TAK
+NIE

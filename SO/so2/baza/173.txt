@@ -1,0 +1,4 @@
+X01
+Pamiec stronnicowania charakteryzuje sie tym, ze oznaczony w tablicy stron flaga poprawnosci (valid)
+TAK
+NIE

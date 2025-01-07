@@ -1,0 +1,4 @@
+X01
+Proces moze przejsc do stanu gotowosci w wyniku wykonania funkcji exit (w unixie)
+TAK
+NIE

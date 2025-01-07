@@ -1,0 +1,4 @@
+X01
+Semafory dijkstry sa mechanizmem ograniczajacym dostep do plikow
+TAK
+NIE

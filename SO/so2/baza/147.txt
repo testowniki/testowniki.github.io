@@ -1,0 +1,4 @@
+X10
+Proces moze przejsc do stanu zablokowania (uspienia) po wyczerpaniu kwantu czasu aktywnosci (w systemie z algorytmem karuzelowym)
+TAK
+NIE

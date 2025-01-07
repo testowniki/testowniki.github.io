@@ -1,0 +1,4 @@
+X10
+Pamiec stronnicowania charakteryzuje sie tym, ze jezeli strona nie ma przydzielonej ramki fizycznej, to wystepuje ablad stronyE; brak przydzialu jest
+TAK
+NIE

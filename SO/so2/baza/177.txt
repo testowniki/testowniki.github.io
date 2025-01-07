@@ -1,0 +1,4 @@
+X10
+Pamiec stronnicowania charakteryzuje sie tym, ze jest technika pozwalajaca przydzielac programom pamiec blokami stalej wielkosci (stronami)
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Procesy charakteryzuja sie mozliwoscia przerywania i wznawiania wykonania (wedlug skladowanego kontekstu)
+TAK
+NIE

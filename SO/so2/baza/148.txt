@@ -1,0 +1,4 @@
+X01
+Proces moze przejsc do stanu zablokowania (uspienia) w wyniku wykonania funkcji exit (w unixie)
+TAK
+NIE

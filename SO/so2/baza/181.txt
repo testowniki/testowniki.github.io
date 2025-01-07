@@ -1,0 +1,4 @@
+X01
+Pamiec stronnicowania charakteryzuje sie tym, ze Eliminuje fragmentacje wewnetrzna pamieci
+TAK
+NIE

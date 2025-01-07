@@ -1,0 +1,4 @@
+X10
+Blokade systemu mozna usunac przez wymuszenie zakonczenia wszystkich procesow uspionych
+TAK
+NIE

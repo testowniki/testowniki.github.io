@@ -1,0 +1,4 @@
+X01
+Proces moze przejsc do stanu zablokowania (uspienia) bezposrednio ze stanu gotowosci
+TAK
+NIE

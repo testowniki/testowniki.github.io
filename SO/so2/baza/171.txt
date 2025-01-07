@@ -1,0 +1,4 @@
+X10
+Pamiec stronnicowania charakteryzuje sie tym, ze adres logiczny jest zlozeniem numeru strony i przesuniecia wzgledem jej poczatku
+TAK
+NIE

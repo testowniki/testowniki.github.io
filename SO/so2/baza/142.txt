@@ -1,0 +1,4 @@
+X10
+Procesy charakteryzuja sie zlozonoscia obliczeniowa, wyrazona np. przez liczbe petli, skokow i rozgalezien (Nie wiadomo do konca)
+TAK
+NIE

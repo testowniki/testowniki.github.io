@@ -1,0 +1,4 @@
+X01
+Semafory binarne sa to struktury danych do modelowania ruchu ulicznego
+TAK
+NIE

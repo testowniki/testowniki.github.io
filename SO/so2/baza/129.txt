@@ -1,0 +1,4 @@
+X10
+Kontekst procesu okresla zawartosc rejestrow, z ktorych proces moze korzystac
+TAK
+NIE

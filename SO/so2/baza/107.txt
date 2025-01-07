@@ -1,0 +1,4 @@
+X01
+Tablica FAT w systemie MS-DOS pozwala przydzielac rekordy rezerwowe w miejsce uszkodzonych
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Ochrona pamieci w systemach operacyjnych ogranicza dostep procesow do pamieci im nie przydzielonej
+TAK
+NIE

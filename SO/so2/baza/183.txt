@@ -1,0 +1,4 @@
+X10
+Pamiec stronnicowania charakteryzuje sie tym, ze powoduje, ze programy maja nieliniowa przestrzen adresowa (fizyczna tak, logiczna nie)
+TAK
+NIE

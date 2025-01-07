@@ -1,0 +1,4 @@
+X10
+Kontekst procesu obejmuje informacje konieczne do wznowienia procesu wstrzymanego
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Listy kontroli dostepu ACL w windows NT sluza do okreslania warunkow dostepu do plikow dla roznych uzytkownikow
+TAK
+NIE

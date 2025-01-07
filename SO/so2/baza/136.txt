@@ -1,0 +1,4 @@
+X01
+Kontekst procesu jest to obraz pamieci, rejestrow i zmiennych systemowych procesu w pewnej chwili
+TAK
+NIE

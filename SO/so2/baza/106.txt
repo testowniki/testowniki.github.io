@@ -1,0 +1,4 @@
+X10
+Tablica FAT w systemie MS-DOS zawiera informacje o defektach nosnika w pamieci dyskowej
+TAK
+NIE

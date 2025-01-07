@@ -1,0 +1,4 @@
+X10
+Pamiec stronnicowania charakteryzuje sie tym, ze adresy fizyczne sa sklejeniem pary liczb okreslajacych numer ramki stalej dlugosci oraz przesuniecia (offset) w obrebie ramki
+TAK
+NIE

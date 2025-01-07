@@ -1,0 +1,4 @@
+X10
+Powloka systemu operacyjnego okresla zmienne srodowiskowe dla uruchamianych komend
+TAK
+NIE

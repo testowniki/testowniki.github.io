@@ -1,0 +1,4 @@
+X10
+W semaforach dijkstry operacja czekaj na tych semaforach zawsze usypia procesy
+TAK
+NIE
