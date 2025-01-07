@@ -1,0 +1,6 @@
+X0101
+Tablica FAT w systemie MS-DOS
+Zawiera osobna pozycje dla kazdego rekordu fizycznego (sektora) w partycji dysku
+Zawiera informacje o defektach nosnika w pamieci dyskowej
+Pozwala przydzielac rekordy rezerwowe w miejsce uszkodzonych
+Zastepuje mape zajetosci dysku

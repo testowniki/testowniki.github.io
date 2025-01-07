@@ -1,0 +1,8 @@
+X011110
+Planowanie srednioterminowe
+Wymaga architektury wieloprocesorowej
+Bezposrednio decyduje o wyborze procesow, ktore nalezy wczytac do pamieci
+Okresla procesy, ktore nalezy zablokowac
+Polega na wyborze procesu, ktory ma zostac usuniety z pamieci op
+To wybor zadania, ktore w pierwszej kolejnosci powinno zostac wczytane do pamieci op (nie wiadomo, dalem jako prawda)
+Musi byc zaimplementowane w kazdym wieloprogramowym SO

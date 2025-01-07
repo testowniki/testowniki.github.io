@@ -1,0 +1,5 @@
+X010
+Algorytm LRU zastepowania stron pamieci wirtualnej:
+Polega na usuwaniu najdluzej zaladowanych stron
+Zapewnia dobre dostosowanie do zestawu roboczego stron
+Zapewnia zawsze najmniejsza liczbe bledow stron (w porownaniu z innymi algorytmami)

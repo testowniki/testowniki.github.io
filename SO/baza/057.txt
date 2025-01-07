@@ -1,0 +1,7 @@
+X00111
+Systemy wielodostepne
+Wymagaja architektury wieloprocesorowej
+Wymagaja architektury jednoprocesorowej
+Pozwalaja na wykonywanie wielu zadan wspolbieznie
+Pozwalaja na wspolbiezne przetwarzanie wielu procesow (jednego lub wielu uzytkownikow)
+Zapewniaja dostep wszystkich uzytkownikow do identycznych danych

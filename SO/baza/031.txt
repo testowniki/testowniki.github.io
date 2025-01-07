@@ -1,0 +1,5 @@
+X001
+Proces moze przejsc do stanu gotowosci
+Po wyczerpaniu kwantu czasu aktywnosci (w systemie z algorytmem karuzelowym)
+W wyniku wykonania funkcji exit (w Unixie)
+Bezposrednio ze stanu zablokowania

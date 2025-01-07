@@ -1,0 +1,5 @@
+X100
+Wspolbieznosc w systemach operacyjnych
+Realizowana jest przez przelaczanie procesow, tzn. wstrzymywanie procesow co pewien czas i pre innych
+W powloce sh mozna ja wywolac wypisujac dwie komendy w nawiasach okraglych, rozdzielone przecinkami
+Dostepna jest tylko w systemach wieloprocesorowych

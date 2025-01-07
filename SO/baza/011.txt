@@ -1,0 +1,6 @@
+X0001
+Planowanie krotkoterminowe
+Wymaga architektury wieloproces orowej
+Bezposrednio decyduje o wyborze procesow, ktore nalezy wczytac do pamieci
+Okresla procesy, ktore nalezy zablokowac
+zadna z powyzszych odpowiedzi nie jest prawdziwa

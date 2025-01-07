@@ -1,0 +1,6 @@
+X1111
+W hierarchicznym systemie plikow
+wystepuje jeden katalog glowny
+Okreslona jest dokladnie jedna sciezka bezwzgledna do pliku
+Wystepuja sciezki wzgledne i bezwzgledne dostepu do plikow
+Moga wystepowac wielokrotne dowiazania twarde do pliku

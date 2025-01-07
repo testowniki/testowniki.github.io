@@ -1,0 +1,5 @@
+X111
+Kryteriami rozwiazanie problemu sekcji krytycznej sa
+Wzajemne wylaczanie - procesy musza miec mozliwosc wzajemnego blokowania
+Postep - dostep do sekcji nie moze byc zablokowany, jezeli nie przebywa w niej inny
+Ograniczone czekanie - kazdy proces musi kiedys dostac sie do sekcji

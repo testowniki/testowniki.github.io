@@ -1,0 +1,9 @@
+X0011000
+Kontekst procesu
+Okresla wszystkie zasoby, z ktorych moze proces korzystac
+Okresla wszystkie procesy, z ktorymi moze sie komunikowac
+Okresla zawartosc rejestrow, z ktorych proces moze korzystac
+Obejmuje informacje konieczne do wznowienia procesu zablokowanego
+Obejmuje informacje konieczne do ustalenia procesu nadrzednego
+Jest to obraz pamieci procesu w pewnej chwili
+Jest to miedzy innymi obraz pamieci procesu w chwili wstrzymania
